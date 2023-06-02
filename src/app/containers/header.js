@@ -5,7 +5,7 @@ function Header() {
 
   return <header>
     <Navbar />
-    <Image className='header-image' src="./test.jpg" alt="Logo" width={1500} height={790} />
+    <Image className='header-image' src="/test.jpg" alt="Logo" width={1500} height={790} />
     <div className='overlay-header'></div>
     <div className='header-text'>
       <h1>Balneario Reta</h1>
