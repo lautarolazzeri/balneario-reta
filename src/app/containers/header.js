@@ -5,7 +5,7 @@ function Header() {
 
   return <header>
     <Navbar />
-    <Image className='header-image' src="/playa-de-reta (1).jpg" alt="Logo" width={1500} height={790} />
+    <Image className='header-image' src="https://getpaidstock.com/tmp/[GetPaidStock.com]-647a0c5c7fa64.jpg" alt="Logo" width={1500} height={790} />
     <div className='overlay-header'></div>
     <div className='header-text'>
       <h1>Balneario Reta</h1>

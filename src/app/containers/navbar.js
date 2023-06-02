@@ -6,7 +6,6 @@ function Nav() {
   return (
     <>
       <div>
-
         <div className="cont-navbar">
           <div className="logo">
             <Image src="/favicon.ico" width={60} height={60} />
