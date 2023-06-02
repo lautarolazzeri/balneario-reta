@@ -3,6 +3,8 @@
 --primary-color: #CF402A;
   --linear-gradient: linear-gradient(to right, #CF402A, #E87C3B);
   --border-radius: 16px;
+  --margin: 0 74px 0 74px;
+    /*Agregar 1rem mas */
 }
 
 /*
@@ -254,7 +256,7 @@ Cards styles
 */
 
 .cards {
-margin: 0 74px 0 74px;
+margin: var(--margin);
   display: flex;
 }
 
@@ -370,7 +372,7 @@ margin-bottom: 1rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0 74px 0 74px;
+  padding-left: 1rem;
 }
 
 .text-alquileres {
@@ -412,4 +414,101 @@ margin-bottom: 1rem;
   background: var(--linear-gradient);
   margin-right: 1rem;
   cursor: pointer;
+}
+.alquileres {
+  margin: var(--margin);
+}
+
+.alquileres-container {
+  margin-top: 2rem;
+}
+
+.alquileres-card {
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  border-radius: 16px;
+}
+
+.alquileres-card-image img {
+  border-radius: 16px;
+}
+
+.alquileres-card-text h3 {
+  font-size: 1.2rem;
+  margin-top: .5rem;
+  font-weight: 700;
+  margin-bottom: .2rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.cant-personas {
+  font-size: .9rem;
+  font-weight: 100;
+  margin-bottom: .3rem;
+  margin-top: .5rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.direction {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: .3rem;
+  font-family: 'Inter', sans-serif;
+  margin-top: .5rem;
+}
+
+.contact {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.whatsapp-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: .5rem;
+  background: var(--linear-gradient);
+  border-radius: 8px;
+  color: white;
+}
+
+.whatsapp-contact img {
+  width: 20px;
+  margin-right: .4rem;
+}
+
+.phone-contact {
+  margin-left: .5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: .5rem;
+  background: #E9E8E8;
+  border-radius: 8px;
+  color: black;
+  height: 40px;
+}
+
+.phone-contact img {
+  margin-right: .4rem;
+}
+
+
+
+
+.mySwiper {
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+}
+
+.mySwiper swiper-slide {
+  display: flex;
+}
+
+.mySwiper swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
 }

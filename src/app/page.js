@@ -3,6 +3,9 @@ import '../../styles/globals.css'
 import Header from './containers/header'
 import Cards from './containers/cards'
 import Link from 'next/link'
+import Script from 'next/script'
+import SliderMaxWidth from './containers/alquileres/slider-max'
+import SliderMinWidth from './containers/alquileres/slider-min'
 
 
 export default function Home() {
@@ -11,7 +14,7 @@ export default function Home() {
     <>
       <Header />
       <Cards />
-      <section>
+      <section className='alquileres'>
         <div className='alquileres-top'>
           <div className='text-alquileres'>
             <h1>Alquileres en Balneario Reta</h1>
@@ -26,7 +29,42 @@ export default function Home() {
             </div>
           </Link>
         </div>
+        <div className='alquileres-container'>
+
+          {/* <SliderMaxWidth /> */}
+          <SliderMinWidth />
+
+        </div>
       </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />      <br />
+      <br />
+      <br />
+      <br />
+      <br />      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
     </>
   )
 }

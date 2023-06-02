@@ -24,9 +24,6 @@ function Nav() {
         <div>
           <Sidebar />
         </div>
-        <div className="fixed">
-          <Image src="/favicon.ico" width={60} height={60} />
-        </div>
       </div>
 
     </>
