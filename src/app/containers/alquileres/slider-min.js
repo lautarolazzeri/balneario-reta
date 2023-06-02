@@ -5,7 +5,7 @@ const { default: Script } = require("next/script");
 function SliderMinWidth() {
   return (
     <>
-      <swiper-container class="mySwiper" pagination="true" space-between="30"
+      <swiper-container class="mySwiper" pagination="true" pagination-clickable="true" space-between="30"
         slides-per-view="1.4">
 
         <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' />

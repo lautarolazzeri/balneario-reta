@@ -378,7 +378,9 @@ margin-bottom: 1rem;
 .text-alquileres {
   width: 80%;
 }
-
+.alquileres-card {
+  margin-bottom: 2rem;
+}
 .text-alquileres h1 {
   font-size: 2.2rem;
   font-weight: 600;
@@ -511,4 +513,82 @@ margin-bottom: 1rem;
   display: block;
   width: 100%;
   height: 100%;
+}
+.desktop {
+  display: none;
+}
+
+.slider900 {
+  display: none;
+}
+
+.slider768 {
+  display: none;
+}
+
+.mobile {
+  display: none;
+}
+
+
+
+@media (max-width: 768px) {
+  .alquileres-top {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .button-alquileres {
+    margin-top: 1rem;
+  }
+
+  .alquileres {
+    margin: 0 1rem 0 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .mobile {
+    display: block;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 768px) {
+  .slider768 {
+    display: block;
+  }
+
+}
+
+@media (min-width: 769px) and (max-width: 900px) {
+  .slider900 {
+    display: block;
+  }
+
+  .text-alquileres h1 {
+    font-size: 2rem;
+  }
+
+  .alquileres {
+    margin: 0 1rem 0 1rem;
+  }
+}
+
+@media (min-width: 901px) and (max-width: 1024px) {
+  .slider900 {
+    display: block;
+  }
+}
+
+@media (min-width: 1025px) {
+  .desktop {
+    display: block;
+  }
+}
+
+@media (max-width: 500px) {
+  .text-alquileres h1 {
+    font-size: 1.8rem;
+    margin-bottom: .4rem;
+  }
 }

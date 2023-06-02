@@ -6,6 +6,8 @@ import Link from 'next/link'
 import Script from 'next/script'
 import SliderMaxWidth from './containers/alquileres/slider-max'
 import SliderMinWidth from './containers/alquileres/slider-min'
+import Slider900 from './containers/alquileres/slider-900'
+import Slider768 from './containers/alquileres/slider-768'
 
 
 export default function Home() {
@@ -32,7 +34,10 @@ export default function Home() {
         <div className='alquileres-container'>
 
           {/* <SliderMaxWidth /> */}
-          <SliderMinWidth />
+          <div className='desktop'> <SliderMaxWidth /></div>
+          <div className='slider900'> <Slider900 /></div>
+          <div className='slider768'> <Slider768 /></div>
+          <div className='mobile'> <SliderMinWidth /></div>
 
         </div>
       </section>
