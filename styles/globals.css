@@ -592,3 +592,6 @@ margin-bottom: 1rem;
     margin-bottom: .4rem;
   }
 }
+.swiper-pagination-bullet-active {
+  background: red !important;
+}
