@@ -718,3 +718,26 @@ margin-bottom: 1rem;
   margin: var(--margin);
   margin-top: 5rem;
 }
+.tourism-card {
+  margin-bottom: 2rem;
+  width: 350px;
+}
+
+.tourism-carousel {
+  margin-top: 1rem;
+}
+
+.tourism-card-image {
+  height: 500px;
+}
+
+.tourism-card-image img {
+  border-radius: 16px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.littledown {
+  margin-top: 3rem;
+}
