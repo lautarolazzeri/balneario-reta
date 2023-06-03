@@ -3,6 +3,7 @@ import SliderMaxWidth from "../components/alquileres/slider-max";
 import Slider900 from "../components/alquileres/slider-900";
 import Slider768 from "../components/alquileres/slider-768";
 import SliderMinWidth from "../components/alquileres/slider-min";
+import GradientSection from "../components/gradient-section";
 
 const { default: Link } = require("next/link");
 
