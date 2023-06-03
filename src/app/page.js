@@ -9,6 +9,7 @@ import SliderMinWidth from './components/alquileres/slider-min'
 import Slider900 from './components/alquileres/slider-900'
 import Slider768 from './components/alquileres/slider-768'
 import Alojamientos from './containers/alojamiento'
+import Information from './containers/information'
 
 
 export default function Home() {
@@ -18,9 +19,9 @@ export default function Home() {
       <Header />
       <Cards />
       <Alojamientos />
+      <Information />
 
 
-      
 
 
 
