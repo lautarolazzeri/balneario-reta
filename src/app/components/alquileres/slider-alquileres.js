@@ -12,6 +12,29 @@ function SliderMaxWidth() {
       spaceBetween: 30,
       slidesPerView: 3.3,
       paginationClickable: true,
+      breakpoints: {
+        901: {
+          slidesPerView: 3.3,
+        },
+        900: {
+          slidesPerView: 3,
+        },
+        768: {
+          slidesPerView: 2.3,
+        },
+        767: {
+          slidesPerView: 2.3,
+        },
+        600: {
+          slidesPerView: 1.5,
+        },
+        460: {
+          slidesPerView: 1.2,
+        },
+        310: {
+          slidesPerView: 1,
+        }
+      },
       injectStyles: [
         `
           .swiper-pagination-bullet{
