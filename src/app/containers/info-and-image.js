@@ -1,6 +1,6 @@
 const { default: Image } = require("next/image");
 
-function Information() {
+function InfoAndImage() {
   return (
     <section className='info'>
       <div className='container-info'>
@@ -18,4 +18,4 @@ function Information() {
   )
 }
 
-export default Information
+export default InfoAndImage

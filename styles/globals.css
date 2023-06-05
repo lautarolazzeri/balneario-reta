@@ -639,6 +639,7 @@ margin-bottom: 1rem;
   font-size: 1.7rem;
   font-weight: 600;
   margin-bottom: 1rem;
+  font-family: 'Inter';
 }
 
 @media (max-width: 1024px) {
@@ -864,5 +865,32 @@ margin-bottom: 1rem;
 
   .grid-item {
     height: auto;
+  }
+}
+
+.inverse {
+  margin-left: 0;
+  padding-right: 2rem;
+}
+
+.inverse-image {
+  width: 65%;
+  height: 100%;
+}
+
+.inverse-image img {
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .inverse {
+    margin-left: 0;
+    padding-right: 0;
+  }
+
+  .inverse-image {
+    margin-top: 1rem;
+    width: 100%;
+    height: 250px;
   }
 }
