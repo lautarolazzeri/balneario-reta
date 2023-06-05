@@ -2,13 +2,14 @@ import Image from "next/image"
 import Link from "next/link"
 
 function GradientSection(props) {
+  const { title, subtitle, url } = props;
   return (
     <div className='alquileres-top'>
       <div className='text-alquileres'>
-        <h1>{props.title}</h1>
-        <p>{props.subtitle}</p>
+        <h1>{title}</h1>
+        <p>{subtitle}</p>
       </div>
-      <Link href={props.url}>
+      <Link href={url}>
         <div className='button-alquileres'>
           <p>Ver todos</p>
           <div className='arrow-container'>

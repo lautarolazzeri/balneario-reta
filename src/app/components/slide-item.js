@@ -2,24 +2,25 @@ import Image from "next/image"
 import Link from "next/link"
 
 function SliderItem(props) {
+  const { title, people, location, wsp, tel, image } = props;
   return (
     <swiper-slide>
       <div className='alquileres-card'>
         <div className='alquileres-card-image'>
-          <Image src='/a.jpg' width={300} height={200} />
+          <Image src={image} width={300} height={200} />
         </div>
         <div className='alquileres-card-text'>
-          <h3>{props.title}</h3>
-          <p className='cant-personas'>{props.people}</p>
-          <p className='direction'>{props.location}</p>
+          <h3>{title}</h3>
+          <p className='cant-personas'>{people}</p>
+          <p className='direction'>{location}</p>
           <div className='contact'>
-            <Link href='#'>
+            <Link href={wsp}>
               <div className='whatsapp-contact'>
                 <Image src='/svg/whatsapp.svg' width={20} height={20} />
                 <p>Whatsapp</p>
               </div>
             </Link>
-            <Link href='#'>
+            <Link href={tel}>
               <div className='phone-contact'>
                 <Image src='/svg/phone.svg' width={20} height={20} />
                 <p>Llamar</p>

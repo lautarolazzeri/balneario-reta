@@ -53,14 +53,14 @@ function SliderMaxWidth() {
     <>
       <swiper-container class="mySwiper" ref={swiperRef} init='false'>
 
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' />
-        <SliderItem title='asdasd' people='3,4,5 persoas' location='asdnaksn daksnk' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' />
+        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/1.jpg' />
+        <SliderItem title='asdasd' people='3,4,5 persoas' location='asdnaksn daks' wsp='#' tel='#' image='/test/2.jpg' />
+        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/3.jpg' />
+        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/4.jpg' />
+        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/5.jpg' />
+        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/6.jpg' />
+        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/7.webp' />
+        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/8.webp' />
       </swiper-container>
       <Script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></Script>
     </>

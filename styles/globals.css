@@ -434,9 +434,18 @@ margin-bottom: 1rem;
   width: 400px;
   border-radius: 16px;
 }
+.alquileres-card-image {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
 
 .alquileres-card-image img {
+  width: 100%;
+    height: 100%;
   border-radius: 16px;
+  object-fit: cover;
 }
 
 .alquileres-card-text h3 {
@@ -596,7 +605,7 @@ margin-bottom: 1rem;
   }
 }
 .text-alquileres {
-  width: 100%;
+  width: 80%;
 }
 .info {
   padding-left: 1rem;
@@ -749,7 +758,7 @@ margin-bottom: 1rem;
 }
 
 .littledown {
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 .tourism-card-text {
   margin-top: 1rem;
@@ -769,17 +778,16 @@ margin-bottom: 1rem;
 @media (max-width: 768px) {
   .tourism {
     margin: 1rem;
-  }
+}
 
-  .info {
-    padding: 0;
-    margin: 2rem;
-    margin-bottom: 3rem;
-  }
-
-  .tourism-carousel {
-    margin-top: -2rem;
-  }
+.littledown {
+  margin-top: 0rem;
+}
+.info {
+  padding: 0;
+  margin: 2rem;
+  margin-bottom: 3rem;
+}
 }
 .grid-info {
   margin: var(--margin);
