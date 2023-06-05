@@ -72,17 +72,17 @@ function Tourism() {
 
           <SlideTourism title="Palmera's Center" location='1km' image='/svg/palmeras.svg' url='#' />
 
-          <SlideTourism title='La Usina - Puente Viejo' location='37km' image='/svg/usina.svg' url='#' a='littledown' />
+          <SlideTourism title='La Usina - Puente Viejo' location='37km' image='/svg/usina.svg' url='#' littledown='littledown' />
 
           <SlideTourism title='Cascada Cifuentes' location='51km' image='/svg/cifuentes.svg' url='#' />
 
 
-          <SlideTourism title='Cueva del Tigre' location='63km' image='/svg/cueva-del-tigre.svg' url='#' a='littledown' />
+          <SlideTourism title='Cueva del Tigre' location='63km' image='/svg/cueva-del-tigre.svg' url='#' littledown='littledown' />
 
 
           <SlideTourism title='Cascada del Águila' location='63km' image='/svg/cueva-del-tigre.svg' url='#' />
 
-          <SlideTourism title='Cascada del Águila' location='63km' image='/svg/cueva-del-tigre.svg' url='#' a='littledown' />
+          <SlideTourism title='Cascada del Águila' location='63km' image='/svg/cueva-del-tigre.svg' url='#' littledown='littledown' />
 
 
           <SlideTourism title='Cascada del Águila' location='63km' image='/svg/cueva-del-tigre.svg' url='#' />
