@@ -8,6 +8,7 @@ import Tourism from './containers/toursim'
 import GridInfo from './containers/grid-info'
 import InfoAndImage from './containers/info-and-image'
 import InforAndImageInverse from './containers/info-and-image-inverse'
+import Services from './containers/servicios'
 
 register();
 export default function Home() {
@@ -20,7 +21,7 @@ export default function Home() {
       <Tourism />
       <GridInfo />
       <InforAndImageInverse />
-
+      <Services />
 
 
       <br />

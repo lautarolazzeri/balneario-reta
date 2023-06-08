@@ -830,13 +830,18 @@ margin-bottom: 1rem;
   padding: 1rem;
   border-radius: 8px;
   font-size: 1rem;
-  background-color: white;
+  background: white;
   border: 1px solid #CF402A;
   color: var(--primary-color);
   font-weight: 500;
   cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 
+.grid-item button:hover {
+  background-color: #CF402A;
+  color: white;
+}
 @media (max-width: 990px) {
 
   .grid-item {
@@ -893,4 +898,52 @@ margin-bottom: 1rem;
     width: 100%;
     height: 250px;
   }
+}
+.services {
+  margin: var(--margin);
+  margin-top: 5rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.services-top {
+  margin-bottom: 2rem;
+}
+
+.services-top h1 {
+  margin-bottom: 1rem;
+}
+
+.services-top h3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.grid-services {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1.5rem;
+  column-gap: 2.5rem;
+}
+
+.button-services {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  background: white;
+  border: 1px solid #CF402A;
+  color: var(--primary-color);
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.button-services:hover {
+  background: var(--linear-gradient);
+  color: white;
 }
