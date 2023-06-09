@@ -9,6 +9,7 @@ import GridInfo from './containers/grid-info'
 import InfoAndImage from './containers/info-and-image'
 import InforAndImageInverse from './containers/info-and-image-inverse'
 import Services from './containers/servicios'
+import Imagenes from './containers/imagenes'
 
 register();
 export default function Home() {
@@ -22,7 +23,7 @@ export default function Home() {
       <GridInfo />
       <InforAndImageInverse />
       <Services />
-
+      <Imagenes />
 
       <br />
       <br />
