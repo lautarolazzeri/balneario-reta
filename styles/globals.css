@@ -947,3 +947,50 @@ margin-bottom: 1rem;
   background: var(--linear-gradient);
   color: white;
 }
+@media (max-width: 1024px) {
+  .grid-services {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .grid-services {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .services {
+    margin: 1rem;
+  }
+
+  .services-top {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .grid-services {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .item-serv-image {
+    width: 100%;
+  }
+
+  .grid-services {
+    width: 100%;
+  }
+
+  .services-item {
+    width: 100%;
+  }
+
+  .item-serv-image img {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+  }
+
+  .services-item p {
+    font-size: 1.3rem;
+  }
+}
