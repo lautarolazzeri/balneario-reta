@@ -11,6 +11,7 @@ import InforAndImageInverse from './containers/info-and-image-inverse'
 import Services from './containers/servicios'
 import Imagenes from './containers/imagenes'
 import CtaSection from './containers/cta-section'
+import Footer from './containers/footer'
 
 register();
 export default function Home() {

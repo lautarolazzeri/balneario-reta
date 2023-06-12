@@ -1109,3 +1109,31 @@ margin-bottom: 1rem;
 .cta-section button p {
   font-size: 1rem;
 }
+@media (max-width: 768px) {
+
+  .cta-section,
+  .cta-images {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .cta-images button,
+  .cta-section button {
+    margin-top: 1rem;
+  }
+
+  .cta-section {
+    padding: 5rem 1rem;
+    margin-top: 1rem;
+  }
+
+  .cta-section p {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .cta-section p {
+    font-size: 1.2rem;
+  }
+}
