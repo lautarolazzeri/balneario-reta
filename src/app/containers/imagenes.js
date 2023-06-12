@@ -1,5 +1,6 @@
 import Image from "next/image"
 import GradientSection from "../components/gradient-section"
+import Link from "next/link"
 
 function Imagenes() {
   return (
@@ -20,6 +21,14 @@ function Imagenes() {
         <Image src="/svg/reta/10.svg" width={300} height={300} />
         <Image src="/svg/reta/11.svg" width={300} height={300} />
         <Image src="/svg/reta/12.svg" width={300} height={300} />
+      </div>
+      <div className="cta-images">
+        <h3>Ver todas las imágenes de Balneario Reta</h3>
+        <Link href="#">
+          <button>
+            <p>Ver todas</p>
+          </button>
+        </Link>
       </div>
     </div>
   )

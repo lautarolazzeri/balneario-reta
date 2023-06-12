@@ -1036,3 +1036,48 @@ margin-bottom: 1rem;
     grid-template-columns: repeat(1, 1fr);
   }
 }
+.cta-images {
+  margin: 1rem;
+  margin-top: 3rem;
+  padding: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cta-images h3 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  background: #fff;
+  mix-blend-mode: multiply;
+  position: relative;
+}
+
+.cta-images h3::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background: var(--linear-gradient);
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.cta-images button {
+  padding: .7rem 1.5rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  background: white;
+  border: 1px solid #CF402A;
+  color: var(--primary-color);
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.cta-images button:hover {
+  background: var(--linear-gradient);
+  color: white;
+}
