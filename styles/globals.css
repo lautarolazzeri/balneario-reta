@@ -1081,3 +1081,31 @@ margin-bottom: 1rem;
   background: var(--linear-gradient);
   color: white;
 }
+.cta-section {
+  margin-top: 3rem;
+  padding: 7rem 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #FFFAF7;
+}
+
+.cta-section p {
+  width: 70%;
+  font-size: 1.6rem;
+}
+
+.cta-section button {
+  padding: .7rem 1rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  background: #CF402A;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.cta-section button p {
+  font-size: 1rem;
+}

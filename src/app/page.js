@@ -10,6 +10,7 @@ import InfoAndImage from './containers/info-and-image'
 import InforAndImageInverse from './containers/info-and-image-inverse'
 import Services from './containers/servicios'
 import Imagenes from './containers/imagenes'
+import CtaSection from './containers/cta-section'
 
 register();
 export default function Home() {
@@ -24,7 +25,7 @@ export default function Home() {
       <InforAndImageInverse />
       <Services />
       <Imagenes />
-
+      <CtaSection />
       <br />
       <br />
       <br />
