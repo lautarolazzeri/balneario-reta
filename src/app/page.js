@@ -27,19 +27,8 @@ export default function Home() {
       <Services />
       <Imagenes />
       <CtaSection />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      <Footer />
+
 
     </>
   )
