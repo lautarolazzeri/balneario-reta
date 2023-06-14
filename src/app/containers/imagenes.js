@@ -1,10 +1,9 @@
 import Image from "next/image"
-import GradientSection from "../components/gradient-section"
 import Link from "next/link"
 
 function Imagenes() {
   return (
-    <div className="images">
+    <div className="images" id="images">
       <div className="text-alquileres">
         <h1 className="">Imágenes de Balneario Reta</h1>
       </div>

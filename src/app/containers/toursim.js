@@ -65,7 +65,7 @@ function Tourism() {
     swiperContainer.initialize();
   }, []);
   return (
-    <section className='tourism'>
+    <section className='tourism' id="tourism">
       <GradientSection title='Atracciones turísticas en Balneario Reta 2023' subtitle='Conoce y visita los mejores lugares para recorrer en Reta y sus cercanías!' url='#' />
       <div className='tourism-carousel'>
         <swiper-container class="mySwiper" ref={swiperRef} init="false">

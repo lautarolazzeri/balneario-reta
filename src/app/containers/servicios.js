@@ -3,7 +3,7 @@ import ItemService from "../components/item-service";
 
 function Services() {
   return (
-    <div className="services">
+    <div className="services" id="services">
       <div className="services-top text-alquileres">
         <p>Servicios</p>
         <h1>Los mejores Servicios en Balneario Reta</h1>

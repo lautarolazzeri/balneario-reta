@@ -5,7 +5,7 @@ import GradientSection from "../components/gradient-section";
 
 function Alojamientos() {
   return (
-    <section className='alquileres'>
+    <section className='alquileres' id="alojamientos">
       <GradientSection title='Cabañas en alquiler en Balneario Reta' subtitle='Conoce las mejores opciones de alquiler para tu estadía en Reta' url='#' />
       <div className='alquileres-container'>
         <SliderMaxWidth />
