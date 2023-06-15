@@ -86,12 +86,18 @@ background: var(--linear-gradient);
 }
 
 .items-navbar {
-color: white;
+  color: white;
   font-family: 'Raleway', sans-serif;
   font-size: 1.1rem;
   padding-right: 1rem;
 }
 
+.difcolor {
+  color: #CF402A;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.1rem;
+  padding-right: 1rem;
+}
 @media (max-width: 940px) {
 .fixed {
     display: block;
@@ -118,6 +124,7 @@ display: flex;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
 
 .inicioitem {
 margin-top: 1rem;
@@ -1265,4 +1272,66 @@ margin-bottom: 1rem;
     font-weight: 300;
     text-align: center;
   }
+}
+
+.below-nav {
+  position: relative;
+  top: 8rem;
+}
+
+.info-reta {
+  width: 100%;
+  padding: 0 3rem 2rem 3rem;
+}
+
+.info-reta h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  background: #fff;
+  mix-blend-mode: multiply;
+  position: relative;
+  width: 90%;
+  margin-bottom: 1rem;
+}
+
+.info-reta h1::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background: var(--linear-gradient);
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.info-reta p {
+  font-size: 1.2rem;
+  font-weight: 300;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+.history-content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.history-content p {
+  width: 80%;
+  font-size: 1.2rem;
+  font-weight: 300;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.history-content img {
+  height: 600px;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
 }

@@ -1,6 +1,5 @@
 import '../../styles/globals.css'
-import { Inter } from 'next/font/google'
-
+import '../../styles/globals.css'
 
 export const metadata = {
   title: 'Create',
