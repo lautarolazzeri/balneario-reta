@@ -2,7 +2,6 @@ import GradientSection from "../components/gradient-section"
 import { useEffect, useRef } from "react";
 import Script from "next/script";
 import SlideTourism from "../components/slide-tourism";
-
 function Tourism() {
   const swiperRef = useRef(null);
   useEffect(() => {
@@ -65,8 +64,9 @@ function Tourism() {
     swiperContainer.initialize();
   }, []);
   return (
+
     <section className='tourism' id="tourism">
-      <GradientSection title='Atracciones turísticas en Balneario Reta 2023' subtitle='Conoce y visita los mejores lugares para recorrer en Reta y sus cercanías!' url='#' />
+      <GradientSection title="Atracciones turísticas en Balneario Reta" subtitle='Conoce y visita los mejores lugares para recorrer en Reta y sus cercanías!' url='#' />
       <div className='tourism-carousel'>
         <swiper-container class="mySwiper" ref={swiperRef} init="false">
           <SlideTourism title="Palmera's Center" location='1km' image='/svg/palmeras.svg' url='#' />

@@ -13,11 +13,11 @@ function Navbar() {
           <div className="menu-items">
             <p className="items-navbar"> <Link href='/'>Inicio</Link> </p>
             <p className="items-navbar"> <Link href='/sobre-balneario-reta'>Alojamientos</Link> </p>
-            <p className="items-navbar"> <Link href='/#tourism'>Turismo</Link> </p>
+            <p className="items-navbar"> <Link href='/servicios-en-reta'>Turismo</Link> </p>
             <p className="items-navbar"> <Link href='/#info'>Información</Link> </p>
             <p className="items-navbar"> <Link href='/#services'>Servicios</Link> </p>
             <p className="items-navbar"> <Link href='/#images'>Imágenes de Reta</Link> </p>
-            <p className="items-navbar"> <Link href='/#contacto'>Contacto</Link> </p>
+            <p className="items-navbar"> <Link href='/alojamiento-en-reta'>Contacto</Link> </p>
           </div>
         </div>
 
