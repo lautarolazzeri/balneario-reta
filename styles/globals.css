@@ -1567,7 +1567,7 @@ margin-bottom: 1rem;
 
 @media (max-width: 500px) {
   .service {
-    padding: 0 1.5rem 0 1.5rem;
+    padding: 0 1rem 0 1rem;
   }
 
   .image-service {
@@ -1586,14 +1586,20 @@ margin-bottom: 1rem;
   .texto-service {
     font-size: .9rem;
   }
-
+.services-section {
+  top: 7rem;
+}
   .services-section h1 {
     font-size: 1.5rem;
   }
-
+.services-section {
+  padding: 0 1rem 0 1rem;
+}
   .intro-service {
     width: 100%;
     font-size: .9rem;
+    padding: 0 1rem 0 1rem;
+      text-align: justify;
   }
 
   .info-service button {
