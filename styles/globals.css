@@ -1567,7 +1567,7 @@ margin-bottom: 1rem;
 
 @media (max-width: 500px) {
   .service {
-    padding: 0 1rem 0 1rem;
+    padding: 0 1.5rem 0 1.5rem;
   }
 
   .image-service {
