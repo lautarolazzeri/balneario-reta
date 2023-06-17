@@ -22,7 +22,7 @@ function Sidebar() {
             Turismo
           </p>
         </Link>
-        <Link href="#">
+        <Link href="/sobre-balneario-reta">
           <p className='menu-item'>
             Información
           </p>
@@ -32,7 +32,7 @@ function Sidebar() {
             Servicios
           </p>
         </Link>
-        <Link href="/sobre-balneario-reta">
+        <Link href="/">
           <p className='menu-item'>
             Imágenes de Reta
           </p>
