@@ -3,8 +3,6 @@ import '../styles/globals.css'
 import CtaSection from "@/app/containers/cta-section";
 import Footer from "@/app/containers/footer";
 import { currentYear } from "@/app/constants/constants";
-import Link from "next/link";
-import Image from "next/image";
 import AlojamientoItem from "@/app/components/alojamiento-item";
 
 export default function AlojamientosReta() {

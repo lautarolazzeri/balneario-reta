@@ -17,7 +17,7 @@ function Sidebar() {
             Alojamientos
           </p>
         </Link>
-        <Link href="#">
+        <Link href="/turismo">
           <p className='menu-item'>
             Turismo
           </p>

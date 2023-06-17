@@ -1643,3 +1643,39 @@ margin-bottom: 1rem;
 .info-service h3:hover {
   text-decoration: underline;
 }
+.tourism-page {
+  position: relative;
+  top: 8rem;
+}
+
+.top-tourism-page {
+  margin: 0 3rem 0 3rem;
+}
+
+.top-tourism-page h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  background: #fff;
+  mix-blend-mode: multiply;
+  position: relative;
+  margin-bottom: 1rem;
+  width: 95%
+}
+
+.top-tourism-page h1::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background: var(--linear-gradient);
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.top-tourism-page p {
+  font-size: 1.2rem;
+  font-weight: 300;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
