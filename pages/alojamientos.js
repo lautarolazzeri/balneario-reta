@@ -1,9 +1,11 @@
-import ServiceItem from "@/app/components/service-item";
 import OtherNav from "@/app/containers/others-navbar";
 import '../styles/globals.css'
 import CtaSection from "@/app/containers/cta-section";
 import Footer from "@/app/containers/footer";
 import { currentYear } from "@/app/constants/constants";
+import Link from "next/link";
+import Image from "next/image";
+import AlojamientoItem from "@/app/components/alojamiento-item";
 
 export default function AlojamientosReta() {
   return (
@@ -15,17 +17,19 @@ export default function AlojamientosReta() {
           Propiedades de alquiler temporario de distintas categorías, temporarios, amoblados, de turismo, de excelente nivel con amenites o económicos y baratos. Consulte precios y valores directamente con los anunciantes para la temporada Otoño Invierno {currentYear}.
         </p>
 
-        <ServiceItem title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' urldirection='https://www.google.com/maps/dir//caba%C3%B1as+marsu/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x958dbdeafc48d67b:0xcb81609d812ca6c3?sa=X&ved=2ahUKEwix5bvm1sr_AhXsqZUCHWOHBQUQ9Rd6BAhZEAQ' morepics='#' serviceImage='/test/2.jpg' />
+        <AlojamientoItem itemFollow='/' itemImage='/test/2.jpg' title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' whatsapp='/' phone='/' correo='/' />
 
-        <ServiceItem title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' urldirection='#' morepics='#' serviceImage='/test/3.jpg' />
+        <AlojamientoItem itemFollow='/' itemImage='/test/3.jpg' title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' whatsapp='/' phone='/' correo='/' />
 
-        <ServiceItem title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' urldirection='#' morepics='#' serviceImage='/test/4.jpg' />
+        <AlojamientoItem itemFollow='/' itemImage='/test/4.jpg' title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' whatsapp='/' phone='/' correo='/' />
 
-        <ServiceItem title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' urldirection='#' morepics='#' serviceImage='/test/5.jpg' />
+        <AlojamientoItem itemFollow='/' itemImage='/test/5.jpg' title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' whatsapp='/' phone='/' correo='/' />
 
-        <ServiceItem title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' urldirection='#' morepics='#' serviceImage='/test/6.jpg' />
+        <AlojamientoItem itemFollow='/' itemImage='/test/6.jpg' title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' whatsapp='/' phone='/' correo='/' />
 
-        <ServiceItem title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' urldirection='#' morepics='#' serviceImage='/test/2.jpg' />
+        <AlojamientoItem itemFollow='/' itemImage='/test/7.jpg' title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' whatsapp='/' phone='/' correo='/' />
+
+
 
       </div>
 

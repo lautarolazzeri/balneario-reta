@@ -1622,3 +1622,18 @@ margin-bottom: 1rem;
   width: 100%;
   height: 100%;
 }
+.whatsapp {
+  background: #38B94A;
+}
+
+.phone {
+  background: black;
+}
+
+.correo {
+  background: #35599F;
+}
+
+.info-service h3:hover {
+  text-decoration: underline;
+}
