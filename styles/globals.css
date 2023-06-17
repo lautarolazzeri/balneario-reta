@@ -1770,4 +1770,7 @@ margin-bottom: 1rem;
   .item-tourism-page p {
     font-size: .9rem;
   }
+        .item-tourism-page {
+          margin-top: 2rem;
+        }
 }
