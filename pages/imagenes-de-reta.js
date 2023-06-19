@@ -8,11 +8,11 @@ import '../styles/globals.css'
 import Slideshow from "yet-another-react-lightbox/plugins/slideshow";
 import Thumbnails from "yet-another-react-lightbox/plugins/thumbnails";
 import "yet-another-react-lightbox/plugins/thumbnails.css";
-import photos from "@/app/components/photos";
-import OtherNav from "@/app/containers/others-navbar";
+import photos from "../src/app/components/photos";
+import OtherNav from "../src/app/containers/others-navbar";
 import Image from "next/image";
-import CtaSection from "@/app/containers/cta-section";
-import Footer from "@/app/containers/footer";
+import CtaSection from "../src/app/containers/cta-section";
+import Footer from "../src/app/containers/footer";
 
 
 export default function ImagenesPage() {
