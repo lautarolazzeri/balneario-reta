@@ -4,13 +4,15 @@ import PhotoAlbum from "react-photo-album";
 
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
-
-import Fullscreen from "yet-another-react-lightbox/plugins/fullscreen";
+import '../styles/globals.css'
 import Slideshow from "yet-another-react-lightbox/plugins/slideshow";
 import Thumbnails from "yet-another-react-lightbox/plugins/thumbnails";
-import Zoom from "yet-another-react-lightbox/plugins/zoom";
 import "yet-another-react-lightbox/plugins/thumbnails.css";
 import photos from "@/app/components/photos";
+import OtherNav from "@/app/containers/others-navbar";
+import Image from "next/image";
+import CtaSection from "@/app/containers/cta-section";
+import Footer from "@/app/containers/footer";
 
 
 export default function ImagenesPage() {
@@ -18,15 +20,31 @@ export default function ImagenesPage() {
 
   return (
     <>
-      <PhotoAlbum photos={photos} layout="rows" targetRowHeight={200} onClick={({ index }) => setIndex(index)} spacing={8} />
 
-      <Lightbox
-        slides={photos}
-        open={index >= 0}
-        index={index}
-        close={() => setIndex(-1)}
-        plugins={[Slideshow, Thumbnails]}
-      />
+      <OtherNav />
+      <div className="tourism-page" >
+        <div className="top-tourism-page">
+          <h1>Las mejores imágenes de Balneario Reta</h1>
+          <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500</p>
+          <Image src="/favicon.ico" width={60} height={60} />
+        </div>
+      </div>
+
+
+      <div className="photo-album">
+        <PhotoAlbum photos={photos} layout="rows" targetRowHeight={200} onClick={({ index }) => setIndex(index)} spacing={10} />
+
+        <Lightbox
+          slides={photos}
+          open={index >= 0}
+          index={index}
+          close={() => setIndex(-1)}
+          plugins={[Slideshow, Thumbnails]}
+        />
+
+        <CtaSection />
+        <Footer />
+      </div>
     </>
   );
 }
