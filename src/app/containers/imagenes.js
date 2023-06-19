@@ -3,7 +3,7 @@ import Link from "next/link"
 
 function Imagenes() {
   return (
-    <div className="images" id="images">
+    <div className="images" id="imagenes">
       <div className="text-alquileres">
         <h1 className="">Imágenes de Balneario Reta</h1>
       </div>

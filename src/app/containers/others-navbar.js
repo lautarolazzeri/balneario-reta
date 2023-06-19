@@ -13,11 +13,11 @@ function OtherNav() {
           <div className="menu-items">
             <p className="difcolor"> <Link href='/'>Inicio</Link> </p>
             <p className="difcolor"> <Link href='/#alojamientos'>Alojamientos</Link> </p>
-            <p className="difcolor"> <Link href='/#tourism'>Turismo</Link> </p>
-            <p className="difcolor"> <Link href='/#info'>Información</Link> </p>
-            <p className="difcolor"> <Link href='/#services'>Servicios</Link> </p>
-            <p className="difcolor"> <Link href='/#images'>Imágenes de Reta</Link> </p>
-            <p className="difcolor"> <Link href='/#contacto'>Contacto</Link> </p>
+            <p className="difcolor"> <Link href='/#turismo'>Turismo</Link> </p>
+            <p className="difcolor"> <Link href='/#informacion'>Información</Link> </p>
+            <p className="difcolor"> <Link href='/#servicios'>Servicios</Link> </p>
+            <p className="difcolor"> <Link href='/#imagenes'>Imágenes de Reta</Link> </p>
+            <p className="difcolor"> <Link href='#contacto'>Contacto</Link> </p>
           </div>
         </div>
 

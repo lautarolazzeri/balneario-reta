@@ -2,7 +2,7 @@ import GridInfoItem from "../components/grid-info-item"
 
 function GridInfo() {
   return (
-    <div className='grid-info' id="info">
+    <div className='grid-info' id="informacion">
       <div className='text-alquileres'>
         <h1>Balneario Reta - Tu lugar en el mundo</h1>
       </div>
