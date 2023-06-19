@@ -27,8 +27,6 @@ export default function AlojamientosReta() {
 
         <AlojamientoItem itemFollow='/' itemImage='/test/7.jpg' title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' whatsapp='/' phone='/' correo='/' />
 
-
-
       </div>
 
       <div className='else'>
