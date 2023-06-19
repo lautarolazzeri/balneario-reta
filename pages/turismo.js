@@ -1,11 +1,11 @@
-import OtherNav from "@/app/containers/others-navbar";
+import OtherNav from "../src/app/containers/others-navbar";
 import '../styles/globals.css'
-import CtaSection from "@/app/containers/cta-section";
-import Footer from "@/app/containers/footer";
-import { currentYear } from "@/app/constants/constants";
+import CtaSection from "../src/app/containers/cta-section";
+import Footer from "../src/app/containers/footer";
+import { currentYear } from "../src/app/constants/constants";
 import Image from "next/image";
 import Script from "next/script";
-import TourismItem from "@/app/components/tourism-item";
+import TourismItem from "../src/app/components/tourism-item";
 
 export default function Turismo() {
   return (

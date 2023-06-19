@@ -1,4 +1,4 @@
-import SliderItem from "@/app/components/slide-item";
+import SliderItem from "../src/app/components/slide-item";
 import { useEffect, useRef } from "react";
 
 const { default: Script } = require("next/script");

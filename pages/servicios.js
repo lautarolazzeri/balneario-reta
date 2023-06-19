@@ -1,9 +1,9 @@
-import OtherNav from "@/app/containers/others-navbar";
+import OtherNav from "../src/app/containers/others-navbar";
 import '../styles/globals.css'
-import ServiceItem from "@/app/components/service-item";
-import CtaSection from "@/app/containers/cta-section";
-import Footer from "@/app/containers/footer";
-import { currentYear } from "@/app/constants/constants";
+import ServiceItem from "../src/app/components/service-item";
+import CtaSection from "../src/app/containers/cta-section";
+import Footer from "../src/app/containers/footer";
+import { currentYear } from "../src/app/constants/constants";
 
 export default function ServicesPage() {
 
