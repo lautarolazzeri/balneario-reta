@@ -5,7 +5,7 @@ function InfoAndImage() {
     <section className='info'>
       <div className='container-info'>
         <div className='container-image'>
-          <Image src='/amanecer-reta.avif' width={500} height={500} />
+          <Image src='/reta-img/amanecer-reta.avif' width={500} height={500} />
         </div>
         <div className='container-text'>
           <h2>Esse excepteur ex laboris voluptate</h2>
