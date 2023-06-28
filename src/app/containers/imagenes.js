@@ -23,7 +23,9 @@ function Imagenes() {
       </div>
       <div className="cta-images">
         <h3>Ver todas las imágenes de Balneario Reta</h3>
-        <Link href='../../../imagenes-de-reta'>
+        <Link href={{
+          pathname: '../../../pages/imagenes-de-reta'
+        }} as='../../../pages/imagenes-de-reta'>
           <button>
             <p>Ver todas</p>
           </button>
