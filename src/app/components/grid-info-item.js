@@ -13,9 +13,7 @@ function GridInfoItem(props) {
           {description}
         </p>
       </div>
-      <Link href={{
-        pathname: { url }
-      }} as={url}>
+      <Link href={ url } as={url} replace={true}>
         <button>
           Leer más
         </button>

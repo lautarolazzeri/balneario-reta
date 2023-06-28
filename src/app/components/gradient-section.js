@@ -9,9 +9,7 @@ function GradientSection(props) {
         <h1>{title}</h1>
         <p>{subtitle}</p>
       </div>
-      <Link href={{
-        pathname: { url }
-      }} as={url}>
+      <Link href={url} as={url} replace={true}>
         <div className='button-alquileres'>
           <p>Ver todos</p>
           <div className='arrow-container'>
