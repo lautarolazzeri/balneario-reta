@@ -6,7 +6,7 @@ import Footer from "../src/app/containers/footer";
 import { currentYear } from "../src/app/constants/constants";
 import Script from "next/script";
 
-export default function ServicesPage() {
+export default async function ServicesPage() {
 
 
   return (

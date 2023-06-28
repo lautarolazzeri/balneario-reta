@@ -16,7 +16,7 @@ import Footer from "../src/app/containers/footer";
 import Script from "next/script";
 
 
-export default function ImagenesPage() {
+export default async function ImagenesPage() {
   const [index, setIndex] = useState(-1);
   return (
     <>

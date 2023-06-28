@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 
-function Imagenes() {
+async function Imagenes() {
   return (
     <div className="images" id="imagenes">
       <div className="text-alquileres">
