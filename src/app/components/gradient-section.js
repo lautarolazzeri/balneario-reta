@@ -1,5 +1,4 @@
 import Image from "next/image"
-import Link from "next/link"
 
 function GradientSection(props) {
   const { title, subtitle, url } = props;
