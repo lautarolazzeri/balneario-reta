@@ -1,3 +1,4 @@
+import Script from 'next/script'
 import '../../styles/globals.css'
 import '../../styles/globals.css'
 
@@ -15,7 +16,8 @@ export default function RootLayout({ children }) {
 
 
 
-
+        <Script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673' crossorigin="anonymous">
+        </Script>
         <meta name="google" content="nositelinkssearchbox" />
         <meta name="google" content="notranslate" />
       </head>
