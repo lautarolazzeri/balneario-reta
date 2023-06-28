@@ -36,8 +36,6 @@ export default function Turismo() {
         <Footer />
       </div>
       <Script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></Script>
-      <Script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673' crossorigin="anonymous">
-      </Script>
     </>
   )
 }
