@@ -9,14 +9,14 @@ function GradientSection(props) {
         <h1>{title}</h1>
         <p>{subtitle}</p>
       </div>
-      <Link href={url} as={url}>
+      <a href={url}>
         <div className='button-alquileres'>
           <p>Ver todos</p>
           <div className='arrow-container'>
             <Image src='/svg/arrow.svg' width={20} height={20} />
           </div>
         </div>
-      </Link>
+      </a>
     </div>
   )
 }

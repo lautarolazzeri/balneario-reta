@@ -23,11 +23,11 @@ function Imagenes() {
       </div>
       <div className="cta-images">
         <h3>Ver todas las imágenes de Balneario Reta</h3>
-        <Link href='/imagenes-de-reta' as='/imagenes-de-reta'>
+        <a href='/imagenes-de-reta'>
           <button>
             <p>Ver todas</p>
           </button>
-        </Link>
+        </a>
       </div>
     </div>
   )
