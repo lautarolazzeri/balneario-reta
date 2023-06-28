@@ -1876,3 +1876,8 @@ margin-bottom: 1rem;
   margin-bottom: 1rem;
   width: 95%
 }
+@media (max-width: 600px) {
+  .single-place {
+    margin: 0 1rem 0 1rem;
+  }
+}
