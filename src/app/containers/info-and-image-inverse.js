@@ -11,7 +11,7 @@ function InforAndImageInverse() {
           </p>
         </div>
         <div className='container-image inverse-image' >
-          <Image src='/svg/destinoperfecto.svg' width={500} height={500} />
+          <Image placeholder="/svg/blur.svg" src='/svg/destinoperfecto.svg' width={500} height={500} />
         </div>
       </div>
     </section>

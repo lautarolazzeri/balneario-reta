@@ -7,7 +7,7 @@ function ItemService(props) {
     <Link href="#">
       <div className="services-item">
         <div className="item-serv-image">
-          <Image src={image} alt="artesanias" width={220} height={140} />
+          <Image placeholder="/svg/blur.svg" src={image} alt="artesanias" width={220} height={140} />
         </div>
         <p>{title}</p>
       </div>

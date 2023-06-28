@@ -7,7 +7,7 @@ export default function TourismItem(props) {
     <div className="item-tourism-page">
       <Link href={url} > <h3>{title}</h3></Link>
       <p>{description}</p>
-      <Link href={url}> <Image src={image} width={1273} height={832} /></Link>
+      <Link href={url}> <Image placeholder="/svg/blur.svg" src={image} width={1273} height={832} /></Link>
     </div>
   )
 }

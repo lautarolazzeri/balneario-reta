@@ -6,7 +6,7 @@ function SingleCard(props) {
   return (
     <div className='card'>
       <Link href={url}>
-      <Image src={image} width={80} height={80} />
+        <Image placeholder="/svg/blur.svg" src={image} width={80} height={80} />
       <h3>{title}</h3>
       <p>{text}</p>
       </Link>

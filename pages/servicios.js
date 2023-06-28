@@ -4,6 +4,7 @@ import ServiceItem from "../src/app/components/service-item";
 import CtaSection from "../src/app/containers/cta-section";
 import Footer from "../src/app/containers/footer";
 import { currentYear } from "../src/app/constants/constants";
+import Script from "next/script";
 
 export default function ServicesPage() {
 
@@ -35,6 +36,8 @@ export default function ServicesPage() {
         <CtaSection />
         <Footer />
       </div>
+      <Script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673' crossorigin="anonymous">
+      </Script>
     </>
   )
 }

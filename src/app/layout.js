@@ -12,6 +12,12 @@ export default function RootLayout({ children }) {
       <head>
         <meta charSet="utf-8" />
         <title>{metadata.title}</title>
+
+
+
+
+        <meta name="google" content="nositelinkssearchbox" />
+        <meta name="google" content="notranslate" />
       </head>
       <body>{children}</body>
     </html>

@@ -6,7 +6,7 @@ export default function ServiceItem(props) {
   return (
     <div className="service">
       <div className="image-service">
-        <Image src={serviceImage} width={630} height={420} />
+        <Image placeholder="/svg/blur.svg" src={serviceImage} width={630} height={420} />
       </div>
       <div className="info-service">
         <h3>{title}</h3>
@@ -15,7 +15,7 @@ export default function ServiceItem(props) {
         <Link href={urldirection}>
           <button>
             <div className="button-text">
-              <Image src="/svg/location.svg" width={20} height={20} />
+              <Image placeholder="/svg/blur.svg" src="/svg/location.svg" width={20} height={20} />
               <p>Como llegar a {title}</p>
             </div>
           </button>
@@ -23,7 +23,7 @@ export default function ServiceItem(props) {
         <Link href={morepics}>
           <button>
             <div className="button-text-2">
-              <Image src="/svg/camara.svg" width={20} height={20} />
+              <Image placeholder="/svg/blur.svg" src="/svg/camara.svg" width={20} height={20} />
               <p>Ver más fotos</p>
             </div>
           </button>

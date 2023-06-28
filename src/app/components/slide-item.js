@@ -7,7 +7,7 @@ function SliderItem(props) {
     <swiper-slide>
       <div className='alquileres-card'>
         <div className='alquileres-card-image'>
-          <Image src={image} width={300} height={200} />
+          <Image placeholder="/svg/blur.svg" src={image} width={300} height={200} />
         </div>
         <div className='alquileres-card-text'>
           <h3>{title}</h3>
@@ -16,13 +16,13 @@ function SliderItem(props) {
           <div className='contact'>
             <Link href={wsp}>
               <div className='whatsapp-contact'>
-                <Image src='/svg/whatsapp.svg' width={20} height={20} />
+                <Image placeholder="/svg/blur.svg" src='/svg/whatsapp.svg' width={20} height={20} />
                 <p>Whatsapp</p>
               </div>
             </Link>
             <Link href={tel}>
               <div className='phone-contact'>
-                <Image src='/svg/phone.svg' width={20} height={20} />
+                <Image placeholder="/svg/blur.svg" src='/svg/phone.svg' width={20} height={20} />
                 <p>Llamar</p>
               </div>
             </Link>
