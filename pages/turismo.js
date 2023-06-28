@@ -7,7 +7,7 @@ import Image from "next/image";
 import Script from "next/script";
 import TourismItem from "../src/app/components/tourism-item";
 
-export default async function Turismo() {
+export default function Turismo() {
   return (
     <>
         <OtherNav />

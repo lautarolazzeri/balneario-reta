@@ -6,7 +6,7 @@ import Footer from "../src/app/containers/footer";
 import CtaSection from "../src/app/containers/cta-section";
 import Script from "next/script";
 
-export default async function SobreBalnearioReta() {
+export default function SobreBalnearioReta() {
 
   return (
     <>
