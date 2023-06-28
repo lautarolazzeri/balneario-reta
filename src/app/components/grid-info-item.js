@@ -13,11 +13,11 @@ function GridInfoItem(props) {
           {description}
         </p>
       </div>
-      <Link href={url}>
+      <a href={url}>
         <button>
           Leer más
         </button>
-      </Link>
+      </a>
     </div>
   );
 }

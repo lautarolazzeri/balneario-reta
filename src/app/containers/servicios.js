@@ -19,9 +19,9 @@ function Services() {
         <ItemService image="/svg/services/supermercados.svg" title="Supermercados" />
         <ItemService image="/svg/services/locales.svg" title="Locales / Comercios" />
       </div>
-      <Link href='/services'>
+      <a href='/services'>
         <button className="button-services">Ver todos</button>
-      </Link>
+      </a>
     </div>
   );
 }
