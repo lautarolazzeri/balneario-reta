@@ -1919,3 +1919,11 @@ margin-bottom: 1rem;
       font-size: .9rem;
     }
 }
+.item-tourism-page a p {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  width: 100%;
+  padding-left: 0;
+  color: #CF402A;
+}

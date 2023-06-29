@@ -6,16 +6,16 @@ function Footer() {
     <footer className="footer">
       <div className="top-footer">
         <div className="left-logo">
-          <Link href='/#alojamientos'><p>Alojamientos</p></Link>
-          <Link href='/#turismo'> <p>Turismo</p></Link>
-          <Link href='/#informacion'><p>Información</p></Link>
+          <Link href='/alojamientos'><p>Alojamientos</p></Link>
+          <Link href='/turismo'> <p>Turismo</p></Link>
+          <Link href='/sobre-balneario-reta'><p>Información</p></Link>
         </div>
         <div className="logo-footer">
           <Image src="/favicon.ico" alt="logo" width={200} height={200} />
         </div>
         <div className="right-logo">
-          <Link href='/#servicios'><p>Servicios</p></Link>
-          <Link href='/#imagenes'><p>Imágenes de Reta</p></Link>
+          <Link href='/servicios'><p>Servicios</p></Link>
+          <Link href='/imagenes-de-reta'><p>Imágenes de Reta</p></Link>
           <Link href='/#contacto'><p>Contacto</p></Link>
         </div>
       </div>

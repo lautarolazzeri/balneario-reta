@@ -14,7 +14,7 @@ export default function SobreBalnearioReta() {
       <article className="below-nav">
         <div className="info-reta" >
           <h1>Sobre Balneario Reta - Un poco sobre la historia del pueblo</h1>
-          <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500</p>
+          <p>Desde sus orígenes hasta la actualidad, conoce los acontecimientos que han dado forma a Balneario Reta y sumérgete en su autenticidad. Explora un destino lleno de historia y encanto en cada rincón.</p>
           <Image placeholder="/svg/blur.svg" src="/favicon.ico" alt="Reta" width={70} height={70} />
         </div>
         <div className="history-content">
