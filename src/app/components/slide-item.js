@@ -2,15 +2,15 @@ import Image from "next/image"
 import Link from "next/link"
 
 function SliderItem(props) {
-  const { title, people, location, wsp, tel, image } = props;
+  const { title, people, location, wsp, tel, image, url } = props;
   return (
     <swiper-slide>
       <div className='alquileres-card'>
         <div className='alquileres-card-image'>
-          <Image placeholder="/svg/blur.svg" src={image} width={300} height={200} />
+          <Link href={url}><Image placeholder="/svg/blur.svg" src={image} width={300} height={200} /></Link>
         </div>
         <div className='alquileres-card-text'>
-          <h3>{title}</h3>
+          <Link href={url}><h3>{title}</h3></Link>
           <p className='cant-personas'>{people}</p>
           <p className='direction'>{location}</p>
           <div className='contact'>
@@ -22,7 +22,7 @@ function SliderItem(props) {
             </Link>
             <Link href={tel}>
               <div className='phone-contact'>
-                <Image placeholder="/svg/blur.svg" src='/svg/phone.svg' width={20} height={20} />
+                <Image placeholder="/svg/blur.svg" src='/svg/blackphone.svg' width={20} height={20} />
                 <p>Llamar</p>
               </div>
             </Link>

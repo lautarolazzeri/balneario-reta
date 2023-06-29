@@ -1403,7 +1403,7 @@ margin-bottom: 1rem;
 
 .image-service {
   height: 320px;
-  width: 1000px;
+  min-width: 510px;
 }
 
 .image-service img {
@@ -1458,7 +1458,7 @@ margin-bottom: 1rem;
 }
 
 .info-service button {
-  background-color: #35599F;
+  background-color: transparent;
   color: white;
   border-radius: 8px;
   border: none;
@@ -1523,11 +1523,15 @@ margin-bottom: 1rem;
   }
 
   .image-service {
-    width: 100%;
+    min-width: 400px;
     height: auto;
   }
 }
-
+.correo,
+.phone,
+.whatsapp {
+  margin-top: .3rem;
+}
 @media (max-width: 768px) {
   .service {
     flex-direction: column;
@@ -1876,19 +1880,39 @@ margin-bottom: 1rem;
   margin-bottom: 1rem;
   width: 95%
 }
+.single-place p {
+  font-size: 1.2rem;
+  font-weight: 300;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  width: 95%
+}
+
+.direction-place {
+  background: var(--linear-gradient);
+  color: #fff;
+  padding: .3rem 1rem;
+}
+
+.single-place a {
+  margin-bottom: 1rem;
+}
 @media (max-width: 600px) {
   .single-place {
     margin: 0 1rem 0 1rem;
   }
+.single-place p {
+  font-size: 1rem;
+}
     .single-place h3 {
       width: 100%;
       font-size: 2.6rem;
     }
-  
+
     .single-place h6 {
       font-size: 1rem;
     }
-  
+
     .single-place li {
       font-size: .9rem;
     }

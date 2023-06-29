@@ -7,7 +7,9 @@ function Services() {
       <div className="services-top text-alquileres">
         <p>Servicios</p>
         <h1>Los mejores Servicios en Balneario Reta</h1>
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</h3>
+        <h3>En este sitio encontrarás los mejores servicios para tu día a día en tu estadía
+          en Reta, para que puedas disfrutar de tus vacaciones al máximo.
+        </h3>
       </div>
       <div className="grid-services">
         <ItemService image="/svg/services/artesanias.svg" title="Artesanías" />
@@ -19,7 +21,7 @@ function Services() {
         <ItemService image="/svg/services/supermercados.svg" title="Supermercados" />
         <ItemService image="/svg/services/locales.svg" title="Locales / Comercios" />
       </div>
-      <a href='/services'>
+      <a href='/servicios'>
         <button className="button-services">Ver todos</button>
       </a>
     </div>

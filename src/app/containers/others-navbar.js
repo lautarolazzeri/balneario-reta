@@ -8,7 +8,7 @@ function OtherNav() {
       <div >
         <div className="cont-navbar">
           <div className="logo">
-            <Image src="/favicon.ico" width={60} height={60} />
+            <Image src="/favicon.ico" alt="Logo Balneario reta" width={60} height={60} />
           </div>
           <div className="menu-items">
             <p className="difcolor"> <Link href='/'>Inicio</Link> </p>

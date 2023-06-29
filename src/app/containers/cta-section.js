@@ -4,7 +4,7 @@ function CtaSection() {
   return (
     <section className="cta-section" id="contacto">
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+        Si deseas enviarnos una foto de Reta, o si deseas publicar en nuestro sitio, no dudes en contactarnos.
       </p>
       <Link href='https://api.whatsapp.com/send?phone=541159333523&text=Hola! te contacto desde la página web de Balneario Reta, mi consulta es...'>
         <button>

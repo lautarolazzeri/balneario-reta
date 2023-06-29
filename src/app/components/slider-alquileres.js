@@ -53,14 +53,13 @@ function SliderMaxWidth() {
     <>
       <swiper-container class="mySwiper" ref={swiperRef} init='false'>
 
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/1.jpg' />
-        <SliderItem title='asdasd' people='3,4,5 persoas' location='asdnaksn daks' wsp='#' tel='#' image='/test/2.jpg' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/3.jpg' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/4.jpg' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/5.jpg' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/6.jpg' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/7.webp' />
-        <SliderItem title='hola' people='3,4,5 persoas' location='asdnaksn daksnk' wsp='#' tel='#' image='/test/8.webp' />
+        <SliderItem url='/alojamientos/marsu' title='Cabañas Marsu' people='3,4,5 personas' location='Calle 38 entre 15 y 17' wsp='https://api.whatsapp.com/send?phone=541159967359&text=Hola!%20Lo%20contacto%20para%20consultar%20por%20su%20publicación%20en%20Marsu.%20Quisiera%20saber:%20' tel='#' image='/alquileres/marsu/cabañasmarsu9.jpg' />
+        <SliderItem url='#' title='Próximamente' people='3,4,5 personas' location='Próximamente' wsp='#' tel='#' image='/svg/soon.svg' />
+        <SliderItem url='#' title='Próximamente' people='3,4,5 personas' location='Próximamente' wsp='#' tel='#' image='/svg/soon.svg' />
+        <SliderItem url='#' title='Próximamente' people='3,4,5 personas' location='Próximamente' wsp='#' tel='#' image='/svg/soon.svg' />
+        <SliderItem url='#' title='Próximamente' people='3,4,5 personas' location='Próximamente' wsp='#' tel='#' image='/svg/soon.svg' />
+        <SliderItem url='#' title='Próximamente' people='3,4,5 personas' location='Próximamente' wsp='#' tel='#' image='/svg/soon.svg' />
+        <SliderItem url='#' title='Próximamente' people='3,4,5 personas' location='Próximamente' wsp='#' tel='#' image='/svg/soon.svg' />
       </swiper-container>
       <Script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></Script>
     </>

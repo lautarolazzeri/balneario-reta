@@ -11,6 +11,7 @@ import "yet-another-react-lightbox/styles.css";
 import '../../styles/globals.css'
 import "yet-another-react-lightbox/plugins/thumbnails.css";
 import { breakpoints } from "../../src/app/constants/constants";
+import Link from "next/link";
 
 
 
@@ -37,6 +38,7 @@ export default function Marsu() {
       src: photo.url,
       width,
       height,
+      alt: "Cabañas en reta - Cabañas Marsu",
       srcSet: breakpoints.map((breakpoint) => {
         const height = Math.round((photo.height / photo.width) * breakpoint);
         return {
@@ -52,8 +54,10 @@ export default function Marsu() {
     <>
       <OtherNav />
       <div className="single-place">
+        <Link href="/alojamientos">Volver atrás</Link>
         <h3>Cabañas Marsu</h3>
-
+        <p>Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.</p>
+        <p className="direction-place">Calle 38 entre 15 y 17, a 2 cuadras del mar</p>
         <h6>Cabañas para 4 personas</h6>
         <ul>
           <li>DirecTV.</li>

@@ -8,9 +8,9 @@ function InfoAndImage() {
           <Image src='/reta-img/amanecer-reta.avif' width={500} height={500} />
         </div>
         <div className='container-text'>
-          <h2>Esse excepteur ex laboris voluptate</h2>
+          <h2>Explora la belleza de Balneario Reta</h2>
           <p>
-            Voluptate fugiat qui in qui elit aliqua sit nulla. Laborum aute et amet exercitation aliqua eiusmod dolore sint labore nostrud. Et aliquip cillum anim cillum do esse esse irure dolor commodo adipisicing. Aliquip proident deserunt elit ut quis ipsum aliqua in aliqua esse<br></br><br></br> irure aliqua in aliqua esse ex excepteur irure laborum. Consectetur qui qui dolor nulla ipsum.irure dolor commodo adipisicing. Aliquip proident deserunt elit ut quis ipsum aliqua in aliqua esse ex excepteur irure laborum. Consectetur qui qui dolor nulla ipsum.
+            Sumérgete en la serenidad de Balneario Reta, un paraíso costero en la costa argentina. Disfruta de sus playas de arena dorada, impresionantes atardeceres y emocionantes actividades acuáticas. Escapa del bullicio urbano y conecta con la belleza natural deL pueblo, es tu refugio perfecto donde podrás relajarte, explorar y crear recuerdos inolvidables. Ven y experimenta la serenidad y la belleza natural de Balneario Reta, un destino perfecto para escapar y rejuvenecer.
           </p>
         </div>
       </div>
