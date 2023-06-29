@@ -16,7 +16,7 @@ function Services() {
         <ItemService image="/svg/services/gastronomia.svg" title="Gastronomía" />
         <ItemService image="/svg/services/entretenimiento.svg" title="Entretenimiento" />
         <ItemService image="/svg/services/excursiones.svg" title="Excursiones" />
-        <ItemService image="/svg/services/artesanias.svg" title="Alojamiento" />
+        <ItemService image="/alquileres/marsu/cabañasmarsu1.jpg" title="Alojamiento" />
         <ItemService image="/svg/services/actividades.svg" title="Actividades" />
         <ItemService image="/svg/services/supermercados.svg" title="Supermercados" />
         <ItemService image="/svg/services/locales.svg" title="Locales / Comercios" />
