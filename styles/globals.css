@@ -1995,3 +1995,47 @@ margin-bottom: 1rem;
   margin-bottom: 1rem;
   width: 95%;
 }
+@media (max-width: 768px) {
+  .event-img {
+    width: 100%;
+    margin: 0 auto;
+    height: 400px;
+  }
+
+  .event-img img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+  }
+
+  .event-info h2 {
+    font-size: 1.8rem;
+  }
+
+  .event-info h6 {
+    font-size: 1rem;
+  }
+
+  .event-info p {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .event-info h2 {
+    font-size: 1.6rem;
+  }
+
+  .events-container {
+    margin: 1rem 1rem;
+  }
+
+  .event-info h6 {
+    font-size: 1rem;
+  }
+
+  .event-info p {
+    font-size: .9rem;
+    width: 100%;
+  }
+}
