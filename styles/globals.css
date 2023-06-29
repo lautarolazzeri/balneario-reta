@@ -1452,9 +1452,11 @@ margin-bottom: 1rem;
 
 .button-text {
   display: flex;
+  background-color: #35599F;
   justify-content: center;
   align-items: center;
   padding: .5rem .8rem;
+  border-radius: 8px;
 }
 
 .info-service button {
@@ -1502,6 +1504,7 @@ margin-bottom: 1rem;
 
 .button-text-2 {
   display: flex;
+  background-color: #35599F;
   justify-content: center;
   align-items: center;
   padding: .5rem .8rem;

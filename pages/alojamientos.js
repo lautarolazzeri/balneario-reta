@@ -23,7 +23,7 @@ export default function AlojamientosReta() {
 
         <AlojamientoItem itemFollow='/alojamientos/' itemImage='/svg/soon.svg' title='Proximamente' direction='Proximamente' info='Mientras tanto, les invitamos a explorar otras secciones de nuestro sitio web, donde encontrarán información relevante sobre Baleario Reta, Su historia y mucho mas.' whatsapp='#' phone='#' correo='#' />
 
-        <AlojamientoItem itemFollow='/alojamientos/' itemImage='/svg/soon.svg' title='Proximamente' direction='Proximamente' info='Gracias por visitarnos y por su comprensión. Estamos emocionados de compartir con ustedes nuestro contenido definitivo muy pronto. .' whatsapp='/' phone='/' correo='/' />
+        <AlojamientoItem itemFollow='/alojamientos/' itemImage='/svg/soon.svg' title='Proximamente' direction='Proximamente' info='Gracias por visitarnos y por su comprensión. Estamos emocionados de compartir con ustedes nuestro contenido definitivo muy pronto.' whatsapp='/' phone='/' correo='/' />
 
 
       </div>

@@ -20,14 +20,6 @@ export default function ServiceItem(props) {
             </div>
           </button>
         </Link>
-        <Link href={morepics}>
-          <button>
-            <div className="button-text-2">
-              <Image placeholder="/svg/blur.svg" src="/svg/camara.svg" width={20} height={20} />
-              <p>Ver más fotos</p>
-            </div>
-          </button>
-        </Link>
       </div>
     </div>
   )
