@@ -5,10 +5,15 @@ import Image from "next/image";
 import SingleEvent from "../src/app/components/single-event";
 import CtaSection from "../src/app/containers/cta-section";
 import Footer from "../src/app/containers/footer";
+import Head from "next/head";
 
 export default function Eventos() {
   return (
     <>
+      <Head>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
+          crossorigin="anonymous"></Script>
+      </Head>
       <OtherNav />
       <div className="events">
         <div className="top-tourism-page">

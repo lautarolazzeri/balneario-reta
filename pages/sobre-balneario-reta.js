@@ -5,11 +5,16 @@ import Image from "next/image";
 import Footer from "../src/app/containers/footer";
 import CtaSection from "../src/app/containers/cta-section";
 import Script from "next/script";
+import Head from "next/head";
 
 export default function SobreBalnearioReta() {
 
   return (
     <>
+      <Head>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
+          crossorigin="anonymous"></Script>
+      </Head>
       <OtherNav />
       <article className="below-nav">
         <div className="info-reta" >

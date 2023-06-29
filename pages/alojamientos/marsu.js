@@ -12,6 +12,8 @@ import '../../styles/globals.css'
 import "yet-another-react-lightbox/plugins/thumbnails.css";
 import { breakpoints } from "../../src/app/constants/constants";
 import Link from "next/link";
+import Head from "next/head";
+import Script from "next/script";
 
 
 
@@ -52,6 +54,10 @@ export default function Marsu() {
 
   return (
     <>
+      <Head>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
+          crossorigin="anonymous"></Script>
+      </Head>
       <OtherNav />
       <div className="single-place">
         <Link href="/alojamientos">Volver atrás</Link>

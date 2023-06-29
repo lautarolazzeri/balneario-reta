@@ -5,12 +5,17 @@ import CtaSection from "../src/app/containers/cta-section";
 import Footer from "../src/app/containers/footer";
 import { currentYear } from "../src/app/constants/constants";
 import Script from "next/script";
+import Head from "next/head";
 
 export default function ServicesPage() {
 
 
   return (
     <>
+      <Head>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
+          crossorigin="anonymous"></Script>
+      </Head>
       <OtherNav />
       <div className="services-section">
         <h1>Los mejores servicios que ofrece en Balneario Reta {currentYear}</h1>

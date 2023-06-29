@@ -6,10 +6,15 @@ import { currentYear } from "../src/app/constants/constants";
 import Image from "next/image";
 import Script from "next/script";
 import TourismItem from "../src/app/components/tourism-item";
+import Head from "next/head";
 
 export default function Turismo() {
   return (
     <>
+      <Head>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
+          crossorigin="anonymous"></Script>
+      </Head>
         <OtherNav />
         <div className="tourism-page" >
           <div className="top-tourism-page">

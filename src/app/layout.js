@@ -14,7 +14,6 @@ export default function RootLayout({ children }) {
         <meta charSet="utf-8" />
         <title>{metadata.title}</title>
 
-
         <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
           crossorigin="anonymous"></Script>
         <meta name="google" content="nositelinkssearchbox" />
