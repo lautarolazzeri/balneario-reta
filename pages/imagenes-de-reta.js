@@ -14,6 +14,7 @@ import Image from "next/image";
 import CtaSection from "../src/app/containers/cta-section";
 import Footer from "../src/app/containers/footer";
 import Script from "next/script";
+import Link from "next/link";
 
 
 export default function ImagenesPage() {
@@ -25,7 +26,7 @@ export default function ImagenesPage() {
       <div className="tourism-page" >
         <div className="top-tourism-page">
           <h1>Las mejores imágenes de Balneario Reta</h1>
-          <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500</p>
+          <p>Sumérgete en la belleza de Balneario Reta a través de las mejores imágenes que capturan su encanto. Desde las impresionantes playas bañadas por el sol hasta los magníficos atardeceres. Explora la galería de imágenes que te transportará a este paraíso costero en todo su esplendor. Si deseas enviarnos tu foto, con gusto la evaluaremos para incluirla en esta sección, escribenos <Link href='#contacto'>Aquí</Link></p>
           <Image src="/favicon.ico" width={60} height={60} placeholder="/svg/blur.svg" />
         </div>
       </div>
