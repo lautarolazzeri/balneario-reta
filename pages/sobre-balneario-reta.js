@@ -20,7 +20,6 @@ export default function SobreBalnearioReta() {
         <div className="info-reta" >
           <h1>Sobre Balneario Reta - Un poco sobre la historia del pueblo</h1>
           <p>Desde sus orígenes hasta la actualidad, conoce los acontecimientos que han dado forma a Balneario Reta y sumérgete en su autenticidad. Explora un destino lleno de historia y encanto en cada rincón.</p>
-          <Image placeholder="/svg/blur.svg" src="/favicon.ico" alt="Reta" width={70} height={70} />
         </div>
         <div className="history-content">
           <p>

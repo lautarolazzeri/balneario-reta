@@ -19,7 +19,6 @@ export default function Eventos() {
         <div className="top-tourism-page">
           <h1>Eventos y Festivales en Reta y alrededores</h1>
           <p>Balneario Reta es el escenario perfecto para una agenda repleta de emocionantes eventos y vibrantes festivales. Desde celebraciones culturales hasta competiciones deportivas, la diversión nunca se detiene. Sumérgete en la energía de los eventos y festivales de Balneario Reta mientras te maravillas con su espectacular entorno natural.</p>
-          <Image src="/favicon.ico" width={60} height={60} placeholder="/svg/blur.svg" />
         </div>
 
 

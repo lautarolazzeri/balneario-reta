@@ -8,7 +8,7 @@ function Navbar() {
       <div>
         <div className="cont-navbar">
           <div className="logo">
-            <Image src="/favicon.ico" width={60} height={60} />
+            <Image src="/lg.png" alt="balneario reta logo" width={100} height={100} />
           </div>
           <div className="menu-items">
             <p className="items-navbar"> <Link href='#alojamientos'>Alojamientos</Link> </p>
