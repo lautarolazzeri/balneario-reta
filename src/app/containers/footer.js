@@ -22,8 +22,8 @@ function Footer() {
         <hr />
       <div className="footer-bottom">
         <div className="icons">
-          <Link href='#'> <Image src="/svg/facebook.svg" alt="facebook" width={50} height={50} /></Link>
-          <Link href='#'> <Image src="/svg/instagram.svg" alt="instagram" width={30} height={30} /></Link>
+          <Link href='https://www.facebook.com/balnearioretaoficial'> <Image src="/svg/facebook.svg" alt="facebook" width={50} height={50} /></Link>
+          <Link href='https://www.instagram.com/balnearioreta_oficial'> <Image src="/svg/instagram.svg" alt="instagram" width={30} height={30} /></Link>
         </div>
         <div className="copy">
           <p>© D&D by Lautaro Lazzeri</p>
