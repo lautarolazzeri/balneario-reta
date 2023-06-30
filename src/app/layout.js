@@ -1,6 +1,7 @@
 import Script from 'next/script'
 import '../../styles/globals.css'
 import '../../styles/globals.css'
+import { Analytics } from '@vercel/analytics/react'
 
 export const metadata = {
   title: 'Create',
@@ -19,7 +20,12 @@ export default function RootLayout({ children }) {
         <meta name="google" content="nositelinkssearchbox" />
         <meta name="google" content="notranslate" />
       </head>
-      <body>{children}</body>
+      <body>
+        <Analytics />
+
+        {children}
+
+      </body>
     </html>
   )
 }
