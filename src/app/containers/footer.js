@@ -11,7 +11,7 @@ function Footer() {
           <Link href='/sobre-balneario-reta'><p>Información</p></Link>
         </div>
         <div className="logo-footer">
-          <Image src="/lg.png" alt="logo" width={80} height={80} />
+          <Image src="/logo.jpg" alt="logo" width={80} height={80} />
         </div>
         <div className="right-logo">
           <Link href='/servicios'><p>Servicios</p></Link>
