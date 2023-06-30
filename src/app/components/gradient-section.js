@@ -12,7 +12,7 @@ function GradientSection(props) {
         <div className='button-alquileres'>
           <p>Ver todos</p>
           <div className='arrow-container'>
-            <Image src='/svg/arrow.svg' width={20} height={20} />
+            <Image src='/svg/arrow.svg' alt="arrow-left-icon" width={20} height={20} />
           </div>
         </div>
       </a>

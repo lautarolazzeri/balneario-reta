@@ -5,7 +5,7 @@ export default function SingleEvent(props) {
   return (
     <div className="event">
       <div className="event-img">
-        <Image src={image} width={700} height={600} placeholder='/svg/blur.svg' />
+        <Image src={image} width={700} alt={title} height={600} placeholder='/svg/blur.svg' />
       </div>
       <div className="event-info">
         <h2>{title}</h2>

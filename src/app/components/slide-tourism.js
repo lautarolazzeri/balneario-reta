@@ -9,7 +9,7 @@ function SlideTourism(props) {
         <div className={littledown}></div>
         <Link href={url}>
           <div className='tourism-card-image'>
-            <Image placeholder="/svg/blur.svg" src={image} width={300} height={200} />
+            <Image placeholder="/svg/blur.svg" src={image} alt={title} width={300} height={200} />
           </div>
           <div className='tourism-card-text'>
             <h3>{title}</h3>

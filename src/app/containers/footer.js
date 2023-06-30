@@ -11,7 +11,7 @@ function Footer() {
           <Link href='/sobre-balneario-reta'><p>Información</p></Link>
         </div>
         <div className="logo-footer">
-          <Image src="/logo.jpg" alt="logo" width={80} height={80} />
+          <Image src="/logo.jpg" alt="logo Balneario Reta" width={80} height={80} />
         </div>
         <div className="right-logo">
           <Link href='/servicios'><p>Servicios</p></Link>
@@ -22,8 +22,8 @@ function Footer() {
         <hr />
       <div className="footer-bottom">
         <div className="icons">
-          <Link href='https://www.facebook.com/balnearioretaoficial'> <Image src="/svg/facebook.svg" alt="facebook" width={50} height={50} /></Link>
-          <Link href='https://www.instagram.com/balnearioreta_oficial'> <Image src="/svg/instagram.svg" alt="instagram" width={30} height={30} /></Link>
+          <Link href='https://www.facebook.com/balnearioretaoficial'> <Image src="/svg/facebook.svg" alt="facebook logo" width={50} height={50} /></Link>
+          <Link href='https://www.instagram.com/balnearioreta_oficial'> <Image src="/svg/instagram.svg" alt="instagram logo" width={30} height={30} /></Link>
         </div>
         <div className="copy">
           <p>© D&D by Lautaro Lazzeri</p>
