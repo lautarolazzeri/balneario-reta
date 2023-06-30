@@ -477,6 +477,7 @@ margin-bottom: 1rem;
   margin-bottom: .3rem;
   margin-top: .5rem;
   font-family: 'Inter', sans-serif;
+  color: black;
 }
 
 .direction {
@@ -485,6 +486,7 @@ margin-bottom: 1rem;
   margin-bottom: .3rem;
   font-family: 'Inter', sans-serif;
   margin-top: .5rem;
+  color: black;
 }
 
 .contact {
@@ -788,7 +790,6 @@ margin-bottom: 1rem;
 
 .tourism-card-text p {
   font-weight: 200;
-  color: #A5A5A5;
 }
 
 @media (max-width: 768px) {
@@ -1449,8 +1450,8 @@ margin-bottom: 1rem;
 
 .direction {
   margin-bottom: .8rem;
-  color: #878686;
-  font-weight: 300;
+  color: #000;
+    font-weight: 400;
 }
 
 .texto-service {
