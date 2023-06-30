@@ -349,7 +349,7 @@ margin-bottom: 1rem;
   font-size: 1.3rem;
   width: 100%;
   }
-  
+
   .header-text {
     top: 20%;
 }
@@ -1595,6 +1595,9 @@ margin-bottom: 1rem;
   .info-service h3 {
     font-size: 1.2rem;
   }
+    .text-alquileres {
+      width: 100%;
+    }
 
   .direction {
     margin-bottom: .3rem;
