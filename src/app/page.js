@@ -12,11 +12,13 @@ import Services from './containers/servicios'
 import Imagenes from './containers/imagenes'
 import CtaSection from './containers/cta-section'
 import Footer from './containers/footer'
+import { Analytics } from '@vercel/analytics/react';
 
 register();
 export default function Home() {
   return (
     <>
+      <Analytics />
       <Header />
       <Cards />
       <Alojamientos />
