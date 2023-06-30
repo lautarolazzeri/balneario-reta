@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
         <meta name="title" content="Balneario Reta Oficial - Alojamiento, Servicios, Información y más..." />
-        <meta name="description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
+        <meta name="description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer Reta. Explora alojamientos, atracciones turísticas, mucha información, eventos, festivales y muchas imágenes." />
         <meta name="keywords" content="balneario reta, tres arroyos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos, alquileres en reta, cabañas, mapa, playas, costa Buenos Aires" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
