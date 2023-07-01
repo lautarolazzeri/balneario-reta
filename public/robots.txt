@@ -1,4 +1,11 @@
 User-Agent: *
 Allow: /
 Allow: https://balnearioreta.vercel.app/
-Sitemap: https://balnearioreta.vercel.app/sitemap_index.xml
+Allow: https://balnearioreta.vercel.app/servicios
+Allow: https://balnearioreta.vercel.app/imagenes-de-reta
+Allow: https://balnearioreta.vercel.app/eventos
+Allow: https://balnearioreta.vercel.app/turismo
+Allow: https://balnearioreta.vercel.app/sobre-balneario-reta
+
+Allow: https://balnearioreta.vercel.app/alojamientos/marsu
+Sitemap: https://balnearioreta.vercel.app/sitemap.xml
