@@ -13,9 +13,6 @@ export default function ServicesPage() {
   return (
     <>
       <Head>
-        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
-          crossorigin="anonymous"></Script>
-
 
         <title>Balneario Reta Oficial - Servicios de Reta</title>
         <meta name="google" content="nositelinkssearchbox" />
@@ -46,7 +43,9 @@ export default function ServicesPage() {
 
 
 
-
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
+          crossorigin="anonymous"></Script>
+        <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioreta.vercel.app", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
 
 
 

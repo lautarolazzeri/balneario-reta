@@ -12,9 +12,6 @@ export default function SobreBalnearioReta() {
   return (
     <>
       <Head>
-        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
-          crossorigin="anonymous"></Script>
-
 
         <title>Balneario Reta Oficial - Información</title>
         <meta name="google" content="nositelinkssearchbox" />
@@ -46,7 +43,9 @@ export default function SobreBalnearioReta() {
 
 
 
-
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
+          crossorigin="anonymous"></Script>
+        <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioreta.vercel.app", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
 
 
 
