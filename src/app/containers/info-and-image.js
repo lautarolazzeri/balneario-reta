@@ -5,7 +5,7 @@ function InfoAndImage() {
     <section className='info'>
       <div className='container-info'>
         <div className='container-image'>
-          <Image src='/reta-img/amanecer-reta.avif' alt="amanecer en Reta" width={500} height={500} />
+          <Image src='/reta-img/amanecer-reta.webp' alt="amanecer en Reta" width={500} height={500} />
         </div>
         <div className='container-text'>
           <h2>Explora la belleza de Balneario Reta</h2>
