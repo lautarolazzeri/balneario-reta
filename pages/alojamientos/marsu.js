@@ -60,7 +60,7 @@ export default function Marsu() {
       </Head>
       <OtherNav />
       <div className="single-place">
-        <Link href="">Volver atrás</Link>
+        <Link href="/alojamientos">Volver atrás</Link>
         <h3>Cabañas Marsu</h3>
         <p>Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.</p>
         <p className="direction-place">Calle 38 entre 15 y 17, a 2 cuadras del mar</p>
