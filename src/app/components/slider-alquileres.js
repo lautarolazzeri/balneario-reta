@@ -53,7 +53,7 @@ function SliderMaxWidth() {
     <>
       <swiper-container class="mySwiper" ref={swiperRef} init='false'>
 
-        <SliderItem url='/alojamientos/marsu' title='Cabañas Marsu' people='3,4,5 personas' location='Calle 38 entre 15 y 17' wsp='https://api.whatsapp.com/send?phone=541159967359&text=Hola!%20Lo%20contacto%20para%20consultar%20por%20su%20publicación%20en%20Marsu.%20Quisiera%20saber:%20' tel='#' image='/alquileres/marsu/cabañasmarsu9.jpg' />
+        <SliderItem url='/alojamientos/marsu' title='Cabañas Marsu' people='3,4,5 personas' location='Calle 38 entre 15 y 17' wsp='' tel='#' image='/alquileres/marsu/cabañasmarsu9.jpg' />
         <SliderItem url='#' title='Próximamente' people='3,4,5 personas' location='Próximamente' wsp='#' tel='#' image='/svg/soon.svg' />
         <SliderItem url='#' title='Próximamente' people='3,4,5 personas' location='Próximamente' wsp='#' tel='#' image='/svg/soon.svg' />
         <SliderItem url='#' title='Próximamente' people='3,4,5 personas' location='Próximamente' wsp='#' tel='#' image='/svg/soon.svg' />
