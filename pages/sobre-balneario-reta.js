@@ -14,7 +14,6 @@ export default function SobreBalnearioReta() {
       <Head>
 
         <title>Balneario Reta Oficial - Información</title>
-        <meta name="google" content="nositelinkssearchbox" />
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />
@@ -31,6 +30,7 @@ export default function SobreBalnearioReta() {
         <meta name="language" content="Spanish" />
         <meta name="revisit-after" content="15 days" />
         <meta name="author" content="Lautaro Sebastián Lazzeri" />
+
 
         <meta property="og:title" content="balneario reta oficial - Conoce toda la información de Reta, cultura, actividades locales y más!" />
         <meta property="og:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
@@ -71,7 +71,6 @@ export default function SobreBalnearioReta() {
         <Footer />
 
       </article>
-
     </>
   )
 }

@@ -15,7 +15,6 @@ export default function ServicesPage() {
       <Head>
 
         <title>Balneario Reta Oficial - Servicios de Reta</title>
-        <meta name="google" content="nositelinkssearchbox" />
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />

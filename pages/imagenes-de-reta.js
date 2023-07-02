@@ -24,7 +24,6 @@ export default function ImagenesPage() {
     <>
       <Head>
         <title>Balneario Reta Oficial - Imagenes de Reta</title>
-        <meta name="google" content="nositelinkssearchbox" />
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />

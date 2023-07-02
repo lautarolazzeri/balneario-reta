@@ -7,16 +7,16 @@ import Image from "next/image";
 import Script from "next/script";
 import TourismItem from "../src/app/components/tourism-item";
 import Head from "next/head";
+import { Html } from "next/document";
 
 export default function Turismo() {
   return (
     <>
       <Head>
+        <meta http-equiv="content-language" content="es" />
 
         <title>Balneario Reta Oficial - Turismo</title>
-        <meta name="google" content="nositelinkssearchbox" />
         <meta name="google" content="notranslate" />
-
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@BalnearioRetaOficial" />
         <meta name="twitter:title" content="Balneario Reta Oficial - Conoce los mejores lugares para visitar en Balnerio Reta y alrededores" />

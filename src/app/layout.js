@@ -40,24 +40,6 @@ export default function RootLayout({ children }) {
         <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />
         <meta property="og:site_name" content="Balneario Reta Oficial" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       </head>
       <body>
         <Analytics />

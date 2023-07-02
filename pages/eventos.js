@@ -12,7 +12,6 @@ export default function Eventos() {
     <>
       <Head>
         <title>Balneario Reta Oficial - Eventos</title>
-        <meta name="google" content="nositelinkssearchbox" />
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />

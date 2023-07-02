@@ -11,7 +11,6 @@ export default function AlojamientosReta() {
     <>
       <Head>
         <title>Balneario Reta Oficial - Alojamientos en Reta</title>
-        <meta name="google" content="nositelinkssearchbox" />
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />
