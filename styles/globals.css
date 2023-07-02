@@ -251,13 +251,13 @@ position: absolute;
 
 .header-text h1 {
 font-size: 5rem;
-  font-weight: 400;
+  font-weight: 600;
   margin-bottom: 1rem;
 }
 
 .header-text h2 {
 font-size: 1.5rem;
-  font-weight: 300;
+  font-weight: 500;
   margin-bottom: 1rem;
 }
 
