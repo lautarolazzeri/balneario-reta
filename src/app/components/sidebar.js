@@ -12,27 +12,27 @@ function Sidebar() {
             Inicio
           </p>
         </Link>
-        <Link href="/alojamientos">
+        <Link href="">
           <p className='menu-item inicioitem'>
             Alojamientos
           </p>
         </Link>
-        <Link href="/turismo">
+        <Link href="">
           <p className='menu-item'>
             Turismo
           </p>
         </Link>
-        <Link href="/sobre-balneario-reta">
+        <Link href="">
           <p className='menu-item'>
             Información
           </p>
         </Link>
-        <Link href="/servicios">
+        <Link href="">
           <p className='menu-item'>
             Servicios
           </p>
         </Link>
-        <Link href="/imagenes-de-reta">
+        <Link href="">
           <p className='menu-item'>
             Imágenes de Reta
           </p>

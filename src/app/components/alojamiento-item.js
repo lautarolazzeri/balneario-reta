@@ -6,7 +6,7 @@ export default function AlojamientoItem(props) {
   return (
     <div className="service">
       <div className="image-service">
-        <Link href={itemFollow}> <Image src={itemImage} alt={'cabañas de ' + title} width={630} height={420} /></Link>
+        <Link href=''> <Image src={itemImage} alt={'cabañas de ' + title} width={630} height={420} /></Link>
       </div>
       <div className="info-service">
         <Link href={itemFollow}><h3>{title}</h3></Link>
