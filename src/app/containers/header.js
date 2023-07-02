@@ -5,7 +5,7 @@ function Header() {
 
   return <header>
     <Navbar />
-    <Image className='header-image' src="/reta-img/playa-de-reta (1).jpg" alt="Logo Balneario Reta" width={1500} height={790} />
+    <Image className='header-image' src="/reta-img/imagen-reta (51).webp" alt="atardecer en Reta" width={2048} height={1339} />
     <div className='overlay-header'></div>
     <div className='header-text'>
       <h1>Balneario Reta</h1>

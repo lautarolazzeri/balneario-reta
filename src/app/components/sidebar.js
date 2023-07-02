@@ -32,12 +32,12 @@ function Sidebar() {
             Servicios
           </p>
         </Link>
-        <Link href="/">
+        <Link href="/imagenes-de-reta">
           <p className='menu-item'>
             Imágenes de Reta
           </p>
         </Link>
-        <Link href="#">
+        <Link href="#contacto">
           <p className='menu-item'>
             Contacto
           </p>
