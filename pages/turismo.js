@@ -13,7 +13,7 @@ export default function Turismo() {
   return (
     <>
       <Head>
-        <meta http-equiv="content-language" content="es" />
+        <meta http-equiv="content-language" content="es-es" />
 
         <title>Balneario Reta Oficial - Turismo</title>
         <meta name="google" content="notranslate" />
