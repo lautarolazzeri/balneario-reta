@@ -12,8 +12,9 @@ import { Html } from "next/document";
 export default function Turismo() {
   return (
     <>
+
       <Head>
-        <meta http-equiv="content-language" content="es-es" />
+        <meta http-equiv="content-language" content="es-" />
 
         <title>Balneario Reta Oficial - Turismo</title>
         <meta name="google" content="notranslate" />
