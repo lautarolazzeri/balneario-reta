@@ -67,6 +67,7 @@ export default function AlojamientosReta() {
 
       <div className='else'>
         <CtaSection />
+        <Footer />
       </div>
     </>
   )

@@ -107,6 +107,7 @@ export default function Marsu() {
 
       <div className="else">
         <CtaSection />
+        <Footer />
       </div>
     </>
   )
