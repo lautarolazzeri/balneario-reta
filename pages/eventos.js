@@ -63,7 +63,6 @@ export default function Eventos() {
 
         </div>
         <CtaSection />
-        <Footer />
       </div>
     </>
   )

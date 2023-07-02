@@ -76,7 +76,6 @@ export default function ImagenesPage() {
         />
 
         <CtaSection />
-        <Footer />
       </div>
 
     </>

@@ -72,7 +72,6 @@ export default function ServicesPage() {
 
       <div className='else'>
         <CtaSection />
-        <Footer />
       </div>
     </>
   )
