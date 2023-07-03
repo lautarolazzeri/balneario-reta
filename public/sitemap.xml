@@ -5,50 +5,46 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+  <url>
+    <loc>http://www.example.com/foo.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+</urlset>
+
 
 <url>
   <loc>https://balnearioreta.vercel.app/</loc>
-  <lastmod>2023-07-01T15:51:17+00:00</lastmod>
-  <priority>1.00</priority>
+  <lastmod>2023-07-02</lastmod>
 </url>
 <url>
   <loc>https://balnearioreta.vercel.app/</loc>
-  <lastmod>2023-07-01T15:51:17+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-07-02</lastmod>
 </url>
 <url>
   <loc>https://balnearioreta.vercel.app/turismo</loc>
-  <lastmod>2023-07-01T15:51:17+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-07-02</lastmod>
 </url>
 <url>
   <loc>https://balnearioreta.vercel.app/sobre-balneario-reta</loc>
-  <lastmod>2023-07-01T15:51:17+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-07-02</lastmod>
 </url>
 <url>
   <loc>https://balnearioreta.vercel.app/servicios</loc>
-  <lastmod>2023-07-01T15:51:17+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-07-02</lastmod>
 </url>
 <url>
   <loc>https://balnearioreta.vercel.app/eventos</loc>
-  <lastmod>2023-07-01T15:51:17+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-07-02</lastmod>
 </url>
 <url>
   <loc>https://balnearioreta.vercel.app/imagenes-de-reta</loc>
-  <lastmod>2023-07-01T15:51:17+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-07-02</lastmod>
 </url>
 
 
-<!-- alojamientos / servicios singulares -->
-
 <url>
   <loc>https://balnearioreta.vercel.app/alojamientos/marsu</loc>
-  <lastmod>2023-07-01T15:51:17+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-07-02</lastmod>
 </url>
 
 
