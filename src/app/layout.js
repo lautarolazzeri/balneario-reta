@@ -14,8 +14,12 @@ export default function RootLayout({ children }) {
         <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
           crossorigin="anonymous"></Script>
         <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioreta.vercel.app", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
-        <meta name="google" content="nositelinkssearchbox" />
         <meta name="google" content="notranslate" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" type="image/png" href="/lg.png" sizes="16x16" />
+
+
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@BalnearioRetaOficial" />
