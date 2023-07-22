@@ -6,6 +6,7 @@ import Footer from "../src/app/containers/footer";
 import CtaSection from "../src/app/containers/cta-section";
 import Script from "next/script";
 import Head from "next/head";
+import Link from "next/link";
 
 export default function SobreBalnearioReta() {
 
@@ -59,13 +60,28 @@ export default function SobreBalnearioReta() {
         </div>
         <div className="history-content">
           <p>
-            Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del año 45 antes de Cristo, haciendo que este adquiera mas de 2000 años de antiguedad. Richard McClintock, un profesor de Latin de la Universidad de Hampden-Sydney en Virginia, encontró una de las palabras más oscuras de la lengua del latín, "consecteur", en un pasaje de Lorem Ipsum, y al seguir leyendo distintos textos del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.33 de "de Finnibus Bonorum et Malorum" (Los Extremos del Bien y El Mal) por Cicero, escrito en el año 45 antes de Cristo. Este libro es un tratado de teoría de éticas, muy popular durante el Renacimiento. La primera linea del Lorem Ipsum, "Lorem ipsum dolor sit amet..", viene de una linea en la sección 1.10.32 <br />
-            El trozo de texto estándar de Lorem Ipsum usado desde el año 1500 es reproducido debajo para aquellos interesados. Las secciones 1.10.32 y 1.10.33 de "de Finibus Bonorum et Malorum" por Cicero son también reproducidas en su forma original exacta, acompañadas por versiones en Inglés de la traducción realizada en 1914 por H. Rackham.
+            El Balneario Reta es un hermoso destino turístico ubicado en la provincia de Buenos Aires, Argentina. Su nombre rinde homenaje a don Martín Reta, quien fue una figura clave en su desarrollo en la década del '20. La historia de este balneario se remonta a principios del siglo XX, cuando esta región era prácticamente una zona deshabitada y virgen.
+
+            En la década de 1920, don Martín Reta, un visionario empresario y entusiasta del turismo, decidió invertir en la zona con la intención de crear un destino atractivo para los turistas y los veraneantes locales. Vio el potencial de la belleza natural de la costa atlántica y se propuso convertirla en un lugar de esparcimiento y descanso para las personas que buscaban escapar del ajetreo y el calor de las ciudades durante el verano.
+
+            Don Martín Reta adquirió grandes extensiones de tierra a lo largo de la costa, y con su visión y esfuerzo, comenzó a construir infraestructuras básicas, como caminos, puentes y alojamientos sencillos para alojar a los primeros visitantes. A lo largo de los años, su trabajo atrajo a más personas, y poco a poco, Reta comenzó a ganar popularidad como destino turístico.
+            <Image placeholder="/svg/blur.svg" src='/svg/retamuseo.svg' alt="Museo de Reta" height={800} width={1200} />
+            <br></br>
+            Podes visitar el museo de Balneario Reta en la calle 25 esquina 46, en el Palmera´s Center. Ingresa en el siguiente enlace para ver más información sobre el museo de Reta:  <Link href="/turismo">Museo de Reta</Link>
+
+            <br></br>
+            <br></br>
+            En las siguientes décadas, el Balneario Reta experimentó un crecimiento constante, con la construcción de más hoteles, cabañas, restaurantes y servicios turísticos. La belleza natural del lugar, con sus extensas playas de arena dorada, médanos impresionantes, hizo que Reta se convirtiera en un lugar de referencia para aquellos que buscaban tranquilidad y un contacto más directo con la naturaleza.
+
+            A lo largo de los años, Balneario Reta también se destacó por sus actividades recreativas, como paseos a caballo por la playa, caminatas por los senderos naturales y deportes acuáticos, que atraían a turistas y entusiastas del aire libre. La cercanía con otras localidades turísticas, como Monte Hermoso y Orense, también contribuyó a su popularidad y al desarrollo del turismo en la región.
+
+            Con el tiempo, Reta se convirtió en un destino muy querido para las familias que buscaban unas vacaciones relajantes en la playa y para los amantes de la naturaleza que disfrutaban de su entorno prístino. La comunidad local también se involucró en el desarrollo del balneario, estableciendo comercios, restaurantes y actividades culturales que enriquecieron la oferta turística.
+
+            En la actualidad, Balneario Reta sigue siendo un destino turístico atractivo para los amantes de la costa atlántica argentina. Si bien ha evolucionado y modernizado sus infraestructuras, ha logrado mantener un ambiente tranquilo y apacible, respetando su esencia como un lugar de escapada y descanso.
+
+            Así, el legado de don Martín Reta, el hombre visionario que apostó por este rincón costero, perdura en la memoria de quienes visitan el balneario y disfrutan de su encanto natural. Cada verano, turistas y lugareños continúan visitando este lugar para disfrutar de sus playas, apreciar sus paisajes y celebrar la historia de un balneario que lleva el nombre de un hombre que lo convirtió en realidad.
           </p>
-          <Image placeholder="/svg/blur.svg" src='/svg/retamuseo.svg' alt="Museo de Reta" height={800} width={1200} />
-          <p>
-            Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del año 45 antes de Cristo, haciendo que este adquiera mas de 2000 años de antiguedad. Richard McClintock, un profesor de Latin de la Universidad de Hampden-Sydney en Virginia, encontró una de las palabras más oscuras de la lengua del latín, "consecteur", en un pasaje de Lorem Ipsum, y al seguir leyendo distintos textos del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.33 de "de Finnibus Bonorum et Malorum" (Los Extremos del Bien y El Mal) por Cicero, escrito en el año 45 antes de Cristo. Este libro es un tratado de teoría de éticas, muy popular durante el Renacimiento. La primera linea del Lorem Ipsum, "Lorem ipsum dolor sit amet..", viene de una linea en la sección 1.10.32 <br />
-            El trozo de texto estándar de Lorem Ipsum usado desde el año 1500 es reproducido debajo para aquellos interesados. Las secciones 1.10.32 y 1.10.33 de "de Finibus Bonorum et Malorum" por Cicero son también reproducidas en su forma original exacta, acompañadas por versiones en Inglés de la traducción realizada en 1914 por H. Rackham.</p>
+
         </div>
         <CtaSection />
         <Footer />

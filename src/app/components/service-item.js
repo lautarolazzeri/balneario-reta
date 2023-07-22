@@ -12,7 +12,7 @@ export default function ServiceItem(props) {
         <h3>{title}</h3>
         <p className="direction">{direction}</p>
         <p className="texto-service">{info}</p>
-        <Link href={urldirection}>
+        <Link href={urldirection} target="_blank">
           <button>
             <div className="button-text">
               <Image placeholder="/svg/blur.svg" src="/svg/location.svg" alt="Location-logo" width={20} height={20} />

@@ -69,13 +69,12 @@ function Tourism() {
       <GradientSection title="Atracciones turísticas en Balneario Reta, Tres Arroyos" subtitle='Conoce y visita los mejores lugares para recorrer en Reta y sus alrededores como Tres Arroyos, Copetonas, Oriente, y mucho más!' url='/turismo' />
       <div className='tourism-carousel'>
         <swiper-container class="mySwiper" ref={swiperRef} init="false">
-          <SlideTourism title="Palmera's Center" location='1km' image='/svg/palmeras.svg' url='#' />
-          <SlideTourism title='La Usina - Puente Viejo' location='37km' image='/svg/usina.svg' url='#' littledown='littledown' />
-          <SlideTourism title='Cascada Cifuentes' location='51km' image='/svg/cifuentes.svg' url='#' />
-          <SlideTourism title='Cueva del Tigre' location='63km' image='/svg/cueva-del-tigre.svg' url='#' littledown='littledown' />
-          <SlideTourism title='Cascada del Águila' location='63km' image='/svg/cueva-del-tigre.svg' url='#' />
-          <SlideTourism title='Cascada del Águila' location='63km' image='/svg/cueva-del-tigre.svg' url='#' littledown='littledown' />
-          <SlideTourism title='Cascada del Águila' location='63km' image='/svg/cueva-del-tigre.svg' url='#' />
+          <SlideTourism title="Palmera's Center" location='1km' image='/svg/palmeras.svg' url='/turismo' />
+          <SlideTourism title='La Usina - Puente Viejo' location='37km' image='/svg/usina.svg' url='/turismo' littledown='littledown' />
+          <SlideTourism title='Cascada Cifuentes' location='51km' image='/svg/cifuentes.svg' url='/turismo' />
+          <SlideTourism title='Cueva del Tigre' location='63km' image='/svg/cueva-del-tigre.svg' url='/turismo' littledown='littledown' />
+          <SlideTourism title='Molino La Rosa' location='63km' image='/molinoindex.jpg' url='/turismo' />
+          <SlideTourism title='Cascada la Escondida' location='63km' image='/laescondida.jpg' url='/turismo' littledown='littledown' />
         </swiper-container>
 
       </div>
