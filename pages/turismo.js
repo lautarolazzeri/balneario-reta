@@ -78,7 +78,7 @@ export default function Turismo() {
 
         <TourismItem title='Cueva del Tigre' description='Este paraje, antiguamente fue utilizado como vado natural por las carretas, arreos y viajeros para atravesar el Rio Quequén Salado.
         A pocos metros de este paso, es posible observar varias cuevas y cascadas.
-        En una de ellas, se refugió allá por el año 1860 Félix Pacheco, un cuatrero conocido como “El Tigre del Quequén”, que según la creencia popular, aprovechaba la proximidad con este paso para asaltar a los viajeros que lo atravesaban. En 1875, fue capturado por el comisario Luis Aldaz conocido como “Gorra Colorada”.' image='/cuevadeltigre.jpg' url='https://www.google.com/search?sa=X&bih=792&biw=1536&hl=es-419&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=AB5stBjiJtyduqlAmhrA8S7nybUJ9AbQXA:1690057427444&q=cueva+del+tigre&rflfq=1&num=10&ved=2ahUKEwiXkfPEkqOAAxVxqJUCHXHKBlUQtgN6BAgbEAI#rlfi=hd:;si:16418577924989346439,l,Cg9jdWV2YSBkZWwgdGlncmVIrvb0-YKrgIAIWh0QABABEAIYABgBGAIiD2N1ZXZhIGRlbCB0aWdyZZIBE2hpc3RvcmljYWxfbGFuZG1hcmuqAUwQASoTIg9jdWV2YSBkZWwgdGlncmUoDjIeEAEiGjYq_CYrYn_wqtIXRv3ZcR4Q5iF4zUfSlWIgMhMQAiIPY3VldmEgZGVsIHRpZ3Jl;mv:[[-38.6652621,-58.876730599999995],[-38.916907800000004,-61.4250112]]' />
+        En una de ellas, se refugió allá por el año 1860 Félix Pacheco, un cuatrero conocido como “El Tigre del Quequén”, que según la creencia popular, aprovechaba la proximidad con este paso para asaltar a los viajeros que lo atravesaban. En 1875, fue capturado por el comisario Luis Aldaz conocido como “Gorra Colorada”.' image='/cuevadeltigre.jpg' url='https://g.co/kgs/DcCBBg' />
 
         <TourismItem title='Molino La Rosa' description='
         Dicho molino se ubicó sobre una de las márgenes del río Quequen Salado, a 1000 metros  al sur del paso natural  con el mismo nombre, en el partido de Coronel Dorrego.
@@ -94,7 +94,7 @@ export default function Turismo() {
         <TourismItem title='Cascada La Escondida' description='
         Salto de agua que se encuentra en cercanías a la localidad de Irene. Tiene la particularidad de tener una forma escalonada y posee una altura de aproximadamente 4 metros.
 
-        ' image='/cascadalaescondida.jpg' url='https://goo.gl/maps/pwTGkJGku1QkqPwZ7' />
+        ' image='/cascadalaescondida.jpg' url='https://maps.app.goo.gl/4hLHRqu6GL4hqgyx5' />
 
         <CtaSection />
         <Footer />
