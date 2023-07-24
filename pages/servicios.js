@@ -14,7 +14,7 @@ export default function ServicesPage() {
     <>
       <Head>
 
-        <title>Balneario Reta Oficial - Servicios de Reta</title>
+        <title>Página Oficial de Reta - Servicios de Reta</title>
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />
@@ -51,7 +51,7 @@ export default function ServicesPage() {
       </Head>
       <OtherNav />
       <div className="services-section">
-        <h1>Los mejores servicios que ofrece en Balneario Reta {currentYear}</h1>
+        <h1>Los mejores servicios en Reta {currentYear}</h1>
         <p className="intro-service">
           Disfruta de una experiencia inigualable en Balneario Reta con los mejores servicios disponibles en {currentYear}. Desde alojamientos de calidad hasta deliciosas opciones gastronómicas y emocionantes actividades acuáticas, encuentra todo lo que necesitas para una estadía perfecta. Descubre los servicios destacados que hacen de Balneario Reta el destino ideal para tu escapada.
         </p>

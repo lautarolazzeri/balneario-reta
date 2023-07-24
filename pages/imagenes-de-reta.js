@@ -23,7 +23,7 @@ export default function ImagenesPage() {
   return (
     <>
       <Head>
-        <title>Balneario Reta Oficial - Imagenes de Reta</title>
+        <title>Página Oficial de Reta  - Imagenes de Reta</title>
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />
@@ -58,8 +58,8 @@ export default function ImagenesPage() {
       <OtherNav />
       <div className="tourism-page" >
         <div className="top-tourism-page">
-          <h1>Las mejores imágenes de Balneario Reta</h1>
-          <p>Sumérgete en la belleza de Balneario Reta a través de las mejores imágenes que capturan su encanto. Desde las impresionantes playas bañadas por el sol hasta los magníficos atardeceres. Explora la galería de imágenes que te transportará a este paraíso costero en todo su esplendor. Si deseas enviarnos tu foto, con gusto la evaluaremos para incluirla en esta sección, escribenos <Link href='#contacto'>Aquí</Link></p>
+          <h1>Las mejores imágenes de Reta</h1>
+          <p>Sumérgete en la belleza de este destino turístico a través de las mejores imágenes que capturan su encanto. Desde las impresionantes playas bañadas por el sol hasta los magníficos atardeceres. Explora la galería de imágenes que te transportará a este paraíso costero en todo su esplendor. Si deseas enviarnos tu foto, con gusto la evaluaremos para incluirla en esta sección, escribenos <Link href='#contacto'>Aquí</Link></p>
         </div>
       </div>
 

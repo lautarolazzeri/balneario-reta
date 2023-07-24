@@ -10,7 +10,7 @@ export default function AlojamientosReta() {
   return (
     <>
       <Head>
-        <title>Balneario Reta Oficial - Alojamientos en Reta</title>
+        <title>Página Oficial de Reta - Encuentra tu alojamiento</title>
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />

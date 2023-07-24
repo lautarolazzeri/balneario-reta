@@ -7,7 +7,7 @@ function GridInfo() {
         <h1>Balneario Reta - Tu lugar en el mundo</h1>
       </div>
       <div className='grid'>
-        <GridInfoItem title='Sobre Balneario Reta' description='Balneario Reta es un hermoso destino turístico ubicado en la costa atlántica de Argentina, famoso por sus playas de arena blanca y mar turquesa. Disfruta de su flora y fauna autóctona, deportes acuáticos y relajantes paseos por la playa.' url='/sobre-balneario-reta' />
+        <GridInfoItem title='Sobre Reta' description='Balneario Reta es un hermoso destino turístico ubicado en la costa atlántica de Argentina, famoso por sus playas de arena blanca y mar turquesa. Disfruta de su flora y fauna autóctona, deportes acuáticos y relajantes paseos por la playa.' url='/sobre-balneario-reta' />
 
         <GridInfoItem title='Historia y cultura' description='Reta lleva este nombre en homenaje a Martín Reta, quien fué su principal impulsor en la década del 20. Balneario Reta quedó fundado oficialmente el 28 de noviembre de 1929, según lo dispuesto por el entonces gobernador de la provincia de Buenos Aires, Dr. Vergara' url='/sobre-balneario-reta' />
 

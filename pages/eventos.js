@@ -11,7 +11,7 @@ export default function Eventos() {
   return (
     <>
       <Head>
-        <title>Balneario Reta Oficial - Eventos</title>
+        <title>Página Oficial de Reta - Eventos cercanos</title>
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />
@@ -50,7 +50,7 @@ export default function Eventos() {
       <div className="events">
         <div className="top-tourism-page">
           <h1>Eventos y Festivales en Reta y alrededores</h1>
-          <p>Balneario Reta es el escenario perfecto para una agenda repleta de emocionantes eventos y vibrantes festivales. Desde celebraciones culturales hasta competiciones deportivas, la diversión nunca se detiene. Sumérgete en la energía de los eventos y festivales de Balneario Reta mientras te maravillas con su espectacular entorno natural.</p>
+          <p>Reta es el escenario perfecto para una agenda repleta de emocionantes eventos y vibrantes festivales. Desde celebraciones culturales hasta competiciones deportivas, la diversión nunca se detiene. Sumérgete en la energía de los eventos y festivales de Balneario Reta mientras te maravillas con su espectacular entorno natural.</p>
         </div>
 
 
