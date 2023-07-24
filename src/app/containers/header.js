@@ -10,7 +10,7 @@ function Header() {
 
     <div className='overlay-header'></div>
     <div className='header-text'>
-      <h1>Balneario Reta</h1>
+      <h1>Página oficial de Reta</h1>
       <h2>Encuentra los mejores alojamientos, destinos turísticos, Información importante, los mejores servicios de Reta, y espectaculares imagenes de estas playas soñadas.</h2>
       <a href='#cards'><button> Explora </button></a>
     </div>
