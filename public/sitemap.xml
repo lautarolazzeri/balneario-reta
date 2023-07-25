@@ -5,35 +5,45 @@
   <loc>https://balnearioreta.vercel.app/</loc>
   <lastmod>2023-07-02</lastmod>
 </url>
+
 <url>
-  <loc>https://balnearioreta.vercel.app/</loc>
+  <loc>https://www.balnearioreta.vercel.app/turismo</loc>
   <lastmod>2023-07-02</lastmod>
 </url>
+
 <url>
-  <loc>https://balnearioreta.vercel.app/turismo</loc>
+  <loc>https://www.balnearioreta.vercel.app/sobre-balneario-reta</loc>
   <lastmod>2023-07-02</lastmod>
 </url>
+
 <url>
-  <loc>https://balnearioreta.vercel.app/sobre-balneario-reta</loc>
+  <loc>https://www.balnearioreta.vercel.app/servicios</loc>
   <lastmod>2023-07-02</lastmod>
 </url>
-<url>
-  <loc>https://balnearioreta.vercel.app/servicios</loc>
-  <lastmod>2023-07-02</lastmod>
-</url>
+
 <url>
   <loc>https://balnearioreta.vercel.app/eventos</loc>
   <lastmod>2023-07-02</lastmod>
 </url>
+
 <url>
-  <loc>https://balnearioreta.vercel.app/imagenes-de-reta</loc>
+  <loc>https://www.balnearioreta.vercel.app/imagenes-de-reta</loc>
   <lastmod>2023-07-02</lastmod>
 </url>
 
 <url>
-  <loc>https://balnearioreta.vercel.app/alojamientos/marsu</loc>
+  <loc>https://www.balnearioreta.vercel.app/alojamientos/marsu</loc>
   <lastmod>2023-07-02</lastmod>
 </url>
 
+<url>
+  <loc>https://balnearioreta.vercel.app/robots.txt</loc>
+  <lastmod>2023-07-02</lastmod>
+</url>
+
+<url>
+  <loc>https://balnearioreta.vercel.app/sitemap.xml</loc>
+  <lastmod>2023-07-24</lastmod>
+</url>
 
 </urlset>
