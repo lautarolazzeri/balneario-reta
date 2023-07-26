@@ -249,7 +249,7 @@ position: absolute;
   z-index: 1;
 }
 
-.header-text h1 {
+.headtitle {
   font-size: 5rem;
   font-weight: 600;
   margin-bottom: 1rem;
@@ -261,7 +261,7 @@ position: absolute;
   margin-bottom: 1rem;
   text-decoration: none;
 }
-.header-text h2 {
+.header-text p {
 font-size: 1.5rem;
   font-weight: 500;
   margin-bottom: 1rem;
@@ -361,11 +361,11 @@ margin-bottom: 1rem;
   grid-gap: 1.5rem;
 }
 
-.header-text h1 {
+.headtitle {
   font-size: 4rem;
 }
 
-.header-text h2 {
+.header-text p {
   font-size: 1.3rem;
   width: 100%;
   }
@@ -381,11 +381,11 @@ margin-bottom: 1rem;
     width: 90%;
   }
 
-.header-text h1 {
+.headtitle {
   font-size: 3rem;
 }
 
-.header-text h2 {
+.header-text p {
   font-size: 1.2rem;
 }
 }
@@ -399,11 +399,11 @@ margin-bottom: 1rem;
     width: 90%;
   }
 
-.header-text h1 {
+.headtitle {
   font-size: 2.4rem;
 }
 
-.header-text h2 {
+.header-text p {
   font-size: 1rem;
 }
 }
