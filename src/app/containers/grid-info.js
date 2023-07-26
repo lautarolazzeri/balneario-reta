@@ -4,7 +4,7 @@ function GridInfo() {
   return (
     <div className='grid-info' id="informacion">
       <div className='text-alquileres'>
-        <h1>Balneario Reta - Tu lugar en el mundo</h1>
+        <h1>la Información mas actualizada de Reta </h1>
       </div>
       <div className='grid'>
         <GridInfoItem title='Sobre Reta' description='Balneario Reta es un hermoso destino turístico ubicado en la costa atlántica de Argentina, famoso por sus playas de arena blanca y mar turquesa. Disfruta de su flora y fauna autóctona, deportes acuáticos y relajantes paseos por la playa.' url='/sobre-balneario-reta' />
