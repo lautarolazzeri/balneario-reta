@@ -8,7 +8,7 @@ function Services() {
         <p>Servicios</p>
         <h1>Los mejores Servicios en Balneario Reta</h1>
         <h3>En este sitio encontrarás los mejores servicios para tu día a día en tu estadía
-          en Reta, para que puedas disfrutar de tus vacaciones al máximo.
+          en estas playas, para que puedas disfrutar de tus vacaciones al máximo.
         </h3>
       </div>
       <div className="grid-services">
