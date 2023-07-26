@@ -66,7 +66,7 @@ function Tourism() {
   return (
 
     <section className='tourism' id="turismo">
-      <GradientSection title="Atracciones turísticas en Balneario Reta, Tres Arroyos" subtitle='Conoce y visita los mejores lugares para recorrer en Reta y sus alrededores como Tres Arroyos, Copetonas, Oriente, y mucho más!' url='/turismo' />
+      <GradientSection title="Visita lugares turísticos en Reta, Tres Arroyos" subtitle='Conoce y visita los mejores lugares para recorrer en Reta y sus alrededores como Tres Arroyos, Copetonas, Oriente, y mucho más!' url='/turismo' />
       <div className='tourism-carousel'>
         <swiper-container class="mySwiper" ref={swiperRef} init="false">
           <SlideTourism title="Palmera's Center" location='1km' image='/svg/palmeras.svg' url='/turismo' />
