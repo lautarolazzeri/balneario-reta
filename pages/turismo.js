@@ -35,7 +35,7 @@ export default function Turismo() {
 
         <meta property="og:title" content="balneario reta oficial - Conoce los mejores lugares para visitar en Balnerio Reta y alrededores" />
         <meta property="og:description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Visita los lugares turisticos que tiene para ofrecer Balneario Reta y sus alrededores, consulta los lugares en google maps" />
-        <meta property="og:locale" content="es_AR" />
+        <meta property="og:locale" content="es" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://balnearioreta.vercel.app" />
         <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />

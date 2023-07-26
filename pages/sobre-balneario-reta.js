@@ -35,7 +35,7 @@ export default function SobreBalnearioReta() {
 
         <meta property="og:title" content="balneario reta oficial - Conoce toda la información de Reta, cultura, actividades locales y más!" />
         <meta property="og:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
-        <meta property="og:locale" content="es_AR" />
+        <meta property="og:locale" content="es" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://balnearioreta.vercel.app" />
         <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />
