@@ -19,12 +19,12 @@ export default function SobreBalnearioReta() {
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@BalnearioRetaOficial" />
-        <meta name="twitter:title" content="Balneario Reta Oficial - Conoce toda la información de Reta, cultura, actividades locales y más!" />
-        <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
+        <meta name="twitter:title" content="Balneario Reta Oficial - Conoce toda la info de Reta, cultura, actividades locales y más!" />
+        <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Conoce la historia de estas hermosas playas y su evolución en el tiempo." />
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
         <meta name="title" content="Balneario Reta Oficial - Conoce toda la información de Reta, cultura, actividades locales y más!" />
-        <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Cabañas en alquiler, atracciones turísticas, información de reta, eventos y muchas imágenes" />
+        <meta name="description" content="Página oficial de Balneario Reta, tu guía completa para conocer todo sobre Reta. Conoce la historia de estas hermosas playas y su evolución en el tiempo." />
         <meta name="keywords" content="balneario reta, tres arroyos, festivales, eventos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos,Cabañas Marsu, Alojamientos Turismo Información, alquileres en reta, servicios, Reta contacto, imagenes, cabañas, mapa, playas, costa Buenos Aires" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -55,7 +55,7 @@ export default function SobreBalnearioReta() {
       <OtherNav />
       <article className="below-nav">
         <div className="info-reta" >
-          <h1>Sobre Reta - Un poco sobre la historia del pueblo</h1>
+          <h1>Información sobre Balneario Reta - </h1>
           <p>Desde sus orígenes hasta la actualidad, conoce los acontecimientos que han dado forma a Reta y sumérgete en su autenticidad. Explora un destino lleno de historia y encanto en cada rincón.</p>
         </div>
         <div className="history-content">
