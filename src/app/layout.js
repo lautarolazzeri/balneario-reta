@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
         <meta name="revisit-after" content="15 days" />
         <meta name="author" content="Lautaro Sebastián Lazzeri" />
 
-        <meta property="og:title" content="balneario reta oficial - alojamiento, servicios, información y más..." />
+        <meta property="og:title" content="Página oficial de RETA. Cabañas en alquiler, atracciones turísticas, información de reta, eventos y muchas imágenes en un solo lugar" />
         <meta property="og:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
         <meta property="og:locale" content="es" />
         <meta property="og:type" content="website" />
