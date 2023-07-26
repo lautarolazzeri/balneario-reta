@@ -11,7 +11,7 @@ export default function Eventos() {
   return (
     <>
       <Head>
-        <title>Página Oficial de Reta - Eventos cercanos</title>
+        <title>Eventos en Reta y cercanías</title>
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />
@@ -21,7 +21,7 @@ export default function Eventos() {
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
         <meta name="title" content="Balneario Reta Oficial - Descubre los próximos eventos a realizar en Reta y sus cercanías" />
-        <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Descubre los mejores lugares para visitar en las cercanias de Balneario Reta" />
+        <meta name="description" content="Página oficial de Reta, tu aliado turistico. Descubre los mejores eventos y festivales para visitar en las cercanias de Balneario Reta" />
         <meta name="keywords" content="balneario reta, tres arroyos, festivales, eventos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos,Cabañas Marsu, Alojamientos Turismo Información, alquileres en reta, servicios, Reta contacto, imagenes, cabañas, mapa, playas, costa Buenos Aires" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

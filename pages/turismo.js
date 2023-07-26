@@ -16,7 +16,7 @@ export default function Turismo() {
       <Head>
         <meta http-equiv="content-language" content="es-" />
 
-        <title>Página Oficial de Reta - Lugares turísticos</title>
+        <title>Lugares turisticos en Reta y cercanias</title>
         <meta name="google" content="notranslate" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@BalnearioRetaOficial" />
@@ -51,7 +51,7 @@ export default function Turismo() {
         <OtherNav />
         <div className="tourism-page" >
           <div className="top-tourism-page">
-          <h1>Turismo en Balneario reta - actividades y lugares {currentYear}</h1>
+          <h1>Lugares turisticos en reta y alrededores - actividades y lugares {currentYear}</h1>
           <p>Embárcate en una aventura inolvidable en Reta y descubre las atracciones turísticas más populares. Desde sus playas doradas hasta sus impresionantes paisajes naturales, sumérgete en la belleza y diversión que ofrece este balneario. Planifica tu visita y disfruta de experiencias inolvidables en este destino de ensueño en {currentYear}.</p>
           </div>
 

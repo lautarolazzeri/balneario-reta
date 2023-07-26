@@ -14,7 +14,7 @@ export default function ServicesPage() {
     <>
       <Head>
 
-        <title>Página Oficial de Reta - Servicios de Reta</title>
+        <title>Los mejores servicios de Reta</title>
         <meta name="google" content="notranslate" />
 
         <meta name="twitter:card" content="summary_large_image" />
@@ -24,7 +24,7 @@ export default function ServicesPage() {
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
         <meta name="title" content="Conoce los mejores servicios: Negocios, Gastronomia, Mercados, a solo un click" />
-        <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Conoce los mejores servicios de Reta. Locales, Alojamientos, gastronomia, mercados, etc. a solo un click" />
+        <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica. Conoce los mejores servicios de Reta. Locales, Alojamientos, gastronomia, mercados, etc. a solo un click" />
         <meta name="keywords" content="balneario reta, tres arroyos, festivales, eventos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos,Cabañas Marsu, Alojamientos Turismo Información, alquileres en reta, servicios, Reta contacto, imagenes, cabañas, mapa, playas, costa Buenos Aires" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -33,7 +33,7 @@ export default function ServicesPage() {
         <meta name="author" content="Lautaro Sebastián Lazzeri" />
 
         <meta property="og:title" content="balneario reta oficial - Conoce los mejores servicios. Locales, gastronomia, mercados, etc. a solo un click" />
-        <meta property="og:description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Conoce los mejores servicios de Reta. Locales, Alojamientos, gastronomia, mercados, etc. a solo un click" />
+        <meta property="og:description" content="Página oficial de Reta, tu guía turistica de Reta. Conoce los mejores servicios de Reta. Locales, Alojamientos, gastronomia, mercados, etc. a solo un click" />
         <meta property="og:locale" content="es" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://balnearioreta.vercel.app" />
