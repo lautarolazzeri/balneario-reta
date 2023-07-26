@@ -8,7 +8,7 @@ function CtaSection() {
       </p>
       <Link href='https://api.whatsapp.com/send?phone=541159333523&text=Hola!'>
         <button>
-          <p>Contactános</p>
+          <p>Contactanos!</p>
         </button>
       </Link>
     </section>
