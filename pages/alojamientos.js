@@ -20,8 +20,8 @@ export default function AlojamientosReta() {
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
         <meta name="title" content="Balneario Reta Oficial - Descubre las mejores cabañas en alquiler en Reta" />
-        <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Cabañas en alquiler, atracciones turísticas, información de reta, eventos y muchas imágenes" />
-        <meta name="keywords" content="balneario reta, tres arroyos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos,Cabañas Marsu, Alojamientos Turismo Información, alquileres en reta, servicios, Reta contacto, imagenes, cabañas, mapa, playas, costa Buenos Aires" />
+        <meta name="description" content="Página oficial de Balneario Reta, encuentra los mejores alojamientos de Reta, consulta directamente con sus dueños y haz tu reserva de forma senc illa!" />
+        <meta name="keywords" content="balneario reta, tres arroyos, cabañas en reta, reta, alojamientos, Información, alquileres en reta, balneario reta alquileres, cabañas, mapa, playas, costa Buenos Aires" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="Spanish" />
@@ -46,7 +46,7 @@ export default function AlojamientosReta() {
       </Head>
       <OtherNav />
       <div className="services-section">
-        <h1>Las mejores cabañas en alquiler en Balneario Reta {currentYear}</h1>
+        <h1>Encuentra los mejores alojamientos en Reta {currentYear}</h1>
         <p className="intro-service">
           Descubre tu hogar lejos de casa en Balneario Reta. Disfruta de una estancia inigualable en nuestras cabañas de ensueño, rodeadas de naturaleza y a pocos pasos de las playas más hermosas. Vive la tranquilidad y comodidad en tu escapada perfecta en Balneario Reta, ¡reserva ahora!.
         </p>
