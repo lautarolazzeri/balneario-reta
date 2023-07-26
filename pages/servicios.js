@@ -24,7 +24,7 @@ export default function ServicesPage() {
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
         <meta name="title" content="Balneario Reta Oficial - Conoce los mejores servicios. Locales, gastronomia, mercados, etc. a solo un click" />
-        <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Cabañas en alquiler, atracciones turísticas, información de reta, eventos y muchas imágenes" />
+        <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Conoce los mejores servicios de Reta. Locales, Alojamientos, gastronomia, mercados, etc. a solo un click" />
         <meta name="keywords" content="balneario reta, tres arroyos, festivales, eventos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos,Cabañas Marsu, Alojamientos Turismo Información, alquileres en reta, servicios, Reta contacto, imagenes, cabañas, mapa, playas, costa Buenos Aires" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -33,7 +33,7 @@ export default function ServicesPage() {
         <meta name="author" content="Lautaro Sebastián Lazzeri" />
 
         <meta property="og:title" content="balneario reta oficial - Conoce los mejores servicios. Locales, gastronomia, mercados, etc. a solo un click" />
-        <meta property="og:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
+        <meta property="og:description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Conoce los mejores servicios de Reta. Locales, Alojamientos, gastronomia, mercados, etc. a solo un click" />
         <meta property="og:locale" content="es_AR" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://balnearioreta.vercel.app" />
@@ -51,9 +51,9 @@ export default function ServicesPage() {
       </Head>
       <OtherNav />
       <div className="services-section">
-        <h1>Los mejores servicios en Reta {currentYear}</h1>
+        <h1>Servicios de Reta {currentYear}</h1>
         <p className="intro-service">
-          Disfruta de una experiencia inigualable en Balneario Reta con los mejores servicios disponibles en {currentYear}. Desde alojamientos de calidad hasta deliciosas opciones gastronómicas y emocionantes actividades acuáticas, encuentra todo lo que necesitas para una estadía perfecta. Descubre los servicios destacados que hacen de Balneario Reta el destino ideal para tu escapada.
+          Disfruta de una experiencia inigualable en estas playas con los mejores servicios disponibles en {currentYear}. Desde alojamientos de calidad hasta deliciosas opciones gastronómicas y emocionantes actividades acuáticas, encuentra todo lo que necesitas para una estadía perfecta. Descubre los servicios destacados que hacen de Balneario Reta el destino ideal para tu escapada.
         </p>
 
         <ServiceItem title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' urldirection='https://goo.gl/maps/8TKTsZ7gVV3qQH229' serviceImage='/alquileres/marsu/cabañasmarsu9.jpg' />
