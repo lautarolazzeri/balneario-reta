@@ -16,7 +16,7 @@ export default function Eventos() {
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@BalnearioRetaOficial" />
-        <meta name="twitter:title" content="Balneario Reta Oficial - Descubre los próximos eventos a realizar en Reta y sus cercanías" />
+        <meta name="twitter:title" content="Descubre los próximos eventos a realizar en Reta y sus cercanías" />
         <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 

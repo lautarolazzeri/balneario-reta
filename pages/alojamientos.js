@@ -19,7 +19,7 @@ export default function AlojamientosReta() {
         <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
-        <meta name="title" content="Balneario Reta Oficial - Descubre las mejores cabañas en alquiler en Reta" />
+        <meta name="title" content="Balneario Reta Oficial - Descubre los mejores alojamientos en alquiler" />
         <meta name="description" content="Página oficial de Balneario Reta, encuentra los mejores alojamientos de Reta, consulta directamente con sus dueños y haz tu reserva de forma senc illa!" />
         <meta name="keywords" content="balneario reta, tres arroyos, cabañas en reta, reta, alojamientos, Información, alquileres en reta, balneario reta alquileres, cabañas, mapa, playas, costa Buenos Aires" />
         <meta name="robots" content="index, follow" />

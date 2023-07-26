@@ -23,7 +23,7 @@ export default function ServicesPage() {
         <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
-        <meta name="title" content="Balneario Reta Oficial - Conoce los mejores servicios. Locales, gastronomia, mercados, etc. a solo un click" />
+        <meta name="title" content="Conoce los mejores servicios: Negocios, Gastronomia, Mercados, a solo un click" />
         <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Conoce los mejores servicios de Reta. Locales, Alojamientos, gastronomia, mercados, etc. a solo un click" />
         <meta name="keywords" content="balneario reta, tres arroyos, festivales, eventos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos,Cabañas Marsu, Alojamientos Turismo Información, alquileres en reta, servicios, Reta contacto, imagenes, cabañas, mapa, playas, costa Buenos Aires" />
         <meta name="robots" content="index, follow" />
