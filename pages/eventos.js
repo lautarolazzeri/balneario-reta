@@ -21,7 +21,7 @@ export default function Eventos() {
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
         <meta name="title" content="Balneario Reta Oficial - Descubre los próximos eventos a realizar en Reta y sus cercanías" />
-        <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Cabañas en alquiler, atracciones turísticas, información de reta, eventos y muchas imágenes" />
+        <meta name="description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Descubre los mejores lugares para visitar en las cercanias de Balneario Reta" />
         <meta name="keywords" content="balneario reta, tres arroyos, festivales, eventos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos,Cabañas Marsu, Alojamientos Turismo Información, alquileres en reta, servicios, Reta contacto, imagenes, cabañas, mapa, playas, costa Buenos Aires" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -50,7 +50,7 @@ export default function Eventos() {
       <div className="events">
         <div className="top-tourism-page">
           <h1>Eventos y Festivales en Reta y alrededores</h1>
-          <p>Reta es el escenario perfecto para una agenda repleta de emocionantes eventos y vibrantes festivales. Desde celebraciones culturales hasta competiciones deportivas, la diversión nunca se detiene. Sumérgete en la energía de los eventos y festivales de Balneario Reta mientras te maravillas con su espectacular entorno natural.</p>
+          <p>Reta es el escenario perfecto para una agenda repleta de emocionantes eventos y vibrantes festivales. Desde celebraciones culturales hasta competiciones deportivas, la diversión nunca se detiene. Sumérgete en la energía de los eventos y festivales mientras te maravillas con su espectacular entorno natural.</p>
         </div>
 
 
