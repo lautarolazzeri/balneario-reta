@@ -31,6 +31,7 @@ export default function ServicesPage() {
         <meta name="language" content="Spanish" />
         <meta name="revisit-after" content="15 days" />
         <meta name="author" content="Lautaro Sebastián Lazzeri" />
+        <meta http-equiv="content-language" content="es" />
 
         <meta property="og:title" content="balneario reta oficial - Conoce los mejores servicios. Locales, gastronomia, mercados, etc. a solo un click" />
         <meta property="og:description" content="Página oficial de Reta, tu guía turistica de Reta. Conoce los mejores servicios de Reta. Locales, Alojamientos, gastronomia, mercados, etc. a solo un click" />

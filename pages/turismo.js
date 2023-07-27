@@ -40,6 +40,7 @@ export default function Turismo() {
         <meta property="og:url" content="https://balnearioreta.vercel.app" />
         <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />
         <meta property="og:site_name" content="Balneario Reta Oficial" />
+        <meta http-equiv="content-language" content="es" />
 
 
 

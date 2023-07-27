@@ -31,6 +31,7 @@ export default function ImagenesPage() {
         <meta name="twitter:title" content="Balneario Reta Oficial - Mira las mejores imagenes de Balneario Reta!" />
         <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
+        <meta http-equiv="content-language" content="es" />
 
         <meta name="title" content="Mira las mejores imagenes de Balneario Reta" />
         <meta name="keywords" content="balneario reta, tres arroyos, festivales, eventos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos, Alojamientos, Turismo Información, alquileres en reta, servicios, Reta contacto, imagenes, cabañas, mapa, playas, costa Buenos Aire, balneario reta imagenes" />
