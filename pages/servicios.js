@@ -31,11 +31,11 @@ export default function ServicesPage() {
         <meta name="language" content="Spanish" />
         <meta name="revisit-after" content="15 days" />
         <meta name="author" content="Lautaro Sebastián Lazzeri" />
-        <meta http-equiv="content-language" content="es" />
+        <meta http-equiv="content-language" content="AR" />
 
         <meta property="og:title" content="balneario reta oficial - Conoce los mejores servicios. Locales, gastronomia, mercados, etc. a solo un click" />
         <meta property="og:description" content="Página oficial de Reta, tu guía turistica de Reta. Conoce los mejores servicios de Reta. Locales, Alojamientos, gastronomia, mercados, etc. a solo un click" />
-        <meta property="og:locale" content="es" />
+        <meta property="og:locale" content="AR" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://balnearioreta.vercel.app" />
         <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />

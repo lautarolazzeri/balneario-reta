@@ -14,8 +14,6 @@ export default function Turismo() {
     <>
 
       <Head>
-        <meta http-equiv="content-language" content="es-" />
-
         <title>Lugares turisticos en Reta y cercanias</title>
         <meta name="google" content="notranslate" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -40,7 +38,7 @@ export default function Turismo() {
         <meta property="og:url" content="https://balnearioreta.vercel.app" />
         <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />
         <meta property="og:site_name" content="Balneario Reta Oficial" />
-        <meta http-equiv="content-language" content="es" />
+        <meta http-equiv="content-language" content="AR" />
 
 
 

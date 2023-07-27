@@ -22,7 +22,7 @@ export default function SobreBalnearioReta() {
         <meta name="twitter:title" content="Balneario Reta Oficial - Conoce toda la info de Reta, cultura, actividades locales y más!" />
         <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Conoce la historia de estas hermosas playas y su evolución en el tiempo." />
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
-        <meta http-equiv="content-language" content="es" />
+        <meta http-equiv="content-language" content="AR" />
 
         <meta name="title" content="Información de Reta, cultura, actividades locales y más" />
         <meta name="description" content="Bienvenido a tu guía completa para conocer todo sobre Reta. Conoce la historia de estas hermosas playas y su evolución en el tiempo." />
@@ -36,7 +36,7 @@ export default function SobreBalnearioReta() {
 
         <meta property="og:title" content="balneario reta oficial - Conoce toda la información de Reta, cultura, actividades locales y más!" />
         <meta property="og:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
-        <meta property="og:locale" content="es" />
+        <meta property="og:locale" content="AR" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://balnearioreta.vercel.app" />
         <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />

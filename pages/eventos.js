@@ -20,7 +20,7 @@ export default function Eventos() {
         <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
         <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
 
-        <meta http-equiv="content-language" content="es" />
+        <meta http-equiv="content-language" content="AR" />
 
         <meta name="title" content="Balneario Reta Oficial - Descubre los próximos eventos a realizar en Reta y sus cercanías" />
         <meta name="description" content="Página oficial de Reta, tu aliado turistico. Descubre los mejores eventos y festivales para visitar en las cercanias de Balneario Reta" />
@@ -33,7 +33,7 @@ export default function Eventos() {
 
         <meta property="og:title" content="balneario reta oficial - Descubre los próximos eventos a realizar en Reta y sus cercanías" />
         <meta property="og:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
-        <meta property="og:locale" content="es" />
+        <meta property="og:locale" content="AR" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://balnearioreta.vercel.app" />
         <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />
