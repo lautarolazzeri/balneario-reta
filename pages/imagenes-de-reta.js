@@ -34,6 +34,7 @@ export default function ImagenesPage() {
         <meta http-equiv="content-language" content="AR" />
 
         <meta name="title" content="Mira las mejores imagenes de Balneario Reta" />
+        <meta name="description" content="Explora una galeria de imagenes de Reta, desde fotos de la playa, hasta fotos del campo, todo en un solo lugar!" />
         <meta name="keywords" content="balneario reta, tres arroyos, festivales, eventos, cabañas en reta, turismo reta, imagenes de reta, reta, alojamientos, Alojamientos, Turismo Información, alquileres en reta, servicios, Reta contacto, imagenes, cabañas, mapa, playas, costa Buenos Aire, balneario reta imagenes" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
