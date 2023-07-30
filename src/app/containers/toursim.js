@@ -73,8 +73,8 @@ function Tourism() {
           <SlideTourism title='La Usina - Puente Viejo' location='37km' image='/svg/usina.svg' url='/turismo' littledown='littledown' />
           <SlideTourism title='Cascada Cifuentes' location='51km' image='/svg/cifuentes.svg' url='/turismo' />
           <SlideTourism title='Cueva del Tigre' location='63km' image='/svg/cueva-del-tigre.svg' url='/turismo' littledown='littledown' />
-          <SlideTourism title='Molino La Rosa' location='63km' image='/molinoindex.jpg' url='/turismo' />
-          <SlideTourism title='Cascada la Escondida' location='63km' image='/laescondida.jpg' url='/turismo' littledown='littledown' />
+          <SlideTourism title='Molino La Rosa' location='63km' image='/turismo/molinoindex.jpg' url='/turismo' />
+          <SlideTourism title='Cascada la Escondida' location='63km' image='/turismo/laescondida.jpg' url='/turismo' littledown='littledown' />
         </swiper-container>
 
       </div>
