@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
         <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioreta.vercel.app", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
         <meta name="google" content="notranslate" />
 
-        <link rel="icon" href="../favicon.ico" />
+        <link rel="icon" href="favicon.ico" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta http-equiv="content-language" content="es" />
