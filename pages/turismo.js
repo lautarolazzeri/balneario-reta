@@ -66,7 +66,7 @@ export default function Turismo() {
 
 
 
-        ' image='/la-usina.jpg' url='https://goo.gl/maps/BedhuRVcucjSq9G2A' />
+        ' image='/turismo/la-usina.jpg' url='https://goo.gl/maps/BedhuRVcucjSq9G2A' />
 
         <TourismItem title='Cascadas Cifuentes' description='
         Su nombre hace alusión al propietario de estas tierras, aunque también es conocida como Cascada de Aldaya. Se trata del salto de agua más alto de la Provincia de Buenos Aires, llegando a alcanzar los 8 metros de altura. Ubicada en el curso inferior del Río Quequén Salado, entre los partidos de Coronel Dorrego y Tres Arroyos en cercanía del mar, es uno de los accidentes geográficos más imponentes de este importante curso de agua.
@@ -74,11 +74,11 @@ export default function Turismo() {
         Se puede acceder mediante la ruta Nacional N°3 Km. 532 descendiendo por camino rural, se recorren 4 kilómetros y luego se debe bajar caminando hasta llegar a la cascada. Se trata de un entorno rocoso rodeado por una zona de bosques. El entorno invita a practicar actividades deportivas y recreativas como: natación, kayak, trekking y diferentes actividades acuáticas.
 
         Además, cuenta con una bajada con playa desde donde se puede apreciar la cascada y especies autóctonas del lugar. Es habitual el avistaje de una gran variedad de aves tales como loros, gansos y patos. Tal entorno, es ideal para compartir un lindo momento al aire libre y configura una buena propuesta durante cualquier momento del año.
-        ' image='/cifuentes.webp' url='https://goo.gl/maps/yqKD327ykmvv8yK98' />
+        ' image='/turismo/cifuentes.webp' url='https://goo.gl/maps/yqKD327ykmvv8yK98' />
 
         <TourismItem title='Cueva del Tigre' description='Este paraje, antiguamente fue utilizado como vado natural por las carretas, arreos y viajeros para atravesar el Rio Quequén Salado.
         A pocos metros de este paso, es posible observar varias cuevas y cascadas.
-        En una de ellas, se refugió allá por el año 1860 Félix Pacheco, un cuatrero conocido como “El Tigre del Quequén”, que según la creencia popular, aprovechaba la proximidad con este paso para asaltar a los viajeros que lo atravesaban. En 1875, fue capturado por el comisario Luis Aldaz conocido como “Gorra Colorada”.' image='/cuevadeltigre.jpg' url='https://g.co/kgs/DcCBBg' />
+        En una de ellas, se refugió allá por el año 1860 Félix Pacheco, un cuatrero conocido como “El Tigre del Quequén”, que según la creencia popular, aprovechaba la proximidad con este paso para asaltar a los viajeros que lo atravesaban. En 1875, fue capturado por el comisario Luis Aldaz conocido como “Gorra Colorada”.' image='/turismo/cuevadeltigre.jpg' url='https://g.co/kgs/DcCBBg' />
 
         <TourismItem title='Molino La Rosa' description='
         Dicho molino se ubicó sobre una de las márgenes del río Quequen Salado, a 1000 metros  al sur del paso natural  con el mismo nombre, en el partido de Coronel Dorrego.
@@ -89,12 +89,12 @@ export default function Turismo() {
 
         Hoy recorriendo las ruinas de este complejo harinero podemos observar todavía en pie las dos torres de dichos molinos distantes entre si de 130 metros y construidos totalmente con las piedras del lugar, tipo pirca,  con la salvedad que posee  entre ellas mezcla; los canales, algunas paredes de las instalaciones, corrales, compuertas, puentes,  y en el cauce del río restos de las dos represas.
 
-        ' image='/molinolarosa.jpg' url='https://goo.gl/maps/JhQeupCrs2oaDxip7' />
+        ' image='/turismo/molinolarosa.jpg' url='https://goo.gl/maps/JhQeupCrs2oaDxip7' />
 
         <TourismItem title='Cascada La Escondida' description='
         Salto de agua que se encuentra en cercanías a la localidad de Irene. Tiene la particularidad de tener una forma escalonada y posee una altura de aproximadamente 4 metros.
 
-        ' image='/cascadalaescondida.jpg' url='https://maps.app.goo.gl/4hLHRqu6GL4hqgyx5' />
+        ' image='/turismo/cascadalaescondida.jpg' url='https://maps.app.goo.gl/4hLHRqu6GL4hqgyx5' />
 
         <CtaSection />
         <Footer />
