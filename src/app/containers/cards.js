@@ -7,6 +7,7 @@ function Cards() {
     <SingleCard image='./svg/info.svg' title='Información' text='Encuentra la información mas actualizada de Reta' url='/#informacion' />
     <SingleCard image='./svg/services.svg' title='Servicios' text='Los mejores servicios de Reta se encuentran aquí' url='/#servicios' />
     <SingleCard image='./svg/images.svg' title='Imágenes de Reta' text='Las mejores fotos de Balneario Reta, Miralas aquí!' url='/#imagenes' />
+    <SingleCard image='./svg/pointofinterest.svg' title='Puntos de interés' text='Ubicaciones rápidas de diferentes lugares de Reta' url='/puntos-de-interes' />
   </div>
 }
 
