@@ -2070,3 +2070,44 @@ margin-bottom: 1rem;
     width: 100%;
   }
 }
+
+.buttons-alojamiento {
+  display: flex;
+}
+
+.wsp-alojamiento {
+  background-color: #38B94A;
+  width: min-content;
+  padding: .7rem;
+  border-radius: 16px;
+  margin: 0 .5rem;
+}
+
+.wsp-alojamiento svg {
+  height: 60px;
+}
+
+.phone-alojamiento {
+  background-color: black;
+  width: min-content;
+  padding: .7rem;
+  border-radius: 16px;
+  margin: 0 .5rem;
+}
+
+
+.phone-alojamiento svg {
+  height: 60px;
+}
+
+.gmail-alojamiento {
+  background-color: #35599F;
+  width: min-content;
+  padding: .7rem;
+  border-radius: 16px;
+  margin: 0 .5rem;
+}
+
+.gmail-alojamiento svg {
+  height: 60px;
+}
