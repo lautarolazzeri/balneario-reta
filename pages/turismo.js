@@ -57,6 +57,10 @@ export default function Turismo() {
 
         <TourismItem title='Palmera´s Center Reta' description=' Traído por bueyes desde Estados Unidos en la década de 1940, el carromato fue utilizado como vivienda familiar y de la misma época son las palmeras, los siempre verde y los eucaliptos. En el recorrido se puede ver también un aljibe construido en la misma época y el pilar de luz de 1975, cuando llegaban las primeras conexiones eléctricas al pueblo. Además, dentro de las instalaciones del carromato se encuentra en funcionamiento el Museo y Fototeca de Reta. En cada placa recordatoria reza la leyenda "Preservar nuestro pasado es construir nuestro futuro." El paseo Palmera´s center cuenta con una oferta comercial que incluye artesanias, telares, restaurant y bar, inmobiliaria Isabel Codonio y espacio de Ajedrez.' id='palmeras' image='/svg/as.svg' url='https://goo.gl/maps/WWqGWP9qqHeTgNJY6' />
 
+        <TourismItem title='La Albúfera' description='Es una laguna literal de aguas salobres, debido a la mezcla de aguas dulces y marítimas, descubierta alrededor del año 1970 por el Ing. Francisco Flores. Se encuentra situada en una depresión natural de la playa contigua al mar, separada por una lengua o cordón de arena siendo alimentada por las aguas superficiales del arroyo El Gaucho y las provenientes del mismo mar.
+        En el mismo, conviven diversas especies de animales: cangrejos, patos, cisnes de cuello negro, flamencos, nutrias, liebres, zorros y animales peludos. Ideal para disfrutar de una romántica puesta de sol en pareja o en familia y descubrir los encantos de la naturaleza. Mira como llegar tocando el link debajo de la imagen' url='https://goo.gl/maps/akSjyDD92VF5V27v8' image='/reta-img/imagen-reta (52).webp' />
+
+
         <TourismItem title='La Usina - Puente Viejo' description='
         La Usina es una antigua central hidroeléctrica que data de principios del siglo XX. Construida con una arquitectura imponente y de estilo industrial, esta usina fue uno de los pilares del progreso en la región, brindando energía eléctrica para el desarrollo de la comunidad circundante. Hoy en día, sus estructuras y maquinaria han sido preservadas, ofreciendo a los visitantes una visión fascinante de la ingeniería y la historia local.
 
@@ -95,6 +99,20 @@ export default function Turismo() {
         Salto de agua que se encuentra en cercanías a la localidad de Irene. Tiene la particularidad de tener una forma escalonada y posee una altura de aproximadamente 4 metros.
 
         ' image='/turismo/cascadalaescondida.jpg' url='https://maps.app.goo.gl/4hLHRqu6GL4hqgyx5' />
+
+
+        <TourismItem title='El Caracolero' description='Yendo por la playa, hacia  Claromecó, se encuentra el Caracolero, un sitio rocoso en el que se forma un cementerio natural de caracoles que se acumulan entre las rocas por  la subida del mar durante las frecuentes sudestadas.
+        En esta zona se han reconocido en el año 2009, huellas humanas que datan de 29.200 años de antiguedad y de un gliptodonte. Se ha denomido al lugar Yacimiento «Las Patas».
+        Las patas más viejas de América están en playas de Claromecó. Las pisadas fósiles humanas y de animales en el yacimiento Las Patas, ubicado en la costa bonaerense de Claromecó, tendrían «una antigüedad de 29 mil años», lo que reinstala el debate sobre la teoría de Florentino Ameghino para quien los pobladores primitivos cohabitaron con grandes mamíferos en América.
+        El yacimiento Las Patas, donde se hallaron tres huellas humanas y una de megaterio -una especie de oso gigante del período pleistoceno final-, se encuentra sobre la costa, en un sitio rocoso, denominada ‘el caracolero’.
+        A la zona solo se puede acceder a través de la playa.
+        ' image='/turismo/caracolero.avif' url='https://goo.gl/maps/MDrcGzjyr5Abn7Rh7' />
+
+
+        <TourismItem title='El Barco Hundido' description='Había una antigua leyenda sobre un vapor que navegaba estas aguas del sur bonaerense, llevando una valiosa carga de hierro con destino a Bahía Blanca. Sin embargo, en algún momento de su travesía, el destino lo condujo a quedarse aquí, varado en las costas de Balneario Reta. Las circunstancias de su encallamiento aún son un misterio, perdido entre las fuerzas impredecibles de la naturaleza o quizás debido a alguna negligencia o error humano. Esto ocurrió en los albores del siglo XX, cuando el barco decidió fijar su morada entre las calles 42 y 44, emergiendo de las profundidades cada vez que la marea se retiraba.
+        La historia de este naufragio, conocido simplemente como el "Barco Hundido", ha perdurado a lo largo del tiempo y se ha convertido en un atractivo turístico cautivador. Con el paso de los años, la forma y la apariencia del barco han cambiado en detalles perceptibles, lo que lo convierte en una emocionante experiencia para aquellos que regresan a Reta y pueden apreciar una nueva postal en cada visita.
+        En efecto, el "Barco Hundido" ha pasado a ser más que un nombre, es una entidad en sí misma que evoca historias de navegación y misterio sumergidas bajo el mar. Su presencia en la costa de Balneario Reta sigue cautivando a todos aquellos que tienen la oportunidad de contemplarlo.'  image='/turismo/barcohundido.jpg' url='https://goo.gl/maps/QkDCjSRXDhRNc3geA' />
+
 
         <CtaSection />
         <Footer />
