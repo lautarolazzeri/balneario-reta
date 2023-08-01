@@ -17,6 +17,7 @@ function OtherNav() {
             <p className="difcolor"> <Link href='/sobre-balneario-reta'>Información</Link> </p>
             <p className="difcolor"> <Link href='/servicios'>Servicios</Link> </p>
             <p className="difcolor"> <Link href='/imagenes-de-reta'>Imágenes de Reta</Link> </p>
+            <p className="items-navbar"> <Link href='/puntos-de-interes'>Puntos de interés</Link> </p>
             <p className="difcolor"> <Link href='#contacto'>Contacto</Link> </p>
           </div>
         </div>

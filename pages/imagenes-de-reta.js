@@ -10,7 +10,6 @@ import Thumbnails from "yet-another-react-lightbox/plugins/thumbnails";
 import "yet-another-react-lightbox/plugins/thumbnails.css";
 import photos from "../src/app/components/photos";
 import OtherNav from "../src/app/containers/others-navbar";
-import Image from "next/image";
 import CtaSection from "../src/app/containers/cta-section";
 import Footer from "../src/app/containers/footer";
 import Script from "next/script";

@@ -286,7 +286,7 @@ Cards styles
 */
 
 .cards {
-margin: var(--margin);
+margin: 1rem;
   display: flex;
 }
 
@@ -585,6 +585,8 @@ margin-bottom: 1rem;
   .alquileres-top {
     flex-direction: column;
     align-items: flex-start;
+    padding-left: 0;
+      margin: 1rem;
   }
 
   .button-alquileres {
@@ -592,7 +594,7 @@ margin-bottom: 1rem;
   }
 
   .alquileres {
-    margin: 0 1rem 0 1rem;
+    margin: 0;
   }
 }
 
@@ -637,7 +639,7 @@ margin-bottom: 1rem;
 
 @media (max-width: 500px) {
   .text-alquileres h1 {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     margin-bottom: .4rem;
   }
 }
@@ -814,7 +816,7 @@ margin-bottom: 1rem;
 
 @media (max-width: 768px) {
   .tourism {
-    margin: 1rem;
+    margin: 0;
 }
 
 .littledown {
@@ -822,7 +824,7 @@ margin-bottom: 1rem;
 }
 .info {
   padding: 0;
-  margin: 2rem;
+  margin: 1rem;
   margin-bottom: 3rem;
 }
 }
@@ -894,7 +896,7 @@ margin-bottom: 1rem;
 
 @media (max-width: 768px) {
   .grid-info {
-    margin: 1rem;
+    margin: 0;
     margin-top: 3rem;
   }
 
@@ -995,7 +997,7 @@ margin-bottom: 1rem;
   }
 
   .services {
-    margin: 1rem;
+    margin: 0;
   }
 
   .services-top {
@@ -1010,7 +1012,9 @@ margin-bottom: 1rem;
   .grid-services {
     grid-template-columns: repeat(1, 1fr);
   }
-
+.services-top h3 {
+  font-size: 1rem;
+}
   .item-serv-image {
     width: 100%;
   }
@@ -1034,7 +1038,6 @@ margin-bottom: 1rem;
   }
 }
 .images {
-  margin: 1rem;
   margin-top: 5rem;
   padding: 1rem;
   display: flex;
@@ -2110,4 +2113,85 @@ margin-bottom: 1rem;
 
 .gmail-alojamiento svg {
   height: 60px;
+}
+.grid-points {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2rem;
+  column-gap: 2rem;
+  position: relative;
+  top: 10rem;
+  margin: var(--margin);
+}
+
+.grid-points .point {
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+  padding: 1rem;
+  border-radius: 16px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.grid-points .point h3 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: .5rem;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
+
+.grid-points .point:hover {
+  transform: scale(1.02);
+}
+
+.point-image {
+  width: 100%;
+  height: 200px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.point-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.grid-points .point button {
+  background: var(--linear-gradient);
+  color: #fff;
+  padding: .5rem 1rem;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 0 auto;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-top: 1rem;
+  cursor: pointer;
+  transition: all .3s ease;
+}
+
+.grid-points .point .point-description {
+  width: 100%;
+}
+
+@media (max-width: 900px) {
+  .grid-points {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .grid-points {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 1rem;
+  }
 }

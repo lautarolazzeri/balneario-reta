@@ -16,6 +16,7 @@ function Navbar() {
             <p className="items-navbar"> <Link href='#informacion'>Información</Link> </p>
             <p className="items-navbar"> <Link href='#servicios'>Servicios</Link> </p>
             <p className="items-navbar"> <Link href='#imagenes'>Imágenes de Reta</Link> </p>
+            <p className="items-navbar"> <Link href='/puntos-de-interes'>Puntos de Interés</Link> </p>
             <p className="items-navbar"> <Link href='#contacto'>Contacto</Link> </p>
           </div>
         </div>
