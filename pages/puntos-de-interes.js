@@ -56,69 +56,15 @@ export default function PointOfInterest() {
         <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
         <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
         <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
 
 
-
-        <div className="point">
-          <div className="point-image">
-            <img src="/turismo/cuevadeltigre.jpg" alt="Barco hundido Reta" />
-          </div>
-          <div className="point-description">
-            <h3>Barco hundido</h3>
-            <Link href='#'>
-              <button>Ver en Google Maps</button>
-            </Link>
-          </div>
-        </div>
-
-        <div className="point">
-          <div className="point-image">
-            <img src="/turismo/caracolero.avif" alt="Barco hundido Reta" />
-          </div>
-          <div className="point-description">
-            <h3>Barco hundido</h3>
-            <Link href='#'>
-              <button>Ver en Google Maps</button>
-            </Link>
-          </div>
-        </div>
-
-
-        <div className="point">
-          <div className="point-image">
-            <img src="/turismo/barcohundido.jpg" alt="Barco hundido Reta" />
-          </div>
-          <div className="point-description">
-            <h3>Barco hundido</h3>
-            <Link href='#'>
-              <button>Ver en Google Maps</button>
-            </Link>
-          </div>
-        </div>
-
-        <div className="point">
-          <div className="point-image">
-            <img src="/turismo/cuevadeltigre.jpg" alt="Barco hundido Reta" />
-          </div>
-          <div className="point-description">
-            <h3>Barco hundido</h3>
-            <Link href='#'>
-              <button>Ver en Google Maps</button>
-            </Link>
-          </div>
-        </div>
-
-        <div className="point">
-          <div className="point-image">
-            <img src="/turismo/caracolero.avif" alt="Barco hundido Reta" />
-          </div>
-          <div className="point-description">
-            <h3>Barco hundido</h3>
-            <Link href='#'>
-              <button>Ver en Google Maps</button>
-            </Link>
-          </div>
-        </div>
       </div>
     </>
   )
