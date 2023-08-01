@@ -11,7 +11,7 @@ export default function Point(props) {
       </div>
       <div className="point-description">
         <h3>{title}</h3>
-        <Link href={url}>
+        <Link href={url} target="_blank">
           <button>Ver en Google Maps</button>
         </Link>
       </div>

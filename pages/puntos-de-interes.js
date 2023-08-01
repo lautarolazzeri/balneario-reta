@@ -53,25 +53,25 @@ export default function PointOfInterest() {
 
 
         <Point title='Entrada de Reta (Arco)' url='#' image='/reta-img/imagen-reta (15).webp' />
-        <Point title='Túnel submedanal' url='#' image='/reta-img/imagen-reta (12).webp' />
-        <Point title='Mirador de la Albúfera' url='#' image='/svg/soon.svg' />
-        <Point title='Anfiteatro' url='#' image='/svg/soon.svg' />
-        <Point title='Camping' url='#' image='/svg/soon.svg' />
+        <Point title='Túnel submedanal' url='https://goo.gl/maps/EnYzquQdqvkbr79XA' image='/reta-img/imagen-reta (12).webp' />
+        <Point title='Mirador de la Albúfera' url='https://goo.gl/maps/X2oo6n2c2v6aoo4v8' image='/svg/soon.svg' />
+        <Point title='Anfiteatro' url='https://goo.gl/maps/Y8t7D3GKmtTP8VTU9' image='/svg/soon.svg' />
+        <Point title='Camping' url='https://goo.gl/maps/ZQy9QkLbumkskvyRA' image='/svg/soon.svg' />
         <Point title='Bajada a la playa con vehículo' url='#' image='/svg/soon.svg' />
-        <Point title='Centro Comercial y Cultural Palmera´s Center' url='#' image='/svg/soon.svg' />
-        <Point title='Centro de Salud' url='#' image='/svg/soon.svg' />
-        <Point title='Delegación municipal' url='#' image='/svg/soon.svg' />
-        <Point title='Plaza principal' url='#' image='/svg/soon.svg' />
+        <Point title='Centro Comercial y Cultural Palmera´s Center' url='https://goo.gl/maps/pbxXWYctf6cvZTah6' image='/svg/soon.svg' />
+        <Point title='Centro de Salud Municipal' url='https://goo.gl/maps/RuhMV32SbpfaXnN87' image='/svg/soon.svg' />
+        <Point title='Delegación municipal' url='https://goo.gl/maps/9Sqpz3pdP6rn22tA8' image='/svg/soon.svg' />
+        <Point title='Plaza principal' url='https://goo.gl/maps/8QcoMjJoY31iTCzy5' image='/svg/soon.svg' />
         <Point title='Comisaría' url='#' image='/svg/soon.svg' />
-        <Point title='Bomberos' url='#' image='/svg/soon.svg' />
-        <Point title='Museo y Fototeca de Reta' url='#' image='/svg/as.svg' />
-        <Point title='Oficina de turismo' url='#' image='/svg/soon.svg' />
-        <Point title='Cascada del arroyo "El Gaucho"' url='#' image='/svg/soon.svg' />
-        <Point title='Puente del arroyo' url='#' image='/svg/soon.svg' />
-        <Point title='Albúfera Playa' url='#' image='/reta-img/imagen-reta (45).webp' />
+        <Point title='Bomberos' url='https://goo.gl/maps/z1fdqgQqhA3ms7WA8' image='/svg/soon.svg' />
+        <Point title='Museo y Fototeca de Reta' url='https://goo.gl/maps/UUz4PCgJt8a2JHLv6' image='/svg/as.svg' />
+        <Point title='Oficina de turismo' url='https://goo.gl/maps/P3iA52r5CXhhX3sB9' image='/svg/soon.svg' />
+        <Point title='Cascada del arroyo "El Gaucho"' url='https://goo.gl/maps/LyyE3iVEAyCcTA5S9' image='/svg/soon.svg' />
+        <Point title='Puente del arroyo' url='https://goo.gl/maps/CEKuZXf9ov6Gq9pW7' image='/svg/soon.svg' />
+        <Point title='Albúfera Playa' url='https://goo.gl/maps/yK3amKGpdQkoZDJu6' image='/reta-img/imagen-reta (45).webp' />
         <Point title='Reserva Natural' url='#' image='/svg/soon.svg' />
-        <Point title='Copetonas' url='#' image='/svg/soon.svg' />
-        <Point title='Iglesia' url='#' image='/svg/soon.svg' />
+        <Point title='Copetonas' url='https://goo.gl/maps/QMcFaZrAtmbqNYd88' image='/pointofinterest/copetonas.jpg' />
+        <Point title='Iglesia Catolica Apostolica - Agustinos Recoletos-' url='https://goo.gl/maps/nTDCXB6Q2z98RQqPA' image='/svg/soon.svg' />
 
 
       </div>
