@@ -3,6 +3,7 @@ import Link from "next/link";
 import OtherNav from "../src/app/containers/others-navbar";
 import Script from "next/script";
 import '../styles/globals.css'
+import Point from "../src/app/components/pointofinterest";
 
 export default function PointOfInterest() {
   return (
@@ -47,17 +48,16 @@ export default function PointOfInterest() {
         </div>
       </div>
       <div className="grid-points">
-        <div className="point">
-          <div className="point-image">
-            <img src="/turismo/barcohundido.jpg" alt="Barco hundido Reta" />
-          </div>
-          <div className="point-description">
-            <h3>Barco hundido</h3>
-            <Link href='#'>
-              <button>Ver en Google Maps</button>
-            </Link>
-          </div>
-        </div>
+
+
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+
+
 
         <div className="point">
           <div className="point-image">

@@ -2195,3 +2195,8 @@ margin-bottom: 1rem;
     margin: 1rem;
   }
 }
+@media (max-width: 375px) {
+  .point-image {
+    height: 150px;
+  }
+}
