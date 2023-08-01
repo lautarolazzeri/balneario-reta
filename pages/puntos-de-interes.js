@@ -65,7 +65,7 @@ export default function PointOfInterest() {
         <Point title='Comisaría' url='#' image='/svg/soon.svg' />
         <Point title='Bomberos' url='https://goo.gl/maps/z1fdqgQqhA3ms7WA8' image='/svg/soon.svg' />
         <Point title='Museo y Fototeca de Reta' url='https://goo.gl/maps/UUz4PCgJt8a2JHLv6' image='/svg/as.svg' />
-        <Point title='Oficina de turismo' url='https://goo.gl/maps/P3iA52r5CXhhX3sB9' image='/svg/soon.svg' />
+        <Point title='Oficina de turismo' url='https://goo.gl/maps/P3iA52r5CXhhX3sB9' image='/pointofinterest/infoturistica.jpg' />
         <Point title='Cascada del arroyo "El Gaucho"' url='https://goo.gl/maps/LyyE3iVEAyCcTA5S9' image='/svg/soon.svg' />
         <Point title='Puente del arroyo' url='https://goo.gl/maps/CEKuZXf9ov6Gq9pW7' image='/svg/soon.svg' />
         <Point title='Albúfera Playa' url='https://goo.gl/maps/yK3amKGpdQkoZDJu6' image='/reta-img/imagen-reta (45).webp' />
