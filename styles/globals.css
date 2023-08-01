@@ -2122,6 +2122,7 @@ margin-bottom: 1rem;
   position: relative;
   top: 10rem;
   margin: var(--margin);
+  margin-bottom: 15rem;
 }
 
 .grid-points .point {
@@ -2193,6 +2194,7 @@ margin-bottom: 1rem;
   .grid-points {
     grid-template-columns: repeat(1, 1fr);
     margin: 1rem;
+    margin-bottom: 15rem;
   }
 }
 @media (max-width: 375px) {

@@ -4,6 +4,8 @@ import OtherNav from "../src/app/containers/others-navbar";
 import Script from "next/script";
 import '../styles/globals.css'
 import Point from "../src/app/components/pointofinterest";
+import CtaSection from "../src/app/containers/cta-section";
+import Footer from "../src/app/containers/footer";
 
 export default function PointOfInterest() {
   return (
@@ -50,22 +52,32 @@ export default function PointOfInterest() {
       <div className="grid-points">
 
 
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
-        <Point title='Barco Hundido' url='#' image='/turismo/barcohundido.jpg' />
+        <Point title='Entrada de Reta (Arco)' url='#' image='/reta-img/imagen-reta (15).webp' />
+        <Point title='Túnel submedanal' url='#' image='/reta-img/imagen-reta (12).webp' />
+        <Point title='Mirador de la Albúfera' url='#' image='/svg/soon.svg' />
+        <Point title='Anfiteatro' url='#' image='/svg/soon.svg' />
+        <Point title='Camping' url='#' image='/svg/soon.svg' />
+        <Point title='Bajada a la playa con vehículo' url='#' image='/svg/soon.svg' />
+        <Point title='Centro Comercial y Cultural Palmera´s Center' url='#' image='/svg/soon.svg' />
+        <Point title='Centro de Salud' url='#' image='/svg/soon.svg' />
+        <Point title='Delegación municipal' url='#' image='/svg/soon.svg' />
+        <Point title='Plaza principal' url='#' image='/svg/soon.svg' />
+        <Point title='Comisaría' url='#' image='/svg/soon.svg' />
+        <Point title='Bomberos' url='#' image='/svg/soon.svg' />
+        <Point title='Museo y Fototeca de Reta' url='#' image='/svg/as.svg' />
+        <Point title='Oficina de turismo' url='#' image='/svg/soon.svg' />
+        <Point title='Cascada del arroyo "El Gaucho"' url='#' image='/svg/soon.svg' />
+        <Point title='Puente del arroyo' url='#' image='/svg/soon.svg' />
+        <Point title='Albúfera Playa' url='#' image='/reta-img/imagen-reta (45).webp' />
+        <Point title='Reserva Natural' url='#' image='/svg/soon.svg' />
+        <Point title='Copetonas' url='#' image='/svg/soon.svg' />
+        <Point title='Iglesia' url='#' image='/svg/soon.svg' />
 
 
       </div>
+
+      <CtaSection />
+      <Footer />
     </>
   )
 }
