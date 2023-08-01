@@ -61,7 +61,7 @@ export default function PointOfInterest() {
         <Point title='Centro Comercial y Cultural Palmera´s Center' url='https://goo.gl/maps/pbxXWYctf6cvZTah6' image='/pointofinterest/palmeras.jpg' />
         <Point title='Centro de Salud Municipal' url='https://goo.gl/maps/RuhMV32SbpfaXnN87' image='/pointofinterest/centrosalud.jpg' />
         <Point title='Delegación municipal' url='https://goo.gl/maps/9Sqpz3pdP6rn22tA8' image='/pointofinterest/delegacion.jpg' />
-        <Point title='Plaza principal' url='https://goo.gl/maps/8QcoMjJoY31iTCzy5' image='/svg/soon.svg' />
+        <Point title='Plaza principal' url='https://goo.gl/maps/8QcoMjJoY31iTCzy5' image='/pointofinterest/plaza.jpg' />
         <Point title='Comisaría' url='https://goo.gl/maps/i3qq4LYCFzQh1XpS9' image='/pointofinterest/comisaria.jpg' />
         <Point title='Bomberos' url='https://goo.gl/maps/z1fdqgQqhA3ms7WA8' image='/pointofinterest/bomberos.jpg' />
         <Point title='Museo y Fototeca de Reta' url='https://goo.gl/maps/UUz4PCgJt8a2JHLv6' image='/svg/as.svg' />
@@ -72,6 +72,7 @@ export default function PointOfInterest() {
         <Point title='Reserva Natural' url='https://goo.gl/maps/QYxSdynRNxQvcswN8' image='/pointofinterest/reserva.jpg' />
         <Point title='Copetonas' url='https://goo.gl/maps/QMcFaZrAtmbqNYd88' image='/pointofinterest/copetonas.jpg' />
         <Point title='Iglesia Catolica Apostolica - Agustinos Recoletos-' url='https://goo.gl/maps/nTDCXB6Q2z98RQqPA' image='/pointofinterest/iglesia.jpg' />
+        <Point title='Farmacia' url='https://goo.gl/maps/2xgFeej9ZjbydZN17' image='/svg/soon.svg' />
 
 
       </div>
