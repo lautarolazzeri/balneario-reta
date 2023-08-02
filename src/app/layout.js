@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
         <meta name="twitter:site" content="@BalnearioRetaOficial" />
         <meta name="twitter:title" content="Balneario Reta Oficial - Alojamiento, Servicios, Información y más..." />
         <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
-        <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
+        <meta name="twitter:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta%20(51).webp" />
 
         <meta name="title" content="Reta - Los mejores Alojamientos, Servicios, Información y más..." />
         <meta name="description" content="Página oficial de RETA. Cabañas en alquiler, alojamientos, atracciones turísticas, información de reta, eventos y muchas imágenes en un solo lugar" />
@@ -40,8 +40,8 @@ export default function RootLayout({ children }) {
         <meta property="og:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
         <meta property="og:locale" content="es" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://balnearioreta.vercel.app" />
-        <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />
+        <meta property="og:url" content="https://balnearioretaoficial.com.ar" />
+        <meta property="og:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta (51).webp" />
         <meta property="og:site_name" content="Balneario Reta Oficial" />
 
 
