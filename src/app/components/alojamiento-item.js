@@ -6,13 +6,13 @@ export default function AlojamientoItem(props) {
   return (
     <div className="service">
       <div className="image-service">
-        <Link href={itemFollow}> <Image src={itemImage} alt={'cabañas de ' + title} width={630} height={420} /></Link>
+        <Link target="_blank" href={itemFollow}> <Image src={itemImage} alt={'cabañas de ' + title} width={630} height={420} /></Link>
       </div>
       <div className="info-service">
-        <Link href={itemFollow}><h3>{title}</h3></Link>
+        <Link target="_blank" href={itemFollow}><h3>{title}</h3></Link>
         <p className="direction">{direction}</p>
         <p className="texto-service">{info}</p>
-        <Link href={whatsapp}>
+        <Link target="_blank" href={whatsapp}>
           <button>
             <div className="button-text-2 whatsapp">
               <Image src="/svg/whatsapp.svg" alt="Whatsapp-Logo" width={20} height={20} />
@@ -20,7 +20,7 @@ export default function AlojamientoItem(props) {
             </div>
           </button>
         </Link>
-        <Link href={phone}>
+        <Link target="_blank" href={phone}>
           <button>
             <div className="button-text-2 phone">
               <Image src="/svg/phone.svg" alt="Phone-Logo" width={20} height={20} />
@@ -28,7 +28,7 @@ export default function AlojamientoItem(props) {
             </div>
           </button>
         </Link>
-        <Link href={correo}>
+        <Link target="_blank" href={correo}>
           <button>
             <div className="button-text-2 correo">
               <Image src="/svg/correo.svg" alt="Correo-Logo" width={20} height={20} />
