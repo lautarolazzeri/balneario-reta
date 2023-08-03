@@ -2,11 +2,8 @@ import CtaSection from "../../src/app/containers/cta-section";
 import Footer from "../../src/app/containers/footer";
 import OtherNav from "../../src/app/containers/others-navbar";
 import { useState } from "react";
-import Slideshow from "yet-another-react-lightbox/plugins/slideshow";
-import Thumbnails from "yet-another-react-lightbox/plugins/thumbnails";
 import "yet-another-react-lightbox/plugins/thumbnails.css";
 import PhotoAlbum from "react-photo-album";
-import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 import '../../styles/globals.css'
 import "yet-another-react-lightbox/plugins/thumbnails.css";
@@ -18,8 +15,6 @@ import Script from "next/script";
 
 
 export default function Marsu() {
-  const [index, setIndex] = useState(-1);
-
 
   const casitadeinesimages = [
     { url: "/alquileres/lacasitadeines/casitadeines1.jpg", width: 1300, height: 1000 },

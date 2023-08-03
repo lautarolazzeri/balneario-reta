@@ -59,7 +59,7 @@ export default function ServicesPage() {
 
         <ServiceItem title='Cabañas Marsu' direction='Calle 38 entre 15 y 17' info='Cabañas Marsu es la opción perfecta para disfrutar de unas vacaciones inolvidables. Ubicadas a solo dos cuadras del mar, ofrecen una comodidad excepcional y cuentan con un parque equipado con juegos para toda la familia.' urldirection='https://goo.gl/maps/8TKTsZ7gVV3qQH229' serviceImage='/alquileres/marsu/cabañasmarsu9.jpg' />
 
-        <ServiceItem title='Próximamente' direction='Próximamente' info='Sabemos lo importante que es para ustedes encontrar contenido relevante y útil, por lo que estamos trabajando diligentemente para ofrecerles artículos detallados, guías informativas y recursos prácticos relacionados con nuestros servicios.' urldirection='#' serviceImage='/svg/soon.svg' />
+        <ServiceItem title='La casita rosada de Ines' direction='Calle 54 esquina 29' info='La casita rosada de Ines es un alojamiento para 4 personas ubicada en frente de la plaza principal de Reta, a 2 cuadras de la playa, y a dos cuadras del centro.  ' urldirection='https://goo.gl/maps/5w8a1XRAoMqaV7B19' serviceImage='/alquileres/lacasitadeines/casitadeines1.jpg' />
 
         <ServiceItem title='Próximamente' direction='Próximamente' info='Entendemos que el tiempo es valioso, por lo que estamos trabajando incansablemente para entregarles contenido original y de calidad. Nuestro objetivo es proporcionarles soluciones a sus necesidades, respuestas a sus preguntas y una experiencia gratificante mientras navegan por nuestro sitio.' urldirection='#' serviceImage='/svg/soon.svg' />
 
