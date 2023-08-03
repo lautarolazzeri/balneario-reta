@@ -8,4 +8,5 @@ Allow: https://balnearioreta.vercel.app/turismo
 Allow: https://balnearioreta.vercel.app/sobre-balneario-reta
 
 Allow: https://balnearioreta.vercel.app/alojamientos/marsu
+Allow: https://balnearioretaoficial.com.ar/alojamientos/lacasitadeines
 Sitemap: https://balnearioreta.vercel.app/sitemap.xml
