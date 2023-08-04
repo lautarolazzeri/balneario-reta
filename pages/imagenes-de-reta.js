@@ -29,7 +29,7 @@ export default function ImagenesPage() {
         <meta name="twitter:site" content="@BalnearioRetaOficial" />
         <meta name="twitter:title" content="Balneario Reta Oficial - Mira las mejores imagenes de Balneario Reta!" />
         <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
-        <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
+        <meta name="twitter:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta%20(51).webp" />
         <meta http-equiv="content-language" content="AR" />
 
         <meta name="title" content="Mira las mejores imagenes de Balneario Reta" />
@@ -45,14 +45,14 @@ export default function ImagenesPage() {
         <meta property="og:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Mira las mejores imagenes de Reta compartidas por los usuarios!" />
         <meta property="og:locale" content="AR" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://balnearioreta.vercel.app" />
+        <meta property="og:url" content="https://balnearioretaoficial.com.ar" />
         <meta property="og:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta%20(51).webp" />
         <meta property="og:site_name" content="Balneario Reta Oficial" />
 
 
         <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
           crossorigin="anonymous"></Script>
-        <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioreta.vercel.app", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
+        <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioretaoficial.com.ar", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
 
 
       </Head>

@@ -20,7 +20,7 @@ export default function Turismo() {
         <meta name="twitter:site" content="@BalnearioRetaOficial" />
         <meta name="twitter:title" content="Balneario Reta Oficial - Conoce los mejores lugares para visitar en Balnerio Reta y alrededores" />
         <meta name="twitter:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Explora alojamientos, atracciones turísticas, información interesante, eventos, festivales y muchas imágenes." />
-        <meta name="twitter:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta%20(51).webp" />
+        <meta name="twitter:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta%20(51).webp" />
 
         <meta http-equiv="content-language" content="es" />
         <meta name="title" content="Lugares turísticos en Reta y alrededores" />
@@ -36,8 +36,8 @@ export default function Turismo() {
         <meta property="og:description" content="Página oficial de Balneario Reta, tu guía turistica de Reta. Visita los lugares turisticos que tiene para ofrecer Balneario Reta y sus alrededores, consulta los lugares en google maps" />
         <meta property="og:locale" content="es" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://balnearioreta.vercel.app" />
-        <meta property="og:image" content="https://balnearioreta.vercel.app/reta-img/imagen-reta (51).webp" />
+        <meta property="og:url" content="https://balnearioretaoficial.com.ar" />
+        <meta property="og:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta (51).webp" />
         <meta property="og:site_name" content="Balneario Reta Oficial" />
         <meta http-equiv="content-language" content="AR" />
 
@@ -45,7 +45,7 @@ export default function Turismo() {
 
         <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
           crossorigin="anonymous"></Script>
-        <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioreta.vercel.app", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
+        <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioretaoficial.com.ar", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
 
       </Head>
         <OtherNav />

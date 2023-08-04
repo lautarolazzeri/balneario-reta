@@ -1,12 +1,12 @@
 User-Agent: *
 Allow: /
-Allow: https://balnearioreta.vercel.app/
-Allow: https://balnearioreta.vercel.app/servicios
-Allow: https://balnearioreta.vercel.app/imagenes-de-reta
-Allow: https://balnearioreta.vercel.app/eventos
-Allow: https://balnearioreta.vercel.app/turismo
-Allow: https://balnearioreta.vercel.app/sobre-balneario-reta
+Allow: https://balnearioretaoficial.com.ar/
+Allow: https://balnearioretaoficial.com.ar/servicios
+Allow: https://balnearioretaoficial.com.ar/imagenes-de-reta
+Allow: https://balnearioretaoficial.com.ar/eventos
+Allow: https://balnearioretaoficial.com.ar/turismo
+Allow: https://balnearioretaoficial.com.ar/sobre-balneario-reta
 
-Allow: https://balnearioreta.vercel.app/alojamientos/marsu
+Allow: https://balnearioretaoficial.com.ar/alojamientos/marsu
 Allow: https://balnearioretaoficial.com.ar/alojamientos/lacasitadeines
-Sitemap: https://balnearioreta.vercel.app/sitemap.xml
+Sitemap: https://balnearioretaoficial.com.ar/sitemap.xml
