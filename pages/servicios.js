@@ -38,7 +38,7 @@ export default function ServicesPage() {
         <meta property="og:locale" content="AR" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://balnearioretaoficial.com.ar" />
-        <meta property="og:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta (51).webp" />
+        <meta property="og:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta%20(51).webp" />
         <meta property="og:site_name" content="Balneario Reta Oficial" />
 
 

@@ -35,7 +35,7 @@ export default function PointOfInterest() {
         <meta property="og:locale" content="AR" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://balnearioretaoficial.com.ar" />
-        <meta property="og:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta (51).webp" />
+        <meta property="og:image" content="https://balnearioretaoficial.com.ar/reta-img/imagen-reta%20(51).webp" />
         <meta property="og:site_name" content="Balneario Reta Oficial" />
 
         <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioretaoficial.com.ar", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
