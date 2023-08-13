@@ -14,7 +14,7 @@ import Script from "next/script";
 
 
 
-export default function Marsu() {
+export default function CasitadeInes() {
 
   const casitadeinesimages = [
     { url: "/alquileres/lacasitadeines/casitadeines1.jpg", width: 1300, height: 1000 },
@@ -46,8 +46,8 @@ export default function Marsu() {
   return (
     <>
       <Head>
-        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
-          crossorigin="anonymous"></Script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
+          crossorigin="anonymous"></script>
 
       </Head>
       <OtherNav />
