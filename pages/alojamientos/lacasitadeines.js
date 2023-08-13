@@ -74,7 +74,7 @@ export default function CasitadeInes() {
           <li>Se encuentra a 3 cuadras de la playa y a 4 cuadras de la calle principal.</li>
         </ul>
 
-        <p className="direction-place">¿Cómo contactarte con Cabañas Marsu?</p>
+        <p className="direction-place">¿Cómo contactarte con La Casita Rosada de Ines?</p>
         <div className="contact-place">
           <p><b>Teléfono:</b> +54 9 1122361254</p>
           <div className="buttons-alojamiento">
