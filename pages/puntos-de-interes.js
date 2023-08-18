@@ -29,8 +29,8 @@ export default function PointOfInterest() {
         <meta name="language" content="Spanish" />
         <meta name="revisit-after" content="15 days" />
         <meta name="author" content="Lautaro Sebastián Lazzeri" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
-          crossorigin="anonymous"></script>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
+          crossorigin="anonymous"></Script>
         <meta property="og:title" content="Balneario reta Oficial - Mira las mejores imagenes de Balneario Reta!" />
         <meta property="og:description" content="Descubre la página web de Balneario Reta, tu guía completa para conocer todo sobre Reta. Mira las mejores imagenes de Reta compartidas por los usuarios!" />
         <meta property="og:locale" content="AR" />
