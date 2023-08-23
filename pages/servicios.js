@@ -61,13 +61,9 @@ export default function ServicesPage() {
 
         <ServiceItem title='La casita rosada de Ines' direction='Calle 54 esquina 29' info='La casita rosada de Ines es un alojamiento para 4 personas ubicada en frente de la plaza principal de Reta, a 2 cuadras de la playa, y a dos cuadras del centro.  ' urldirection='https://goo.gl/maps/5w8a1XRAoMqaV7B19' serviceImage='/alquileres/lacasitadeines/casitadeines1.jpg' />
 
-        <ServiceItem title='Próximamente' direction='Próximamente' info='Entendemos que el tiempo es valioso, por lo que estamos trabajando incansablemente para entregarles contenido original y de calidad. Nuestro objetivo es proporcionarles soluciones a sus necesidades, respuestas a sus preguntas y una experiencia gratificante mientras navegan por nuestro sitio.' urldirection='#' serviceImage='/svg/soon.svg' />
-
-        <ServiceItem title='Próximamente' direction='Próximamente' info='Apreciamos su paciencia mientras mejoramos continuamente nuestra página web. Estamos seguros de que pronto podrán disfrutar de un contenido completo y enriquecedor que satisfará sus expectativas.' urldirection='#' serviceImage='/svg/soon.svg' />
-
-        <ServiceItem title='Próximamente' direction='Próximamente' info='Mientras tanto, les invitamos a explorar otras secciones de nuestro sitio web, donde encontrarán información relevante sobre Baleario Reta, Su historia y mucho mas.' urldirection='#' serviceImage='/svg/soon.svg' />
-
-        <ServiceItem title='Próximamente' direction='Próximamente' info='Gracias por visitarnos y por su comprensión. Estamos emocionados de compartir con ustedes nuestro contenido definitivo muy pronto.' urldirection='#' serviceImage='/svg/soon.svg' />
+        <ServiceItem title='Cabañas Mabi' direction='Calle 40 entre 19 y 21' urldirection='https://goo.gl/maps/8LsFu8Cepu3Njbu57' serviceImage='/alquileres/mabi/mabi13.jpg'
+          info='Cabañas Mabi es un complejo de 3 cabañas muy bien ubicadas, a 3 cuadras de la playa y a 500 metros del centro comercial. Cada cabaña cuenta con baño completo, cocina comedor, heladera con freezer, microondas, vajilla completa, cocina completa, termo tanque de recuperación rápida, cochera cubierta y más...'
+        />
 
       </div>
 

@@ -2333,9 +2333,10 @@ margin-bottom: 1rem;
   text-align: center;
 }
 
-a.more-link {
+button.more-link {
   text-transform: uppercase;
   font-size: 13px;
+  border: none;
   background: var(--linear-gradient);
   padding: 10px 15px;
   border-radius: 8px;
@@ -2345,6 +2346,5 @@ a.more-link {
   margin-bottom: 5px;
   line-height: 1.5;
   text-decoration: none;
-  margin-top: 50px;
   letter-spacing: 1px;
 }

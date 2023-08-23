@@ -17,7 +17,12 @@ export default function NotHave() {
         <h3>UPS! se ve que el servicio que intentaste acceder no tiene esa forma de contacto...</h3>
         <p class="zoom-area">Cierra esta pestaña y prueba con otro método!</p>
         <div class="link-container">
-          <Link href="/" class="more-link">Volver al inicio</Link>
+          <button onClick={
+            () => {
+              //close tab
+              window.close();
+            }
+          } class="more-link">Volver atrás</button>
         </div>
       </div>
 
