@@ -65,6 +65,9 @@ export default function ServicesPage() {
           info='Cabañas Mabi es un complejo de 3 cabañas muy bien ubicadas, a 3 cuadras de la playa y a 500 metros del centro comercial. Cada cabaña cuenta con baño completo, cocina comedor, heladera con freezer, microondas, vajilla completa, cocina completa, termo tanque de recuperación rápida, cochera cubierta y más...'
         />
 
+        <ServiceItem title='Complejo Luan' direction='Calle 42 y 15' info='Somos un emprendimiento que cuenta con un complejo de unidades funcionales , el cual se caracteriza por ser un lugar familiar y acogedor,con todas las comodidades y servicios necesarios para disfrutar de unas merecidas vacaciones.
+        Con una excelente ubicación a tan solo una cuadra de la playa, atención personalizada por parte de sus dueños , quienes se esmeran por brindar a sus huéspedes una agradable estadía.' urldirection='https://goo.gl/maps/Afk5vzz69j4AbhTp8' serviceImage='/alquileres/luan/luan6.jpg' />
+
       </div>
 
       <div className='else'>
