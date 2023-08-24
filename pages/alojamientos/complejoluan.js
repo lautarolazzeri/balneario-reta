@@ -53,7 +53,7 @@ export default function Marsu() {
   return (
     <>
       <Head>
-        <title>Cabañas Luan</title>
+        <title>Complejo Luan</title>
         <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7215423654996673"
           crossorigin="anonymous"></Script>
 
