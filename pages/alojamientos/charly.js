@@ -25,7 +25,7 @@ export default function Charly() {
     { url: "/alquileres/charly/charly7.webp", width: 1000, height: 1000 },
     { url: "/alquileres/charly/charly8.webp", width: 1400, height: 1000 },
     { url: "/alquileres/charly/charly9.webp", width: 1100, height: 1000 },
-    { url: "/alquileres/charly/charly12.webp", width: 1400, height: 1000 },
+    { url: "/alquileres/charly/living2.webp", width: 1400, height: 1000 },
   ]
 
   const charlycasa3 = [
