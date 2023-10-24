@@ -68,6 +68,8 @@ export default function ServicesPage() {
         <ServiceItem title='Complejo Luan' direction='Calle 42 y 15' info='Somos un emprendimiento que cuenta con un complejo de unidades funcionales , el cual se caracteriza por ser un lugar familiar y acogedor,con todas las comodidades y servicios necesarios para disfrutar de unas merecidas vacaciones.
         Con una excelente ubicación a tan solo una cuadra de la playa, atención personalizada por parte de sus dueños , quienes se esmeran por brindar a sus huéspedes una agradable estadía.' urldirection='https://goo.gl/maps/Afk5vzz69j4AbhTp8' serviceImage='/alquileres/luan/luan6.jpg' />
 
+        <ServiceItem title='Propiedades Charly' direction='Calle 15 entre 40 y 38' info='Propiedades Charly es un complejo de 3 cabañas para 5 personas cada una, ubicadas a tan solo 1 cuadra de la playa, cada cabaña esta totalmente equipada para pasar la mejor estadía posible, atendida por sus dueños.' urldirection='https://maps.app.goo.gl/hmTQckvYCtKQRuzX9' serviceImage='/alquileres/charly/charly11.webp' />
+
       </div>
 
       <div className='else'>

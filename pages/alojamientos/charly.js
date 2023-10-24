@@ -1,11 +1,8 @@
 import CtaSection from "../../src/app/containers/cta-section";
 import Footer from "../../src/app/containers/footer";
 import OtherNav from "../../src/app/containers/others-navbar";
-import "yet-another-react-lightbox/plugins/thumbnails.css";
 import PhotoAlbum from "react-photo-album";
-import "yet-another-react-lightbox/styles.css";
 import '../../styles/globals.css'
-import "yet-another-react-lightbox/plugins/thumbnails.css";
 import { breakpoints } from "../../src/app/constants/constants";
 import Link from "next/link";
 import Head from "next/head";
