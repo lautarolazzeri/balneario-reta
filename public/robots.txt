@@ -11,4 +11,5 @@ Allow: https://balnearioretaoficial.com.ar/alojamientos/marsu
 Allow: https://balnearioretaoficial.com.ar/alojamientos/lacasitadeines
 Allow: https://balnearioretaoficial.com.ar/alojamientos/mabi
 Allow: https://balnearioretaoficial.com.ar/alojamientos/complejoluan
+Allow: https://balnearioretaoficial.com.ar/alojamientos/charly
 Sitemap: https://balnearioretaoficial.com.ar/sitemap.xml

@@ -8,12 +8,12 @@ function Imagenes() {
         <h1 className="">Imágenes de Balneario Reta</h1>
       </div>
       <div className="grid-images">
-        <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (1).webp" alt="imagen de Reta" width={300} height={300} />
+        <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (24).webp" alt="imagen de Reta" width={300} height={300} />
         <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (53).webp" alt="imagen de Reta" width={300} height={300} />
         <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (52).webp" alt="imagen de Reta" width={300} height={300} />
         <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (62).webp" alt="imagen de Reta" width={300} height={300} />
         <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (65).webp" alt="imagen de Reta" width={300} height={300} />
-        <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (42).webp" alt="imagen de Reta" width={300} height={300} />
+        <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (15).webp" alt="imagen de Reta" width={300} height={300} />
         <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (56).webp" alt="imagen de Reta" width={300} height={300} />
         <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (67).webp" alt="imagen de Reta" width={300} height={300} />
         <Image placeholder="/svg/blur.svg" src="/reta-img/imagen-reta (70).webp" alt="imagen de Reta" width={300} height={300} />
