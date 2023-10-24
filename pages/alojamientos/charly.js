@@ -15,22 +15,34 @@ import Script from "next/script";
 
 export default function Charly() {
 
-  const charlyimages = [
-    { url: "/alquileres/charly/charly11.webp", width: 1400, height: 1000 },
-    { url: "/alquileres/charly/charly10.webp", width: 1400, height: 1000 },
-    { url: "/alquileres/charly/charly13.webp", width: 1400, height: 1100 },
-    { url: "/alquileres/charly/charly14.webp", width: 1400, height: 1000 },
+  const charlycasa1 = [
+    { url: "/alquileres/charly/charly1.webp", width: 800, height: 1000 },
     { url: "/alquileres/charly/charly2.webp", width: 700, height: 800 },
     { url: "/alquileres/charly/charly3.webp", width: 800, height: 1000 },
+    { url: "/alquileres/charly/charly15.webp", width: 1300, height: 1000 },
+    { url: "/alquileres/charly/charly12.webp", width: 1300, height: 1000 },
+  ]
+
+  const charlycasa2 = [
     { url: "/alquileres/charly/charly4.webp", width: 1300, height: 1000 },
-    { url: "/alquileres/charly/charly5.webp", width: 1300, height: 1000 },
-    { url: "/alquileres/charly/charly1.webp", width: 800, height: 1000 },
     { url: "/alquileres/charly/charly7.webp", width: 1000, height: 1000 },
     { url: "/alquileres/charly/charly8.webp", width: 1400, height: 1000 },
     { url: "/alquileres/charly/charly9.webp", width: 1100, height: 1000 },
+    { url: "/alquileres/charly/charly15.webp", width: 1300, height: 1000 },
+    { url: "/alquileres/charly/charly12.webp", width: 1400, height: 1000 },
   ]
 
-  const charlypic = charlyimages.map((photo) => {
+  const charlycasa3 = [
+    { url: "/alquileres/charly/charly11.webp", width: 1400, height: 1000 },
+    { url: "/alquileres/charly/charly6.webp", width: 800, height: 1000 },
+    { url: "/alquileres/charly/charly13.webp", width: 1400, height: 1100 },
+    { url: "/alquileres/charly/charly14.webp", width: 1400, height: 1000 },
+    { url: "/alquileres/charly/charly5.webp", width: 1300, height: 1000 },
+    { url: "/alquileres/charly/charly12.webp", width: 1300, height: 1000 },
+
+  ]
+
+  const imgcharlycasa1 = charlycasa1.map((photo) => {
     const width = breakpoints[0];
     const height = (photo.height / photo.width) * width;
 
@@ -38,7 +50,47 @@ export default function Charly() {
       src: photo.url,
       width,
       height,
-      alt: "Cabañas en reta - Complejo Luan",
+      alt: "Cabañas en reta - Propiedades Charly",
+      srcSet: breakpoints.map((breakpoint) => {
+        const height = Math.round((photo.height / photo.width) * breakpoint);
+        return {
+          src: photo.url,
+          width: breakpoint,
+          height,
+        };
+      }),
+    };
+  });
+
+  const imgcharlycasa2 = charlycasa2.map((photo) => {
+    const width = breakpoints[0];
+    const height = (photo.height / photo.width) * width;
+
+    return {
+      src: photo.url,
+      width,
+      height,
+      alt: "Cabañas en reta - Propiedades Charly",
+      srcSet: breakpoints.map((breakpoint) => {
+        const height = Math.round((photo.height / photo.width) * breakpoint);
+        return {
+          src: photo.url,
+          width: breakpoint,
+          height,
+        };
+      }),
+    };
+  });
+
+  const imgcharlycasa3 = charlycasa3.map((photo) => {
+    const width = breakpoints[0];
+    const height = (photo.height / photo.width) * width;
+
+    return {
+      src: photo.url,
+      width,
+      height,
+      alt: "Cabañas en reta - Propiedades Charly",
       srcSet: breakpoints.map((breakpoint) => {
         const height = Math.round((photo.height / photo.width) * breakpoint);
         return {
@@ -63,17 +115,19 @@ export default function Charly() {
         <Link href="/alojamientos">Volver atrás</Link>
         <h3>Propiedades Charly</h3>
         <p className="direction-place">Calle 15 entre 40 y 38</p>
-        <h6>Ideal ubicación a una cuadra de la playa</h6>
+        <h6>Ideal ubicación a una cuadra de la playa, 3 cabañas para 5 personas cada una</h6>
         <ul>
           <li> Amplio parque arbolado de 480 m2 con juego de mes y sillas. </li>
           <li> Disponemos de dos casas para <strong>5 personas</strong> cada una con cocina y amplio comedor.</li>
           <li> Con termotanque.</li>
+          <li> DirecTv</li>
+          <li> WIFI</li>
           <li> Dormitorio principal con cama matrimonial y otro con comodidad para 3 personas.</li>
           <li> Ambos con Placards.</li>
           <li> Baño completo.</li>
           <li> Ambas casas cuentan con DTV y microondas.</li>
           <li> Equipado con disyuntor automático de corriente ideal para la seguridad de sus hijos.</li>
-          <li> Parque para estacionar el auto con gacebo para protegerlo.</li>
+          <li> Parque para estacionar el auto con cochera cubierta para protegerlo.</li>
           <li> Parrilla y pileta individual.</li>
         </ul>
 
@@ -91,8 +145,20 @@ export default function Charly() {
               </div></Link>
           </div>
         </div>
+        <p>Casa 1</p>
+        <br />
+        <PhotoAlbum layout="rows" photos={imgcharlycasa1} spacing={8} padding={0} targetRowHeight={400} />
+        <br />
 
-        <PhotoAlbum layout="rows" photos={charlypic} spacing={8} padding={0} targetRowHeight={400} />
+        <p>Casa 2</p>
+        <br />
+        <PhotoAlbum layout="rows" photos={imgcharlycasa2} spacing={8} padding={0} targetRowHeight={400} />
+        <br />
+
+        <p>Casa 3</p>
+        <br />
+        <PhotoAlbum layout="rows" photos={imgcharlycasa3} spacing={8} padding={0} targetRowHeight={400} />
+
 
       </div>
 
