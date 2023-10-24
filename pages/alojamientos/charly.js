@@ -25,7 +25,6 @@ export default function Charly() {
     { url: "/alquileres/charly/charly7.webp", width: 1000, height: 1000 },
     { url: "/alquileres/charly/charly8.webp", width: 1400, height: 1000 },
     { url: "/alquileres/charly/charly9.webp", width: 1100, height: 1000 },
-    { url: "/alquileres/charly/charly15.webp", width: 1300, height: 1000 },
     { url: "/alquileres/charly/charly12.webp", width: 1400, height: 1000 },
   ]
 
@@ -34,8 +33,9 @@ export default function Charly() {
     { url: "/alquileres/charly/charly6.webp", width: 800, height: 1000 },
     { url: "/alquileres/charly/charly13.webp", width: 1400, height: 1100 },
     { url: "/alquileres/charly/charly14.webp", width: 1400, height: 1000 },
-    { url: "/alquileres/charly/charly5.webp", width: 1300, height: 1000 },
-    { url: "/alquileres/charly/charly12.webp", width: 1300, height: 1000 },
+    { url: "/alquileres/charly/cocina3.webp", width: 800, height: 1000 },
+    { url: "/alquileres/charly/living.webp", width: 1300, height: 1000 },
+    { url: "/alquileres/charly/pieza.webp", width: 1300, height: 1000 },
 
   ]
 
@@ -117,12 +117,10 @@ export default function Charly() {
           <li> Amplio parque arbolado de 480 m2 con juego de mes y sillas. </li>
           <li> Disponemos de dos casas para <strong>5 personas</strong> cada una con cocina y amplio comedor.</li>
           <li> Con termotanque.</li>
-          <li> DirecTv</li>
-          <li> WIFI</li>
           <li> Dormitorio principal con cama matrimonial y otro con comodidad para 3 personas.</li>
           <li> Ambos con Placards.</li>
           <li> Baño completo.</li>
-          <li> Ambas casas cuentan con DTV y microondas.</li>
+          <li> Todas las casas cuentan con WIFI, DTV y microondas.</li>
           <li> Equipado con disyuntor automático de corriente ideal para la seguridad de sus hijos.</li>
           <li> Parque para estacionar el auto con cochera cubierta para protegerlo.</li>
           <li> Parrilla y pileta individual.</li>
