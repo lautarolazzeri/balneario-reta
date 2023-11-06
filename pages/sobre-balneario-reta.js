@@ -7,6 +7,7 @@ import CtaSection from "../src/app/containers/cta-section";
 import Script from "next/script";
 import Head from "next/head";
 import Link from "next/link";
+import { Analytics } from '@vercel/analytics/react';
 
 export default function SobreBalnearioReta() {
 
@@ -53,6 +54,7 @@ export default function SobreBalnearioReta() {
 
 
       </Head>
+      <Analytics />
       <OtherNav />
       <article className="below-nav">
         <div className="info-reta" >

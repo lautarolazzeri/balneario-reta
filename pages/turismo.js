@@ -8,6 +8,7 @@ import Script from "next/script";
 import TourismItem from "../src/app/components/tourism-item";
 import Head from "next/head";
 import { Html } from "next/document";
+import { Analytics } from '@vercel/analytics/react';
 
 export default function Turismo() {
   return (
@@ -48,6 +49,8 @@ export default function Turismo() {
         <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioretaoficial.com.ar", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
 
       </Head>
+      <Analytics />
+
         <OtherNav />
         <div className="tourism-page" >
           <div className="top-tourism-page">

@@ -6,6 +6,8 @@ import { currentYear } from "../src/app/constants/constants";
 import AlojamientoItem from "../src/app/components/alojamiento-item";
 import Head from "next/head";
 import Script from "next/script";
+import { Analytics } from '@vercel/analytics/react';
+
 export default function AlojamientosReta() {
   return (
     <>
@@ -45,6 +47,7 @@ export default function AlojamientosReta() {
         <Script type="application/ld+json">{{ "@context": "http://schema.org", "@type": "Organization", "name": "Balneario Reta Oficial", "url": "https://balnearioretaoficial.com.ar", "address": "", "sameAs": ["https://www.facebook.com/balnearioretaoficial", "https://www.instagram.com/balnearioreta_oficial"] }}</Script>
 
       </Head>
+      <Analytics />
       <OtherNav />
       <div className="services-section">
         <h1>Encuentra los mejores alojamientos en alquileres de Balneario Reta</h1>

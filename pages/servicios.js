@@ -6,6 +6,7 @@ import Footer from "../src/app/containers/footer";
 import { currentYear } from "../src/app/constants/constants";
 import Script from "next/script";
 import Head from "next/head";
+import { Analytics } from '@vercel/analytics/react';
 
 export default function ServicesPage() {
 
@@ -50,6 +51,7 @@ export default function ServicesPage() {
 
 
       </Head>
+      <Analytics />
       <OtherNav />
       <div className="services-section">
         <h1>Servicios de Reta {currentYear}</h1>

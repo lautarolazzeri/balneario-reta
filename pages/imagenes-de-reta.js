@@ -15,6 +15,7 @@ import Footer from "../src/app/containers/footer";
 import Script from "next/script";
 import Link from "next/link";
 import Head from "next/head";
+import { Analytics } from '@vercel/analytics/react';
 
 
 export default function ImagenesPage() {
@@ -56,6 +57,7 @@ export default function ImagenesPage() {
 
 
       </Head>
+      <Analytics />
       <OtherNav />
       <div className="tourism-page" >
         <div className="top-tourism-page">

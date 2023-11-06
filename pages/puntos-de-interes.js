@@ -6,6 +6,7 @@ import '../styles/globals.css'
 import Point from "../src/app/components/pointofinterest";
 import CtaSection from "../src/app/containers/cta-section";
 import Footer from "../src/app/containers/footer";
+import { Analytics } from '@vercel/analytics/react';
 
 export default function PointOfInterest() {
   return (
@@ -43,6 +44,7 @@ export default function PointOfInterest() {
 
 
       </Head>
+      <Analytics />
       <OtherNav />
       <div className="tourism-page" >
         <div className="top-tourism-page">

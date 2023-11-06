@@ -7,6 +7,7 @@ import { breakpoints } from "../../src/app/constants/constants";
 import Link from "next/link";
 import Head from "next/head";
 import Script from "next/script";
+import { Analytics } from '@vercel/analytics/react';
 
 
 
@@ -107,6 +108,7 @@ export default function Charly() {
           crossorigin="anonymous"></Script>
 
       </Head>
+      <Analytics />
       <OtherNav />
       <div className="single-place">
         <Link href="/alojamientos">Volver atrás</Link>
