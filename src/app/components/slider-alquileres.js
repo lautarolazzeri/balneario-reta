@@ -62,6 +62,8 @@ function SliderMaxWidth() {
         <SliderItem url='/alojamientos/complejoluan' title='Complejo Luan' people='4 personas' location='Calle 42 y 15' wsp='https://api.whatsapp.com/send?phone=5491134778212&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/complejoluan%0A%0AQuisiera%20saber:%20' tel='tel:01134778212' image='/alquileres/luan/luan6.jpg' />
 
         <SliderItem url='/alojamientos/charly' title='Propiedades Charly' people='5 personas' location='Calle 15 entre 40 y 38' wsp='https://api.whatsapp.com/send?phone=5491522463350&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/charly%0A%0AQuisiera%20saber:%20' tel='tel:01522463350' image='/alquileres/charly/charly11.webp' />
+
+        <SliderItem url='/alojamientos/lamarea' title='Cabañas La Marea' people='2 a 5 personas' location='Calle 31 y 40' wsp='https://api.whatsapp.com/send?phone=5492983563857&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/lamarea%0A%0AQuisiera%20saber:%20' tel='tel:02983563857' image='/alquileres/lamarea/lamarea.webp' />
       </swiper-container>
       <Script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></Script>
     </>
