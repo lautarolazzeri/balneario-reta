@@ -33,13 +33,19 @@
 
 <url>
   <loc>https://balnearioretaoficial.com.ar/robots.txt</loc>
-  <lastmod>2023-10-24</lastmod>
+  <lastmod>2023-11-24</lastmod>
 </url>
 
 <url>
   <loc>https://balnearioretaoficial.com.ar/sitemap.xml</loc>
-  <lastmod>2023-11-06</lastmod>
+  <lastmod>2023-11-24</lastmod>
 </url>
+
+<url>
+  <loc>https://balnearioretaoficial.com.ar/alojamientos/</loc>
+  <lastmod>2023-11-24</lastmod>
+</url>
+
 
 <url>
   <loc>https://balnearioretaoficial.com.ar/alojamientos/marsu</loc>
@@ -64,5 +70,9 @@
 <url>
   <loc>https://balnearioretaoficial.com.ar/alojamientos/charly</loc>
   <lastmod>2023-11-06</lastmod>
+</url>
+<url>
+  <loc>https://balnearioretaoficial.com.ar/alojamientos/lamarea</loc>
+  <lastmod>2023-11-24</lastmod>
 </url>
 </urlset>
