@@ -66,6 +66,11 @@ export default function AlojamientosReta() {
         <AlojamientoItem itemFollow='/alojamientos/charly' itemImage='/alquileres/charly/charly11.webp' title='Propiedades Charly' direction='Calle 15 entre 40 y 38' info='Ideal ubicación a una cuadra de la playa, 3 cabañas para 5 personas cada una. Cada cabaña cuenta con baño completo, cocina comedor, heladera con freezer, microondas, termo tanque de recuperación rápida, cochera cubierta y más...' whatsapp='https://api.whatsapp.com/send?phone=5491522463350&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/charly%0A%0AQuisiera%20saber:%20' phone='tel:01144347646' correo='/error' />
 
         <AlojamientoItem itemFollow='/alojamientos/lamarea' itemImage='/alquileres/lamarea/lamarea.webp' title='Cabañas La Marea' direction='Calle 31 y 40' info='Cabañas LA MAREA le brinda la oportunidad de disfrutar de sus vacaciones en un ambiente de total confort y trato cordial. Es un emprendimiento familiar, atendido por sus dueños, lo que garantiza un trato personalizado, durante todo el año. Es nuestro objetivo brindarle todo lo necesario para que sus vacaciones sean lo más placenteras posible.' whatsapp='https://api.whatsapp.com/send?phone=5492983563857&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/lamarea%0A%0AQuisiera%20saber:%20' phone='tel:02983563857' correo='mailto:lamarea_reta@yahoo.com.ar' />
+
+        <AlojamientoItem itemFollow='/alojamientos/lalomada' itemImage='/alquileres/lalomada/lalomada6.jpg' title='Cabañas La Lomada' direction='Calle 25 entre 44 y 46' info='Casa para 6 personas.
+        Ubicada a una cuadra del centro y a cuatro de la playa (balneario principal). Contamos con: Patio arbolado, galería amplia/cochera, lavadero, chulengo/parrilla, vajilla completa, heladera c/frizer, microondas, etc. Mirá todas las comodidades entrando aquí!' whatsapp='https://api.whatsapp.com/send?phone=5492983616856&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/lalomada%0A%0AQuisiera%20saber:%20' phone='tel:02983616856' correo='/error' />
+
+
       </div>
 
       <div className='else'>

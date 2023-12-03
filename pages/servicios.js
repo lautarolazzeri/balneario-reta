@@ -68,9 +68,16 @@ export default function ServicesPage() {
         />
 
         <ServiceItem title='Complejo Luan' direction='Calle 42 y 15' info='Somos un emprendimiento que cuenta con un complejo de unidades funcionales , el cual se caracteriza por ser un lugar familiar y acogedor,con todas las comodidades y servicios necesarios para disfrutar de unas merecidas vacaciones.
-        Con una excelente ubicación a tan solo una cuadra de la playa, atención personalizada por parte de sus dueños , quienes se esmeran por brindar a sus huéspedes una agradable estadía.' urldirection='https://goo.gl/maps/Afk5vzz69j4AbhTp8' serviceImage='/alquileres/luan/luan6.jpg' />
+        Con una excelente ubicación a tan solo una cuadra de la playa, atención personalizada por parte de sus dueños, quienes se esmeran por brindar a sus huéspedes una agradable estadía.' urldirection='https://goo.gl/maps/Afk5vzz69j4AbhTp8' serviceImage='/alquileres/luan/luan6.jpg' />
 
         <ServiceItem title='Propiedades Charly' direction='Calle 15 entre 40 y 38' info='Propiedades Charly es un complejo de 3 cabañas para 5 personas cada una, ubicadas a tan solo 1 cuadra de la playa, cada cabaña esta totalmente equipada para pasar la mejor estadía posible, atendida por sus dueños.' urldirection='https://maps.app.goo.gl/hmTQckvYCtKQRuzX9' serviceImage='/alquileres/charly/charly11.webp' />
+
+        <ServiceItem title='Cabañas la Marea' direction='Calle 31 y 40 - Reta' info='Contamos con distintas cabañas con distintas caracteristicas de 2 a 5 personas. Conoce las características de Loft La marea Suites, Cabañas Jazmin y Lavanda, Cabañas Retama y Acacias, Cabaña Doña Margarita, Doña Elsa y Don Pablo, haciendo click aquí.' urldirection='https://maps.app.goo.gl/mrN98toLvVvP4vq5A' serviceImage='/alquileres/lamarea/lamarea.webp' />
+
+
+        <ServiceItem title='Cabañas la Lomada' direction='Calle 25 entre 44 y 46' info='Casa para 6 personas, Ubicada a una cuadra del centro y a cuatro de la playa (balneario principal). La casa cuenta con patio arbolado, galería amplia/cochera, lavadero, vajilla completa, aire acondicionado frio/calor, wiFi fibra óptica, etc. Mira todas las comodidades de La Lomada Aquí. ' urldirection='https://maps.app.goo.gl/WnbpiVH2vQ34NXtbA' serviceImage='/alquileres/lalomada/lalomada6.jpg' />
+
+
 
       </div>
 

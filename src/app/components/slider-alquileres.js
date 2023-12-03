@@ -64,6 +64,8 @@ function SliderMaxWidth() {
         <SliderItem url='/alojamientos/charly' title='Propiedades Charly' people='5 personas' location='Calle 15 entre 40 y 38' wsp='https://api.whatsapp.com/send?phone=5491522463350&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/charly%0A%0AQuisiera%20saber:%20' tel='tel:01522463350' image='/alquileres/charly/charly11.webp' />
 
         <SliderItem url='/alojamientos/lamarea' title='Cabañas La Marea' people='2 a 5 personas' location='Calle 31 y 40' wsp='https://api.whatsapp.com/send?phone=5492983563857&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/lamarea%0A%0AQuisiera%20saber:%20' tel='tel:02983563857' image='/alquileres/lamarea/lamarea.webp' />
+
+        <SliderItem url='/alojamientos/lalomada' title='Cabañas La Lomada' people='6 personas' location='Calle 25 entre 44 y 46' wsp='https://api.whatsapp.com/send?phone=5492983616856&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/lalomada%0A%0AQuisiera%20saber:%20' tel='tel:02983616856' image='/alquileres/lalomada/lalomada6.jpg' />
       </swiper-container>
       <Script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></Script>
     </>

@@ -66,10 +66,10 @@ export default function LaMarea() {
         <a className="lamarea" href="https://www.complejolamarea.com/jazmin-y-lavanda/">Cabañas Jazmin y Lavanda (3p)</a>
         <p className="lamareatext">Son dos cabañas una a continuacion de la otra, equipadas para 3 personas, 2 habitaciones, cocina completa, tv, microondas, parrilla individual techada wi-fi, espacio para estacionar no cubierto.</p>
 
-        <a className="lamarea" href="https://www.complejolamarea.com/acacias/">Cabañas Retama y Acacias(4p)</a>
+        <a className="lamarea" href="https://www.complejolamarea.com/acacias/">Cabañas Retama y Acacias (4p)</a>
         <p className="lamareatext">Cabañas independientes para 4 personas, poseen 2 habitaciones, cocina completa, equipadas con tv, microondas, parrilla individual techada, wi-fi, estacionamiento cubierto solo Acacias.</p>
 
-        <a className="lamarea" href="https://www.complejolamarea.com/elsa-y-margarita/">Cabaña Doña Margarita, Doña Elsa y Don Pablo(5p)</a>
+        <a className="lamarea" href="https://www.complejolamarea.com/elsa-y-margarita/">Cabaña Doña Margarita, Doña Elsa y Don Pablo (5p)</a>
         <p className="lamareatext">Son cabañas totalmente independientes hasta 5 personas, con 2 habitaciones con jardin privado, cocina completa, heladera con freezer, TV con DirectTv, galería techada para el auto, wi-fi y lavarropas. </p>
 
         <br></br>

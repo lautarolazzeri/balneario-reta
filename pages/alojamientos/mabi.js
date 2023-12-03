@@ -15,7 +15,7 @@ import { Analytics } from '@vercel/analytics/react';
 
 
 
-export default function Marsu() {
+export default function Mabi() {
 
   const mabiimages = [
     { url: "/alquileres/mabi/mabi.jpg", width: 1300, height: 1000 },
