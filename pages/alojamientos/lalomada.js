@@ -85,7 +85,7 @@ export default function LaLomada() {
 
         <p className="direction-place">¿Cómo contactarte con La Lomada?</p>
         <div className="contact-place">
-          <p><b>Teléfono:</b>2983643906</p>
+          <p><b>Teléfono:</b> 2983616856</p>
           <div className="buttons-alojamiento">
             <Link target="_blank" href='https://api.whatsapp.com/send?phone=542983616856&text=Hola!%20Lo%20contacto%20para%20consultar%20por:%20https://www.balnearioretaoficial.com.ar/alojamientos/lalomada%0A%0AQuisiera%20saber:%20'>
               <div className="wsp-alojamiento">
