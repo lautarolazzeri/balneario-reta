@@ -8,6 +8,7 @@ Allow: https://balnearioretaoficial.com.ar/turismo
 Allow: https://balnearioretaoficial.com.ar/alojamientos
 Allow: https://balnearioretaoficial.com.ar/sobre-balneario-reta
 
+Allow: https://balnearioretaoficial.com.ar/alojamientos/lacasadelarroyo
 Allow: https://balnearioretaoficial.com.ar/alojamientos/marsu
 Allow: https://balnearioretaoficial.com.ar/alojamientos/lacasitadeines
 Allow: https://balnearioretaoficial.com.ar/alojamientos/mabi
