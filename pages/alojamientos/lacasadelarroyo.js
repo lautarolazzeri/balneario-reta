@@ -65,6 +65,7 @@ export default function Lacasadelarroyo() {
         <ul>
           <li> Amplio parque con sillas de jardín junto al arroyo</li>
           <li> Cocina comedor.</li>
+          <li> Microondas.</li>
           <li> Parrilla chulengo.</li>
           <li> Con termotanque.</li>
           <li> Dormitorio principal con cama matrimonial.</li>
